@@ -1,0 +1,649 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: Checkout Files Upload for WooCommerce\n"
+"POT-Creation-Date: 2021-09-16 01:38-0700\n"
+"PO-Revision-Date: 2021-09-17 09:33+0000\n"
+"Last-Translator: مدیر سایت\n"
+"Language-Team: فارسی\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: checkout-files-upload-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: fa-IR\n"
+"X-Loco-Version: 2.5.3; wp-5.8.1"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-template.php:95
+msgid "\"Delete\" button style"
+msgstr "حذف استایل دکمه"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:189
+msgid "\"My Account\" page"
+msgstr "صفحه حساب کاربری من"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:182
+msgid "\"Thank You\" page"
+msgstr "صفحه ی تشکر"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:110
+#, php-format
+msgid "%s adds the ability to upload multiple files."
+msgstr "%s اضافه کردن امکان آپلود فایل به صورت چندتایی"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:233 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:242 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:252 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:269 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:278
+#, php-format
+msgid "%s will be replaced with file name"
+msgstr "%s نام فایل جایگزین می شود"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:163
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Checkout Files Upload for WooCommerce "
+"Pro</a> adds 20 more positions to choose from."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">نسخه ی پرو فرم آپلود فایل در ووکامرس</a> "
+"اضافه کردن 20 فایل بیشتر در فرم آپلود"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:58
+msgid ""
+"<em>Save changes</em>, after you change this number, to see new settings "
+"sections."
+msgstr ""
+"<em>ذخیره تغییرات</em>, پس از تغییر این شماره، بخش های تنظیمات جدید را می "
+"توانید مشاهده کنید."
+
+#: includes/class-alg-wc-checkout-files-upload.php:91 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:108
+msgid ""
+"[{site_title}] Checkout files upload action in customer order ({order_number}"
+") - {order_date}"
+msgstr ""
+"[{site_title}] - فایل های آپلود شده ی شما در ({order_number}) - {order_date} "
+"موفق بود."
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:117
+msgid "Accepted file types"
+msgstr "نوع فایل های قابل پذیرش"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:118
+msgid ""
+"Accepted file types. E.g.: \".jpg,.jpeg,.png\". Leave blank to accept all "
+"files"
+msgstr ""
+"نوع فایل های پذیرفته شده؛ برای مثال jpg و png و jpeg را وارد کنید. در صورت "
+"خالی وارد کردن همه انواع فایل را می پذیرد."
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:128
+msgid "Action: File removed"
+msgstr "اکشن: فایل حذف شد"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:136
+msgid "Action: File uploaded"
+msgstr "اکشن: فایل آپلودشده"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:184 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:191
+msgid "Add"
+msgstr "اضافه کردن"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:70
+msgid "Add progress bar"
+msgstr "اضافه کردن نوار پیشرفت"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:61
+msgid "Additional Emails Options"
+msgstr "گزینه های اضافی ایمیل "
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:290
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-template.php:78
+msgid "After"
+msgstr "بعد"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:170
+msgid "After checkout form"
+msgstr "بعد از فرم پرداخت"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:105
+msgid "Allow multiple files"
+msgstr "اجازه دادن برای آپلود فایل چندتایی"
+
+#: includes/class-alg-wc-checkout-files-upload.php:434 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:102
+msgid "Allowed file size exceeded (maximum %max_file_size% MB)."
+msgstr ""
+"اندازه مجاز فایل بیش از حدِ مجاز است؛ بیشترین اندازه %max_file_size% مگابایت "
+"می باشد"
+
+#: checkout-files-upload-woocommerce.php:163
+msgid "Are you sure you want to delete this file? This cannot be undone."
+msgstr "آیا می خواهید این فایل حذف شود؟ این قابل بازگشت نیست."
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:44 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:51 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:92
+msgid "Attach"
+msgstr "پیوست"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:91
+msgid "Attach file on upload action"
+msgstr "پیوست فایل در عملیات آپلود"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:43
+msgid "Attach files to admin's new order emails"
+msgstr "فایل های پیوست در ایمیل سفارش جدید مدیر"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:50
+msgid "Attach files to customer's processing order emails"
+msgstr "فایل های پیوست در ایمیل سفارش مشتری"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:62
+#, php-format
+msgid "Available placeholders in %s options are: %s."
+msgstr "متن جایگزین شده %s  در دسترس است؛ گزینه های %s هستند"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-template.php:43
+msgid "Before"
+msgstr "قبل"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:169
+msgid "Before checkout form"
+msgstr "قبل از فرم پرداخت"
+
+#: includes/settings/class-wc-settings-checkout-files-upload.php:24
+msgid "Checkout Files Upload"
+msgstr "آپلودِ فایلِ پرداخت"
+
+#. Plugin Name of the plugin/theme
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:47
+msgid "Checkout Files Upload for WooCommerce"
+msgstr "فرمِ آپلودِ فایل پرداخت در ووکامرس"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:112 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:64
+msgid "Checkout Files Upload for WooCommerce Pro"
+msgstr "گزینه های فایلِ آپلودِ پرداخت برای نسخه پرو ووکامرس"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:38
+msgid "Checkout Files Upload Options"
+msgstr "گزینه های فایلِ آپلودِ پرداخت"
+
+#: checkout-files-upload-woocommerce.php:216
+msgid "Checkout Files Upload Settings"
+msgstr "تنظیمات آپلودِ فایلِ پرداخت"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:162
+msgid "Checkout page"
+msgstr "صفحه پرداخت"
+
+#: includes/class-alg-wc-checkout-files-upload.php:1320 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:218
+msgid "Choose File"
+msgstr "فایلی را انتخاب کنید"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:251
+msgid "Couldn't get image dimensions"
+msgstr "نمی توان ابعاد تصویر را دریافت کرد"
+
+#: includes/class-alg-wc-checkout-files-upload.php:593 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:254
+#, php-format
+msgid "Couldn't get image dimensions: \"%s\""
+msgstr "نمی توان ابعاد تصویر را دریافت کرد: \"%s\""
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:171
+msgid "Do not add on checkout"
+msgstr "در صفحه پرداخت اضافه نکنید"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:129
+msgid "Do not validate"
+msgstr "اعتبارسنجی نشده"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:50
+msgid "Documentation"
+msgstr "مستندات"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:66 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:120
+msgid "Email content"
+msgstr "محتوای ایمیل"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:65 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:113
+msgid "Email heading"
+msgstr "عنوان ایمیل"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:25
+msgid "Emails"
+msgstr "ایمیل ها"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:84
+msgid "Enable alert on successful file remove"
+msgstr "فعال کردن هشدار حذف موفق"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:77
+msgid "Enable alert on successful file upload"
+msgstr "فعال کردن هشدار آپلود فایل موفق"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:45
+msgid "Enable plugin"
+msgstr "فعال کردن افزونه"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:91
+msgid "Enable/disable"
+msgstr "فعال/غیرفعال"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:93
+msgid "Enabled"
+msgstr "فعال شده"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:99
+#, php-format
+msgid "Enter recipients (comma separated). Defaults to %s."
+msgstr "گیرندگان را وارد کنید؛ با کاما آن ها را از هم جدا کنید"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-template.php:60
+msgid "Field Container"
+msgstr "فیلد کانتینر"
+
+#: includes/class-alg-wc-checkout-files-upload.php:497 
+#: includes/class-alg-wc-checkout-files-upload.php:504
+msgid "File"
+msgstr "فایل"
+
+#: includes/class-alg-wc-checkout-files-upload.php:203 
+#: includes/class-alg-wc-checkout-files-upload.php:217 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:280
+#, php-format
+msgid "File \"%s\" was successfully removed."
+msgstr "فایل \"%s\" با موفقیت حذف شد"
+
+#: includes/class-alg-wc-checkout-files-upload.php:397 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:271
+#, php-format
+msgid "File \"%s\" was successfully uploaded."
+msgstr "فایل \"%s\" با موفقیت آپلود شد"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:260
+msgid "File is required"
+msgstr "فایل ضروری است"
+
+#: includes/class-alg-wc-checkout-files-upload.php:634 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:262
+msgid "File is required."
+msgstr "فایل ضروری است."
+
+#: includes/class-alg-wc-checkout-files-upload.php:95 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:122
+msgid "File name: {file_name}"
+msgstr "نام فایل : {file_name}"
+
+#: includes/class-alg-wc-checkout-files-upload.php:110 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:131
+msgid "File removed"
+msgstr "فایل حذف شده"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:86
+msgid "File removed on \"Thank You\" or \"My Account\" page"
+msgstr "فایل حذف شده در صفحه تشکر و صفحه حساب کاربری"
+
+#: includes/class-alg-wc-checkout-files-upload.php:111 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:139
+msgid "File uploaded"
+msgstr "فایل آپلودشده است"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:87
+msgid "File uploaded on \"Thank You\" or \"My Account\" page"
+msgstr "فایل آپلود شده در صفحه تشکر و صفحه حساب کاربری"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:86
+msgid "File Uploader"
+msgstr "آپلودکننده ی فایل"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:26
+#, php-format
+msgid "File Uploader #%s"
+msgstr "بارگذاری کننده فایل #%s"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:277
+msgid "File was successfully removed"
+msgstr "فایل با موفقیت حذف شد"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:268
+msgid "File was successfully uploaded"
+msgstr "فایل با موفقیت آپلود شد"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:69
+msgid "Form extras"
+msgstr "فرم های اضافی"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-template.php:38
+msgid "Form Template Options"
+msgstr "گزینه های قالب فرم"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:25
+msgid "General"
+msgstr "عمومی"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:38
+msgid "General Emails Options"
+msgstr "تنظیمات عمومی ایمیل ها"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:146
+msgid "Height"
+msgstr "ارتفاع"
+
+#. Author URI of the plugin/theme
+msgid "https://wpwham.com"
+msgstr "https://wpwham.com"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpwham.com/products/checkout-files-upload-for-woocommerce/"
+msgstr "https://wpwham.com/products/checkout-files-upload-for-woocommerce/"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-template.php:102
+msgid "If using %image% replaced value."
+msgstr "اگر %image% استفاده کردید مقدار را جایگزین کنید"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-template.php:101
+msgid "Image style"
+msgstr "استایل تصویر"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:205 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-template.php:51
+msgid "Label"
+msgstr "برچسب"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:200
+msgid "Labels"
+msgstr "برچسب ها"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:80
+msgid "Leave blank to disable additional emails."
+msgstr "برای غیرفعال کردن ایمیل های اضافی این بخش را خالی بگذارید."
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:207
+msgid "Leave blank to disable label."
+msgstr "خالی بگذارید تا غیرفعال شود."
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:93
+msgid "Leave zero to disable."
+msgstr "صفر بگذارید تا غیرفعال شود."
+
+#. Description of the plugin/theme
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:40
+msgid "Let your customers upload files on (or after) WooCommerce checkout."
+msgstr ""
+"به مشتریان خود اجازه دهید فایل ها را در (یا پس از) پرداخت بارگذاری کنند."
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:91
+msgid "Max file size"
+msgstr "بیشترین حجم فایل"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:92
+msgid "MB"
+msgstr "مگابای"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:100
+msgid "Message on exceeded. Replaced value: %max_file_size%."
+msgstr "پیام بیش از حد مجاز است؛ مقدار جایگزین شده %max_file_size%."
+
+#: includes/class-alg-wc-checkout-files-upload.php:784
+msgid "No files uploaded."
+msgstr "هیچ فایلی بارگذاری نشد."
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:227
+msgid "Notices"
+msgstr "اعلامیه ها"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:243
+msgid ""
+"Other replaced values: %current_width%, %current_height%, %required_width%, "
+"%required_height%"
+msgstr ""
+"مقدار جایگزین شده ی دیگر: %current_width%, %current_height%, "
+"%required_width%, %required_height%"
+
+#: includes/class-alg-wc-checkout-files-upload.php:1221 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:209
+msgid "Please select file to upload"
+msgstr "لطفا یک فایل را برای آپلود انتخاب کنید"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:175
+msgid "Position order (i.e. priority)"
+msgstr "ترتیب موقعیت (برای مثال : اولویت)"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:157
+msgid "Positions"
+msgstr "جایگاه"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:98
+msgid "Recipient(s)"
+msgstr "گیرنده (ها)"
+
+#: includes/class-alg-wc-checkout-files-upload.php:1346
+msgid "Remove"
+msgstr "حذف کردن"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-template.php:52
+#:  
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-template.php:61
+#:  
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-template.php:70
+#, php-format
+msgid "Replaced values: %s."
+msgstr "مقادیر جایگزین شده : %s"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:129
+#:  
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:137
+#, php-format
+msgid "Replaces %s placeholder."
+msgstr "متن جایگزین %s را جایگزین کنید."
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:304
+msgid "Require product categories"
+msgstr "دسته بندی محصول اجباری است."
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:313
+msgid "Require product tags"
+msgstr "برچسب محصول اجباری است."
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:295
+msgid "Require products"
+msgstr "محصولات الزامی"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:98
+msgid "Required"
+msgstr "الزامی"
+
+#: includes/settings/class-wc-settings-checkout-files-upload.php:68
+msgid "Reset"
+msgstr "ریست کردن"
+
+#: includes/settings/class-wc-settings-checkout-files-upload.php:67
+msgid "Reset section settings"
+msgstr "ریست کردن بخش تنظیمات"
+
+#: includes/settings/class-wc-settings-checkout-files-upload.php:62
+msgid "Reset Settings"
+msgstr "ریست کردن تنظیمات"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:79
+msgid "Send additional email to admin on user actions"
+msgstr "ارسال ایمیل اضافی برای مدیر در اکشن های مدیر"
+
+#: includes/class-alg-wc-checkout-files-upload.php:365
+#, php-format
+msgid ""
+"Server's temporary directory (%s) is not writeable. If you are the site "
+"owner, please check your permissions."
+msgstr ""
+"مسیر موقتی سرور قابلیت نوشتن ندارد لطفا با مدیر وبسایت تماس بگیرید تا دسترسی "
+"ها را بررسی کند"
+
+#: checkout-files-upload-woocommerce.php:180
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-template.php:90
+msgid "Styling Options"
+msgstr "گزینه های استایل"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:64 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:106
+msgid "Subject"
+msgstr "عنوان"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-template.php:25
+msgid "Template"
+msgstr "قالب"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:305
+msgid ""
+"To show this field only if at least one product of selected category is in "
+"cart, enter categories here. Leave blank to show for all products."
+msgstr ""
+"برای نمایش این قسمت فقط در صورتی که حداقل یک محصول از دسته انتخاب شده در سبد "
+"خرید باشد ، دسته ها را در اینجا وارد کنید. برای نمایش همه محصولات این بخش را "
+"خالی بگذارید."
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:314
+msgid ""
+"To show this field only if at least one product of selected tag is in cart, "
+"enter tags here. Leave blank to show for all products."
+msgstr ""
+"برای نمایش این قسمت فقط در صورتی که حداقل یک محصول از برچسب انتخاب شده در "
+"سبد خرید باشد ، برچسب ها را در اینجا وارد کنید. برای نمایش همه محصولات این "
+"بخش را خالی بگذارید."
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:296
+msgid ""
+"To show this field only if at least one selected product is in cart, enter "
+"products here. Leave blank to show for all products."
+msgstr ""
+"برای نمایش این قسمت فقط در صورتی که حداقل یک محصول انتخابی در سبد خرید باشد، "
+"محصولات را در اینجا وارد کنید. برای نمایش همه محصولات این بخش را خالی "
+"بگذارید."
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:56
+msgid "Total file uploaders"
+msgstr "مجموع فایل های بارگزاری شده"
+
+#: includes/class-alg-wc-checkout-files-upload.php:229
+msgid "Unknown error on file remove."
+msgstr "ارور ناشناخته در حذف فایل"
+
+#: includes/class-alg-wc-checkout-files-upload.php:409
+msgid "Unknown error on upload."
+msgstr "ارور ناشناخته در آپلود فایل"
+
+#: checkout-files-upload-woocommerce.php:183
+msgid "Unlock all"
+msgstr "بازکردن همه"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:215
+msgid "Upload button (single)"
+msgstr "کلید آپلود فایل (تکی)"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-template.php:69
+msgid "Uploaded File"
+msgstr "فایل آپلود شده"
+
+#: includes/class-alg-wc-checkout-files-upload.php:693
+msgid "Uploaded Files"
+msgstr "فایل های آپلود شده"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:130
+msgid "Validate exact size"
+msgstr "اندازه دقیق را تأیید کنید"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:131
+msgid "Validate greater than or equal to"
+msgstr "اعتبار بیشتر یا مساوی"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:124
+msgid "Validate image dimensions"
+msgstr "ابعاد دقیق را تأیید کنید"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:132
+msgid "Validate less than or equal to"
+msgstr "اعتبارسنجی کمتر یا برابر"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:133
+msgid "Validate ratio"
+msgstr "اعتبارسنجی نسبت"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:139
+msgid "Width"
+msgstr "طول"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:44
+msgid "WooCommerce Checkout Files Upload"
+msgstr "آپلودفایلِ پرداختِ ووکامرس"
+
+#. Author of the plugin/theme
+msgid "WP Wham"
+msgstr "WP Wham"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:232
+msgid "Wrong file type"
+msgstr "نوع فایل غیرمجاز"
+
+#: includes/class-alg-wc-checkout-files-upload.php:539 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:235
+#, php-format
+msgid "Wrong file type: \"%s\""
+msgstr "نوع فایل \"%s\" غیزمجاز است"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:241
+msgid "Wrong image dimensions"
+msgstr "ابعاد تصویر نادرست است."
+
+#: includes/class-alg-wc-checkout-files-upload.php:574 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:245
+msgid ""
+"Wrong image dimensions for \"%s\". Current: %current_width% x "
+"%current_height%. Required: %required_width% x %required_height%."
+msgstr ""
+"ابعاد تصویر برای \"%s\" نادرست است. ابعاد فعلی : %current_width% x "
+"%current_height%. Required: %required_width% x %required_height%."
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:100 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:106
+msgid "Yes"
+msgstr "بله"
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:206 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-file.php:216
+msgid "You can use shortcodes here."
+msgstr "شما می توانید کدکوتاه را در اینجا استفاده کنید."
+
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-general.php:62
+#, php-format
+msgid "You will need %s plugin to setup more than one file uploader."
+msgstr "شما نیاز دارید افزونه %s را برای آپلود فایل های بیشتر تنظیم کنید"
+
+#: includes/settings/class-wc-settings-checkout-files-upload.php:38
+msgid "Your settings have been saved."
+msgstr "تنظیمات شما با موفقیت ذخیره شد."
+
+#: includes/class-alg-wc-checkout-files-upload.php:93 
+#: includes/settings/class-alg-wc-checkout-files-upload-settings-emails.php:115
+msgid "{action}: File #{file_num}"
+msgstr "{action}: فایل #{file_num}"

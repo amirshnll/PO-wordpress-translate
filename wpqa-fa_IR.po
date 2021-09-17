@@ -1,0 +1,6994 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPQA - The WordPress Questions And Answers Plugin\n"
+"POT-Creation-Date: 2019-08-18 05:05-0700\n"
+"PO-Revision-Date: 2020-12-06 11:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa-IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpqa.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.4.6; wp-5.5.3"
+
+#: CPT/messages.php:505 CPT/notifications.php:323 CPT/points.php:390 
+#: functions/functions.php:510 templates/profile/content.php:128 
+#: templates/profile/content.php:268 templates/profile/messages.php:88
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+#: functions/comments.php:72 functions/comments.php:74
+#, php-format
+msgid "%1$s ERROR %2$s: Please check on the reCAPTCHA box."
+msgstr "%1$s خطا %2$s: لطفا باکس کد امنیتی را بررسی کنید."
+
+#: shortcodes/password.php:68
+#, fuzzy
+#, php-format
+#| msgid "%s ERROR %s: please insert your email."
+msgid "%1$s ERROR %2$s: please insert your email."
+msgstr "%s ERROR %sلطفا ایمیل خود را وارد کنید"
+
+#: shortcodes/login.php:124
+#, fuzzy
+#, php-format
+#| msgid "%1$s ERROR %2$s: please insert your name."
+msgid "%1$s ERROR %2$s: Please insert your name."
+msgstr "%s ERROR %sنام خود را وارد کنید"
+
+#: shortcodes/login.php:126
+#, fuzzy
+#, php-format
+#| msgid "%1$s ERROR %2$s: please insert your password."
+msgid "%1$s ERROR %2$s: Please insert your password."
+msgstr "%s ERROR %sرمز عبور خود را وارد کنید"
+
+#: functions/comments.php:81 functions/comments.php:83
+#, fuzzy
+#, php-format
+#| msgid "%1$s ERROR %2$s: please type a captcha."
+msgid "%1$s ERROR %2$s: Please type a captcha."
+msgstr "%s ERROR %sلطفا گذرواژه امنیتی را وارد کنید."
+
+#: functions/comments.php:52 functions/comments.php:54 
+#: functions/comments.php:64 functions/comments.php:66
+#, php-format
+msgid "%1$s ERROR %2$s: Robot verification failed, Please try again."
+msgstr "%1$s خطا %2$s: لطفا دوباره امتحان کنید."
+
+#: shortcodes/password.php:70 shortcodes/password.php:74
+#, fuzzy
+#, php-format
+#| msgid "%s ERROR %s: there is no user registered with that email address."
+msgid "%1$s ERROR %2$s: there is no user registered with that email address."
+msgstr "%s ERROR %sهیچ کاربری با این ایمیل وجود ندارد"
+
+#: CPT/activities.php:119
+#, php-format
+msgid "%s activity permanently deleted."
+msgid_plural "%s activities permanently deleted."
+msgstr[0] "%s فعالیت ها حذف شدند."
+
+#: CPT/activities.php:120
+#, php-format
+msgid "%s activity trashed."
+msgid_plural "%s activities trashed."
+msgstr[0] "%s فعالیت ها به زباله دان اضافه شدند."
+
+#: functions/functions.php:802
+#, php-format
+msgid "%s Answer"
+msgid_plural "%s Answers"
+msgstr[0] "%s پاسخ"
+
+#: functions/subscriptions.php:318
+#, php-format
+msgid "%s answer"
+msgid_plural "%s answers"
+msgstr[0] "%s  جواب"
+
+#: functions/subscriptions.php:329
+#, fuzzy
+#| msgid "Not best answer"
+msgid "%s best answer"
+msgid_plural "%s best answers"
+msgstr[0] "بهترین پاسخ نمی باشد."
+
+#: functions/functions.php:802
+#, php-format
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s نظر"
+
+#: templates/subscriptions.php:53
+#, php-format
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] "%s ساعت"
+
+#: functions/subscriptions.php:290 templates/subscriptions.php:57
+#, php-format
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] "%s ماه"
+
+#: CPT/notifications.php:119
+#, php-format
+msgid "%s notification permanently deleted."
+msgid_plural "%s notifications permanently deleted."
+msgstr[0] "%s اطلاع رسانی حذف شد."
+
+#: CPT/notifications.php:120
+#, php-format
+msgid "%s notification trashed."
+msgid_plural "%s notifications trashed."
+msgstr[0] "%s اطلاع رسانی حذف شد."
+
+#: payments/packages.php:25 templates/profile/withdrawals.php:92
+#, php-format
+msgid "%s Point"
+msgid_plural "%s Points"
+msgstr[0] "%s امتیاز"
+
+#: CPT/requests.php:148
+#, php-format
+msgid "%s point"
+msgid_plural "%s points"
+msgstr[0] "%s امتیاز"
+
+#: CPT/points.php:119
+#, php-format
+msgid "%s point permanently deleted."
+msgid_plural "%s points permanently deleted."
+msgstr[0] "%s امتیاز حذف شد."
+
+#: CPT/points.php:120
+#, php-format
+msgid "%s point trashed."
+msgid_plural "%s points trashed."
+msgstr[0] "%s امتیاز حذف شد."
+
+#: functions/functions.php:830 functions/subscriptions.php:340 
+#: payments/form.php:178 payments/form.php:308 templates/checkout.php:203 
+#: templates/checkout.php:207
+#, fuzzy
+#, php-format
+msgid "%s post"
+msgid_plural "%s posts"
+msgstr[0] "%s  نوشته"
+
+#: functions/functions.php:830
+#, php-format
+msgid "%s posts"
+msgstr "%s نوشته"
+
+#: functions/functions.php:836 functions/subscriptions.php:307 
+#: payments/form.php:170 payments/form.php:172 payments/form.php:301 
+#: payments/form.php:303 templates/checkout.php:193 templates/checkout.php:197
+#, fuzzy
+#, php-format
+msgid "%s question"
+msgid_plural "%s questions"
+msgstr[0] "%s سوال"
+
+#: functions/functions.php:836
+#, php-format
+msgid "%s questions"
+msgstr "%s سوال"
+
+#: functions/comments.php:1021
+#, php-format
+msgid "%s Reply"
+msgid_plural "%s Replies"
+msgstr[0] "%s پاسخ"
+
+#: CPT/reports.php:276
+#, php-format
+msgid "%s report permanently deleted."
+msgid_plural "%s reports permanently deleted."
+msgstr[0] "%s گزارش حذف شد."
+
+#: CPT/reports.php:277
+#, php-format
+msgid "%s report trashed."
+msgid_plural "%s reports trashed."
+msgstr[0] "%s گزارش حذف شد."
+
+#: CPT/requests.php:172
+#, php-format
+msgid "%s request permanently deleted."
+msgid_plural "%s requests permanently deleted."
+msgstr[0] "%s درخواست حذف شد."
+
+#: CPT/requests.php:173
+#, php-format
+msgid "%s request trashed."
+msgid_plural "%s requests trashed."
+msgstr[0] "%s درخواست حذف شد."
+
+#: CPT/statements.php:552
+#, php-format
+msgid "%s statement permanently deleted."
+msgid_plural "%s statements permanently deleted."
+msgstr[0] "%s عبارت حذف شد."
+
+#: CPT/statements.php:553
+#, php-format
+msgid "%s statement trashed."
+msgid_plural "%s statements trashed."
+msgstr[0] "%s عبارت حذف شد."
+
+#: widgets/profile_strength.php:133
+#, php-format
+msgid "%s step left!"
+msgid_plural "%s steps left!"
+msgstr[0] "%s قدم مانده"
+
+#: functions/subscriptions.php:307 functions/subscriptions.php:318 
+#: functions/subscriptions.php:329 functions/subscriptions.php:340
+#, php-format
+msgid "%s time before"
+msgid_plural "%s times before"
+msgstr[0] "%s دفعه مانده"
+
+#: functions/subscriptions.php:288 templates/subscriptions.php:55
+#, php-format
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] "%s هفته"
+
+#: functions/filters.php:102
+msgid "&#197;land Islands"
+msgstr "&#197;land Islands"
+
+#: CPT/activities.php:406 CPT/activities.php:413 CPT/notifications.php:605 
+#: CPT/notifications.php:615
+msgid "( Deleted )"
+msgstr "پاک شده"
+
+#: CPT/activities.php:402 CPT/notifications.php:601
+msgid "( Spam )"
+msgstr "اسپم"
+
+#: CPT/activities.php:404 CPT/activities.php:411 CPT/notifications.php:603 
+#: CPT/notifications.php:613
+msgid "( Trashed )"
+msgstr "( زباله دان )"
+
+#: shortcodes/profile.php:293
+msgid "(Points, favorite and followed pages)."
+msgstr "(امتیاز ، مورد علاقه و به دنبال کردن  صفحات)"
+
+#: shortcodes/profile.php:199 shortcodes/profile.php:205 
+#: shortcodes/profile.php:211 shortcodes/profile.php:217 
+#: shortcodes/profile.php:223 shortcodes/profile.php:229 
+#: shortcodes/profile.php:235
+msgid "(Put the full URL)"
+msgstr "(قرار دادن آدرس کامل)"
+
+#: payments/paypal.php:222 payments/stripe.php:355
+msgid "(Renew)"
+msgstr "(تجدید)"
+
+#: functions/subscriptions.php:307 functions/subscriptions.php:318 
+#: functions/subscriptions.php:329 functions/subscriptions.php:340
+#, php-format
+msgid ", you earned it %s"
+msgstr "، شما %s بدست آورده اید."
+
+#: payments/form.php:360
+msgid "3 months"
+msgstr "سه ماهه"
+
+#: payments/form.php:362
+msgid "6 months"
+msgstr "شش ماهه"
+
+#: functions/functions.php:489 functions/functions.php:1570
+#, fuzzy
+#| msgid "Deleted user"
+msgid "[Deleted User]"
+msgstr "کاربر حذف شده"
+
+#: functions/check-account.php:99
+#, fuzzy
+#, php-format
+#| msgid ""
+#| "A confirmation email has been sent to your registered email account, If you "
+#| "have not received the confirmation email, kindly <a href='%s'>Click here</a> "
+#| "to re-send another confirmation email."
+msgid ""
+"A confirmation mail has been sent to your registered email account, If you "
+"have not received the confirmation mail, kindly %1$s Click here %2$s to re-"
+"send another confirmation mail."
+msgstr ""
+"یک ایمیل تایید به ایمیل شما ارسال شده است. اگر این ایمیل را دریافت نکرده اید "
+"<a href='%s'>اینجا کلیک کنید</a> تا ایمیل دیگری فرستاده شود."
+
+#: functions/mails.php:369
+#, fuzzy
+#| msgid "A new post has been submitted in "
+msgid "A new post has been submitted in"
+msgstr "نوشته جدید ارسال شده است ."
+
+#: CPT/notifications.php:419
+msgid "A non-registered user"
+msgstr "کاربر میهمان"
+
+#: templates/profile/head-tabs.php:17
+msgid "About"
+msgstr "درباره"
+
+#: shortcodes/profile.php:62 shortcodes/profile.php:259
+msgid "About Me"
+msgstr "درباره من"
+
+#: CPT/requests.php:127
+msgid "Accept"
+msgstr "پذیرفتن"
+
+#: functions/group.php:65
+msgid "Accept invite"
+msgstr "قبول دعوت"
+
+#: templates/profile/withdrawals.php:151
+msgid "Accepted"
+msgstr "قبول شده"
+
+#: CPT/notifications.php:563
+msgid "accepted your join request."
+msgstr "درخواست پیوستن تایید شد/"
+
+#: shortcodes/profile.php:434
+msgid "Account Holder"
+msgstr "صاحب حساب"
+
+#: shortcodes/profile.php:462
+msgid "Account Number"
+msgstr "شماره حساب"
+
+#: CPT/requests.php:61 templates/profile/referrals.php:146
+msgid "Action"
+msgstr "فعالیت"
+
+#: shortcodes/group.php:177
+msgid "Activate comments in this group?"
+msgstr "نظرات در این گروه فعال شود؟"
+
+#: shortcodes/register.php:350
+msgid "Activation"
+msgstr "فعال سازی"
+
+#: functions/functions.php:1124
+msgid "Activation users"
+msgstr "کاربران فعال"
+
+#: CPT/activities.php:18 CPT/activities.php:20 CPT/activities.php:21 
+#: CPT/activities.php:22 CPT/activities.php:23 functions/menu.php:217 
+#: functions/rewrite.php:1933
+msgid "Activities"
+msgstr "فعالیت ها"
+
+#: widgets/activities.php:43
+msgid "Activities log"
+msgstr "پزارش ورود ها "
+
+#: CPT/activities.php:55
+msgid "Activity"
+msgstr "فعالیت"
+
+#: templates/group-admins.php:33
+msgid "Add"
+msgstr "اضافه کردن"
+
+#: payments/answer.php:85
+msgid "Add a new answer"
+msgstr "افزودن پاسخ جدید"
+
+#: shortcodes/category.php:140
+#, fuzzy
+#| msgid "Add new category"
+msgid "Add a new category"
+msgstr "افزودن دسته بندی"
+
+#: widgets/buttons.php:39
+msgid "Add A New Post"
+msgstr "اضافه کردن پست جدید"
+
+#: CPT/statements.php:423 payments/form.php:105 shortcodes/post.php:73
+msgid "Add a new post"
+msgstr "افزودن پست جدید"
+
+#: CPT/activities.php:339
+msgid "Add a new post."
+msgstr "یک پست جدید اضافه کنید"
+
+#: functions/comments.php:681 shortcodes/question.php:667
+#, fuzzy
+#| msgid "Add a video to describe the problem better."
+msgid "Add a Video to describe the problem better."
+msgstr "اضافه کردن ویدیو برای توصیف مشکل بهتر است."
+
+#: functions/menu.php:107 functions/rewrite.php:2893 shortcodes/profile.php:329
+msgid "Add category"
+msgstr "افزودن یک دسته"
+
+#: shortcodes/question.php:611
+msgid "Add Field"
+msgstr "افزودن فیلد"
+
+#: functions/menu.php:122 functions/rewrite.php:2901
+msgid "Add group"
+msgstr "افزودن گروه"
+
+#: shortcodes/question.php:586
+msgid "Add More Answers"
+msgstr "اضافه کردن پاسخ های بیشتر"
+
+#: CPT/groups.php:31 CPT/messages.php:24 CPT/posts.php:28 CPT/questions.php:65
+msgid "Add New"
+msgstr "اضافه کردن"
+
+#: CPT/questions.php:103 CPT/questions.php:104
+msgid "Add New Category"
+msgstr "افزودن دسته جدید"
+
+#: CPT/groups.php:32
+msgid "Add New Group"
+msgstr "افزودن گروه جدید"
+
+#: CPT/messages.php:25
+msgid "Add New Message"
+msgstr "افزودن پیام جدید"
+
+#: CPT/posts.php:29
+msgid "Add New Post"
+msgstr "افزودن پست جدید"
+
+#: CPT/questions.php:66
+msgid "Add New Question"
+msgstr "افزودن سوال جدید"
+
+#: CPT/questions.php:129 CPT/questions.php:130
+msgid "Add New Tag"
+msgstr "افزودن برچسب جدید"
+
+#: functions/menu.php:127
+msgid "Add Post"
+msgstr "افزودن پست"
+
+#: functions/rewrite.php:2919
+msgid "Add post"
+msgstr "افزودن پست"
+
+#: functions/menu.php:132
+msgid "Add Post Pop Up"
+msgstr "افزودن پیام پاپ آپ"
+
+#: shortcodes/profile.php:263
+msgid "Add profile credential"
+msgstr "اضافه کردن توضیحات به پروفایل"
+
+#: wpqa.php:274
+msgid "Add this question to favorites"
+msgstr "افزودن پرسش به موارد دلخواه"
+
+#: functions/menu.php:49
+msgid "Add to Menu"
+msgstr "افزودن به منو"
+
+#: widgets/profile_strength.php:146
+#, fuzzy
+#| msgid "Add profile credential"
+msgid "Add your profile credential"
+msgstr "اضافه کردن توضیحات به پروفایل"
+
+#: functions/functions.php:1604
+msgid "Added a"
+msgstr "اضافه کرد"
+
+#: functions/functions.php:504
+msgid "added a comment"
+msgstr "ارسال نظر"
+
+#: templates/profile/messages.php:88
+msgid "Added a message on"
+msgstr "اضافه شدن یک پیام در"
+
+#: CPT/activities.php:389
+msgid "Added a new group post."
+msgstr "اضافه کردن پست جدید به گروه"
+
+#: CPT/activities.php:387
+msgid "Added a new group."
+msgstr "افزودن گروه"
+
+#: templates/profile/points.php:109
+msgid "Added a new post."
+msgstr "سوال جدیدی اضافه شد."
+
+#: CPT/activities.php:337 templates/profile/points.php:105
+msgid "Added a new question."
+msgstr "سوال جدیدی اضافه شد"
+
+#: CPT/notifications.php:492
+msgid "added a new question."
+msgstr "سوال جدیدی اضافه شد."
+
+#: functions/functions.php:1601
+msgid "Added an"
+msgstr "اضافه شده"
+
+#: functions/functions.php:504
+msgid "added an answer"
+msgstr "ارسال پاسخ"
+
+#: CPT/notifications.php:496
+msgid "added your question to favorites."
+msgstr "سوال خود را به علاقه مندی ها اضافه شده است."
+
+#: payments/form.php:493
+msgid "Address"
+msgstr "آدرس"
+
+#: shortcodes/group.php:75 shortcodes/group.php:93
+msgid "Admin and moderators"
+msgstr "مدیرها و مسئولان"
+
+#: shortcodes/group.php:79 shortcodes/group.php:97
+msgid "Admin only"
+msgstr "فقط مدیر"
+
+#: functions/group.php:184
+msgid "Admins"
+msgstr "مدیرها"
+
+#: functions/filters.php:101
+msgid "Afghanistan"
+msgstr "افغانستان"
+
+#: functions/functions.php:923 shortcodes/profile.php:595 
+#: shortcodes/profile.php:1239 shortcodes/register.php:615
+msgid "Age"
+msgstr "سن"
+
+#: CPT/activities.php:92 CPT/notifications.php:92 CPT/points.php:92 
+#: CPT/reports.php:208 CPT/requests.php:85 CPT/statements.php:351 
+#: templates/profile/withdrawals.php:159
+msgid "ago"
+msgstr "قبل"
+
+#: functions/filters.php:103
+msgid "Albania"
+msgstr "آلبانی"
+
+#: functions/filters.php:104
+msgid "Algeria"
+msgstr "الجزایر"
+
+#: CPT/activities.php:25
+msgid "All Activities"
+msgstr "همه فعالیت ها"
+
+#: CPT/questions.php:98 functions/functions.php:2055
+msgid "All Categories"
+msgstr "همه دسته بندی ها"
+
+#: shortcodes/group.php:71 shortcodes/group.php:89
+msgid "All group members"
+msgstr "کل اعضا گروه"
+
+#: CPT/groups.php:37
+msgid "All Groups"
+msgstr "همه گروه ها"
+
+#: shortcodes/profile.php:627
+msgid "All members"
+msgstr "همه اعضا"
+
+#: CPT/messages.php:30
+msgid "All Messages"
+msgstr "همه پیام ها"
+
+#: CPT/notifications.php:25
+msgid "All Notifications"
+msgstr "همه اطلاع رسانی ها"
+
+#: CPT/points.php:25
+msgid "All Points"
+msgstr "همه امتیازها"
+
+#: templates/profile/withdrawals.php:118
+msgid "All points"
+msgstr "همه امتیازها"
+
+#: CPT/posts.php:34
+msgid "All Posts"
+msgstr "همه پست ها"
+
+#: CPT/questions.php:71
+msgid "All Questions"
+msgstr "همه سوالات"
+
+#: CPT/reports.php:25
+msgid "All Reports"
+msgstr "همه گزارش ها"
+
+#: CPT/requests.php:28
+msgid "All Requests"
+msgstr "همه درخواست ها"
+
+#: CPT/statements.php:183
+msgid "All Statements"
+msgstr "همه عبارت ها"
+
+#: CPT/questions.php:124
+msgid "All Tags"
+msgstr "همه برچسب ها"
+
+#: templates/profile/withdrawals.php:100
+msgid "Amount"
+msgstr "مقدار"
+
+#: payments/form.php:99 payments/form.php:128
+#, fuzzy
+#| msgid "Rand"
+msgid "and"
+msgstr "حاشیه"
+
+#: functions/comments.php:641 shortcodes/group.php:212 shortcodes/post.php:365 
+#: shortcodes/question.php:757 shortcodes/register.php:99
+#, php-format
+msgid "and %1$s Privacy Policy %2$s"
+msgstr "و%1$s حریم شخصی %2$s"
+
+#: functions/filters.php:105
+msgid "Andorra"
+msgstr "آندورا"
+
+#: functions/filters.php:106
+msgid "Angola"
+msgstr "آنگولا"
+
+#: functions/filters.php:107
+msgid "Anguilla"
+msgstr "آنگویلا"
+
+#: CPT/notifications.php:416 CPT/questions.php:202 CPT/questions.php:205 
+#: functions/comments.php:611 functions/functions.php:489 
+#: functions/functions.php:750 functions/functions.php:753 
+#: functions/functions.php:1570 functions/mails.php:95 functions/mails.php:96 
+#: functions/mails.php:97 functions/mails.php:98 functions/mails.php:99 
+#: functions/mails.php:158 shortcodes/question.php:735
+msgid "Anonymous"
+msgstr "ناشناس"
+
+#: functions/comments.php:612
+msgid "Anonymous answers"
+msgstr "پاسخ های ناشناس"
+
+#: shortcodes/question.php:736
+msgid "Anonymous asks"
+msgstr "ناشناس"
+
+#: CPT/notifications.php:522 CPT/notifications.php:608
+msgid "answer"
+msgstr "پاسخ"
+
+#: CPT/reports.php:184 functions/author.php:275 functions/author.php:393 
+#: functions/author.php:744 functions/categories.php:70 
+#: functions/comments.php:1262 functions/functions.php:799 
+#: functions/questions.php:583 widgets/stats.php:76
+msgid "Answer"
+msgid_plural "Answers"
+msgstr[0] "پاسخ"
+
+#: widgets/profile_strength.php:154
+#, fuzzy
+#, php-format
+#| msgid "Ask %s a question"
+msgid "Answer %s questions"
+msgstr "پرسش %s یک  سوال"
+
+#: functions/comments.php:604
+msgid "Answer Anonymously"
+msgstr "پاسخ ناشناس"
+
+#: functions/functions.php:1602
+#, php-format
+msgid "answer on %1$s at %2$s"
+msgstr "%1$sدر  %2$s پاسخ دهید"
+
+#: functions/comments.php:792
+msgid "Answer to your question"
+msgstr "به پرسش خود پاسخ دهید"
+
+#: functions/comments.php:1246
+msgid "Answer/Comment"
+msgstr "پاسخ/دیدگاه"
+
+#: functions/functions.php:2210
+msgid "Answered"
+msgstr "پاسخ داده شده"
+
+#: CPT/notifications.php:484
+msgid "answered the question you asked."
+msgstr "به سوالی که پرسیدید پاسخ داد."
+
+#: CPT/notifications.php:488
+#, fuzzy
+#| msgid "answered your question you followed."
+msgid "answered the question you followed."
+msgstr "سوالی که دنبال می‌کنید را پاسخ داده است"
+
+#: CPT/notifications.php:486
+msgid "answered your question."
+msgstr "سوال شما را پاسخ داد."
+
+#: CPT/questions.php:144 CPT/questions.php:174 CPT/reports.php:224 
+#: functions/comments.php:20 functions/comments.php:1242 
+#: functions/comments.php:1363 functions/filters.php:71 
+#: functions/functions.php:2151 functions/menu.php:257 
+#: functions/rewrite.php:1941 templates/profile/head-tabs.php:91 
+#: templates/search-form.php:74 templates/search-form.php:106 
+#: widgets/tabs.php:86
+msgid "Answers"
+msgstr "پاسخ ها"
+
+#: functions/comments.php:608
+msgid "answers"
+msgstr "پاسخ ها"
+
+#: CPT/reports.php:232 CPT/reports.php:301
+#, fuzzy
+#| msgid "Answer report"
+msgid "Answers reports"
+msgstr "پاسخ گزارش"
+
+#: functions/filters.php:108
+msgid "Antarctica"
+msgstr "قطب جنوب"
+
+#: functions/filters.php:109
+msgid "Antigua and Barbuda"
+msgstr "آنتیگوا و باربودا"
+
+#: payments/form.php:341
+msgid "Apply Coupon"
+msgstr "اعمال کوپن"
+
+#: functions/author.php:416 functions/review.php:19
+msgid "Approve"
+msgstr "تایید"
+
+#: templates/group-requests.php:35
+msgid "Approve All"
+msgstr "تایید همه"
+
+#: CPT/notifications.php:583
+msgid "approved your group post."
+msgstr "پست گروهی شما تأیید شد."
+
+#: CPT/notifications.php:577
+msgid "approved your group."
+msgstr "گروه شما تایید شد."
+
+#: CPT/notifications.php:509
+#, fuzzy
+#| msgid "Voted your question."
+msgid "approved your question."
+msgstr "رای به سوال خود دهید."
+
+#: wpqa.php:211
+#, fuzzy
+#| msgid "Are you sure you want to delete the answer?"
+msgid "Are you sure you want to ban this user?"
+msgstr "یا از حذف این پاسخ اطمینان دارید؟"
+
+#: wpqa.php:314
+msgid "Are you sure you want to block the user from the group?"
+msgstr "آیا این کاربر از گروه بلاک شود ؟"
+
+#: wpqa.php:284
+msgid "Are you sure you want to cancel your subscription?"
+msgstr "آیا مطمئن هستید که می خواهید اشتراکتان را لغو کنید؟"
+
+#: wpqa.php:123
+msgid "Are you sure you want to delete the answer?"
+msgstr "یا از حذف این پاسخ اطمینان دارید؟"
+
+#: wpqa.php:125
+msgid "Are you sure you want to delete the attachment?"
+msgstr "آیا مطمئنید که می خواهید پیوست را حذف کنید ؟"
+
+#: wpqa.php:122
+msgid "Are you sure you want to delete the comment?"
+msgstr "یا از حذف این دیدگاه اطمینان دارید؟"
+
+#: wpqa.php:313
+msgid "Are you sure you want to delete the group post?"
+msgstr "آیا مطمئن هستید که می خواهید پست را حذف کنید؟"
+
+#: wpqa.php:312
+msgid "Are you sure you want to delete the group?"
+msgstr "آیا می خواهید گروه را حذف کنید>"
+
+#: wpqa.php:344
+msgid "Are you sure you want to delete the history?"
+msgstr "آیا می خواهید سوابق خود را حذف کنید؟"
+
+#: wpqa.php:124
+msgid "Are you sure you want to delete the image?"
+msgstr "آیا مطمئنید که می خواهید تصویر را حذف کنید ؟"
+
+#: wpqa.php:176
+msgid "Are you sure you want to delete the message?"
+msgstr "یا از حذف این پیام اطمینان دارید؟"
+
+#: wpqa.php:213 wpqa.php:273
+msgid "Are you sure you want to delete the post?"
+msgstr "یا از حذف این پست اطمینان دارید؟"
+
+#: wpqa.php:212 wpqa.php:272
+msgid "Are you sure you want to delete the question?"
+msgstr "یا از حذف این سوال اطمینان دارید؟"
+
+#: wpqa.php:168
+msgid "Are you sure you want to delete your account?"
+msgstr "آیا مطمئن هستید که می خواهید اکانت خود را حذف کنید؟"
+
+#: wpqa.php:342
+msgid "Are you sure you want to delete?"
+msgstr "آیا مطمئنید که میخواهید حذف کنید؟"
+
+#: wpqa.php:285
+msgid "Are you sure you want to get the trial subscription?"
+msgstr "آیا مطمئن هستید که می خواهید اشتراک آزمایشی را دریافت کنید؟"
+
+#: wpqa.php:340
+msgid "Are you sure you want to refund?"
+msgstr "آیا مطمئن هستید که می خواهید بازگشت وجه کنید؟"
+
+#: wpqa.php:316
+msgid "Are you sure you want to remove the moderator from the group?"
+msgstr "آیا مطمئن هستید که می خواهید ناظر را از گروه حذف کنید؟"
+
+#: wpqa.php:315
+msgid "Are you sure you want to remove the user from the group?"
+msgstr "آیا مطمئن هستید که می خواهید کاربر را از گروه حذف کنید؟"
+
+#: functions/filters.php:110
+msgid "Argentina"
+msgstr "آرژانتین"
+
+#: functions/filters.php:111
+msgid "Armenia"
+msgstr "ارمنستان"
+
+#: functions/filters.php:112
+msgid "Aruba"
+msgstr "آروبا"
+
+#: functions/author.php:367 functions/cover.php:203 
+#: functions/functions.php:2007
+msgid "Ask"
+msgstr "پرسیدن"
+
+#: shortcodes/question.php:336
+#, php-format
+msgid "Ask %s a question"
+msgstr "پرسش %s یک  سوال"
+
+#: CPT/statements.php:417 payments/form.php:77 shortcodes/question.php:1478
+msgid "Ask a new question"
+msgstr "پرسید یک سوال جدید"
+
+#: widgets/buttons.php:54
+msgid "Ask A Question"
+msgstr "پرسیدن یک سوال"
+
+#: shortcodes/question.php:730
+msgid "Ask Anonymously"
+msgstr "به صورت مهمان بپرس"
+
+#: functions/menu.php:112
+msgid "Ask Question"
+msgstr "سوال بپرس"
+
+#: functions/functions.php:1840 functions/functions.php:1881 
+#: functions/rewrite.php:2895
+msgid "Ask question"
+msgstr "پرسش سوال"
+
+#: functions/menu.php:117
+msgid "Ask Question Pop Up"
+msgstr "سوال بپرسید پاپ آپ"
+
+#: widgets/profile_strength.php:152
+#, fuzzy
+#| msgid "Ask %s a question"
+msgid "Ask your first question"
+msgstr "پرسش %s یک  سوال"
+
+#: functions/menu.php:247 functions/rewrite.php:1951 
+#: templates/profile/head-tabs.php:93
+msgid "Asked Questions"
+msgstr "پرسش ها"
+
+#: CPT/questions.php:212
+msgid "Asked to"
+msgstr "Asked to"
+
+#: CPT/notifications.php:554
+msgid "asked to join the group."
+msgstr "از شما یک سوال پرسیده است."
+
+#: CPT/notifications.php:494
+#, fuzzy
+#| msgid "been asked you a question."
+msgid "asked you a question."
+msgstr "از شما یک سوال پرسیده است."
+
+#: shortcodes/question.php:732
+msgid "asks"
+msgstr "پرسیدن"
+
+#: templates/group-admins.php:24
+msgid "Assign a new moderator"
+msgstr "تعیین یک مسئول"
+
+#: functions/comments.php:542 functions/comments.php:546 
+#: functions/functions.php:1706 shortcodes/question.php:595 
+#: shortcodes/question.php:601 shortcodes/question.php:608
+msgid "Attachment"
+msgstr "پیوست"
+
+#: functions/comments.php:134 functions/comments.php:1151 
+#: shortcodes/group.php:398 shortcodes/group.php:431 shortcodes/group.php:663 
+#: shortcodes/group.php:696 shortcodes/posts.php:232 shortcodes/posts.php:449 
+#: shortcodes/question.php:1268 shortcodes/question.php:1885
+#, fuzzy
+#| msgid "Attachment Error, Please upload image only."
+msgid "Attachment Error! Please upload image only."
+msgstr "خطا در بارگذاری - از این طربق فقط مجاز به ارسال عکس هستید"
+
+#: functions/comments.php:231
+msgid "Attachment Error:"
+msgstr "خطا در ارسال"
+
+#: functions/comments.php:1157 shortcodes/group.php:405 
+#: shortcodes/group.php:438 shortcodes/group.php:670 shortcodes/group.php:703 
+#: shortcodes/post.php:512 shortcodes/post.php:730 shortcodes/posts.php:239 
+#: shortcodes/posts.php:456 shortcodes/question.php:1275 
+#: shortcodes/question.php:1892
+msgid "Attachment Error: "
+msgstr "خطا در رسانه: "
+
+#: functions/filters.php:113
+msgid "Australia"
+msgstr "استرالیا"
+
+#: functions/filters.php:114
+msgid "Austria"
+msgstr "اتریش"
+
+#: CPT/activities.php:56 CPT/groups.php:69 CPT/messages.php:71 
+#: CPT/notifications.php:56 CPT/points.php:56 CPT/posts.php:73 
+#: CPT/questions.php:171 CPT/reports.php:163 CPT/requests.php:59 
+#: CPT/statements.php:304
+msgid "Author"
+msgstr "نویسنده"
+
+#: shortcodes/group.php:112
+msgid "Auto approval for the posts in this group?"
+msgstr "تأیید خودکار پست های این گروه؟"
+
+#: functions/filters.php:115
+msgid "Azerbaijan"
+msgstr "آذربایجان"
+
+#: functions/filters.php:116
+msgid "Bahamas"
+msgstr "باهاما"
+
+#: functions/filters.php:117
+msgid "Bahrain"
+msgstr "بحرین"
+
+#: functions/review.php:147
+msgid "Ban group"
+msgstr "بن کردن گروه"
+
+#: functions/author.php:325 functions/cover.php:196 functions/review.php:37 
+#: wpqa.php:143 wpqa.php:214
+msgid "Ban user"
+msgstr "ممنوعیت کاربر"
+
+#: functions/filters.php:118
+msgid "Bangladesh"
+msgstr "بنگلادش"
+
+#: shortcodes/profile.php:452
+msgid "Bank Address"
+msgstr "آدرس بانک"
+
+#: shortcodes/profile.php:445
+msgid "Bank Information"
+msgstr "اطلاعات بانک"
+
+#: shortcodes/profile.php:447
+msgid "Bank Name"
+msgstr "نام بانک"
+
+#: shortcodes/profile.php:405 shortcodes/profile.php:433
+msgid "Bank Transfer"
+msgstr "حواله بانکی"
+
+#: functions/filters.php:119
+msgid "Barbados"
+msgstr "باربادوس"
+
+#: functions/questions.php:704
+msgid "Based On"
+msgstr "بر پایه ی "
+
+#: shortcodes/profile.php:57 shortcodes/profile.php:167
+msgid "Basic Information"
+msgstr "اطلاعات پایه"
+
+#: functions/filters.php:120
+msgid "Belarus"
+msgstr "بلاروس"
+
+#: functions/filters.php:122
+msgid "Belau"
+msgstr "Belau"
+
+#: functions/filters.php:121
+msgid "Belgium"
+msgstr "بلژیک"
+
+#: functions/filters.php:123
+msgid "Belize"
+msgstr "بلیز"
+
+#: functions/filters.php:124
+msgid "Benin"
+msgstr "بنین"
+
+#: functions/filters.php:125
+msgid "Bermuda"
+msgstr "برمودا"
+
+#: functions/comments.php:1271 wpqa.php:269
+msgid "Best answer"
+msgstr "بهترین پاسخ"
+
+#: functions/author.php:261 functions/author.php:399 functions/author.php:461 
+#: functions/author.php:756 functions/functions.php:1551 widgets/stats.php:83
+msgid "Best Answer"
+msgid_plural "Best Answers"
+msgstr[0] "بهترین پاسخ"
+
+#: CPT/questions.php:145 functions/comments.php:21 functions/comments.php:1238 
+#: functions/comments.php:1364 functions/functions.php:2152 
+#: functions/menu.php:262 functions/rewrite.php:1943 
+#: templates/profile/head-tabs.php:87 templates/search-form.php:107
+msgid "Best Answers"
+msgstr "بهترین پاسخ ها"
+
+#: functions/filters.php:126
+msgid "Bhutan"
+msgstr "بوتان"
+
+#: functions/functions.php:250
+msgid "bil"
+msgstr "میلیارد"
+
+#: shortcodes/profile.php:613
+msgid "Biography"
+msgstr "بیوگرافی"
+
+#: functions/author.php:431
+msgid "Block"
+msgstr "بلاک"
+
+#: templates/profile/messages.php:120 wpqa.php:177
+msgid "Block Message"
+msgstr "بلاک کردن پیام"
+
+#: functions/group.php:186
+msgid "Blocked Users"
+msgstr "کاربران بلاک شده"
+
+#: functions/rewrite.php:2911
+msgid "Blocked users"
+msgstr "کاربران بلاک شده"
+
+#: CPT/notifications.php:588
+msgid "blocked you from the group."
+msgstr "شما از گروه بلاک شدید."
+
+#: functions/filters.php:127
+msgid "Bolivia"
+msgstr "بولیوی"
+
+#: functions/filters.php:128
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr "بونیر، سنت یوستیشس و سابا"
+
+#: functions/filters.php:129
+msgid "Bosnia and Herzegovina"
+msgstr "بوسنی و هرزگوین"
+
+#: functions/filters.php:130
+msgid "Botswana"
+msgstr "بوتسوانا"
+
+#: functions/filters.php:131
+msgid "Bouvet Island"
+msgstr "جزیره بووت"
+
+#: functions/filters.php:132
+msgid "Brazil"
+msgstr "برزیل"
+
+#: functions/filters.php:133
+msgid "British Indian Ocean Territory"
+msgstr "قلمرو بریتانیا در اقیانوس هند"
+
+#: functions/filters.php:134
+msgid "British Virgin Islands"
+msgstr "جزایر ویرجین بریتانیا"
+
+#: functions/comments.php:551 functions/comments.php:579 
+#: shortcodes/group.php:136 shortcodes/group.php:162 shortcodes/post.php:330 
+#: shortcodes/posts.php:70 shortcodes/question.php:519 
+#: shortcodes/question.php:546 shortcodes/question.php:569 
+#: shortcodes/question.php:636 shortcodes/register.php:541 
+#: shortcodes/register.php:561 wpqa.php:138
+msgid "Browse"
+msgstr "مرور"
+
+#: functions/filters.php:135
+msgid "Brunei"
+msgstr "برونئی"
+
+#: functions/filters.php:136
+msgid "Bulgaria"
+msgstr "بلغارستان"
+
+#: functions/questions.php:331
+msgid "Bump"
+msgstr "بازخورد"
+
+#: functions/questions.php:330
+msgid "Bump question with points"
+msgstr "سوال با امتیاز"
+
+#: functions/questions.php:285
+msgid "Bump your question"
+msgstr "دنبال کردن سوال شما را بیخیال شد."
+
+#: functions/filters.php:137
+msgid "Burkina Faso"
+msgstr "بورکینافاسو"
+
+#: functions/filters.php:138
+msgid "Burundi"
+msgstr "بروندی"
+
+#: functions/menu.php:142
+msgid "Buy Points"
+msgstr "خرید محصول"
+
+#: CPT/statements.php:442 functions/rewrite.php:2885 payments/form.php:49 
+#: templates/buy-points.php:32 templates/buy-points.php:49
+msgid "Buy points"
+msgstr "خرید امتیاز"
+
+#: CPT/statements.php:426 payments/form.php:114 payments/packages.php:50 
+#: shortcodes/post.php:83
+msgid "Buy posts"
+msgstr "خرید پست"
+
+#: CPT/statements.php:420 payments/form.php:86 payments/packages.php:50 
+#: shortcodes/question.php:1488
+msgid "Buy questions"
+msgstr "خرید سوال"
+
+#: CPT/statements.php:448
+msgid "Buy with points"
+msgstr "خرید با امتیاز"
+
+#: shortcodes/group.php:212
+#, php-format
+msgid "By adding your group, you agree to the %1$s Terms of Service %2$s %3$s."
+msgstr ""
+"با افزودن گروه خود ، شما با  %1$s شرایط خدمات %2$s و  %3$s موافقت می کنید."
+
+#: functions/comments.php:641
+#, php-format
+msgid "By answering, you agree to the %1$s Terms of Service %2$s %3$s."
+msgstr "با پاسخ دادن ، شما با %1$s شرایط خدمات %2$s و %3$s موافقت می کنید."
+
+#: shortcodes/question.php:757
+#, php-format
+msgid ""
+"By asking your question, you agree to the %1$s Terms of Service %2$s %3$s."
+msgstr ""
+"شما با راسلل سوال خود قوانین را قبول کرده اید  %1$s مشاهده قوانین %2$s %3$s."
+
+#: functions/comments.php:641
+#, php-format
+msgid "By commenting, you agree to the %1$s Terms of Service %2$s %3$s."
+msgstr "با نظر دادن ، شما با %1$s شرایط خدمات %2$s و %3$s موافقت می کنید."
+
+#: templates/profile/withdrawals.php:92
+#, php-format
+msgid "By getting %s you will receive %s."
+msgstr "با دریافت  %s شما  %s  دریافت می کنید."
+
+#: shortcodes/post.php:365
+#, php-format
+msgid "By posting, you agreed to the %1$s Terms of Service %2$s %3$s."
+msgstr "با پست گذاشتن ، شما با %1$s شرایط خدمات %2$s و %3$s موافقت می کنید."
+
+#: shortcodes/register.php:99
+#, fuzzy
+#, php-format
+#| msgid ""
+#| "By registering, you agree to the <a target='%s' href='%s'>terms of "
+#| "service</a>%s."
+msgid "By registering, you agree to the %1$s Terms of Service %2$s %3$s."
+msgstr ""
+"با ثبت نام کردن ،شما <a target='%s' href='%s'>قوانین و شرایط</a> را پذیرفته "
+"اید."
+
+#: functions/filters.php:139
+msgid "Cambodia"
+msgstr "کامبوج"
+
+#: functions/filters.php:140
+msgid "Cameroon"
+msgstr "کامرون"
+
+#: templates/subscriptions.php:124
+msgid "Can add a category."
+msgstr "می توانید یک دسته بندی اضافه کنید."
+
+#: templates/subscriptions.php:121
+msgid "Can add a group."
+msgstr "می توانید یک گروه اضافه کنید."
+
+#: templates/subscriptions.php:123
+msgid "Can add a post without payment."
+msgstr "می تواند یک پست را بدون پرداخت اضافه کنید."
+
+#: templates/subscriptions.php:122
+msgid "Can add a post."
+msgstr "می تواند یک پست اضافه کنید."
+
+#: templates/subscriptions.php:119
+msgid "Can add an answer without payment."
+msgstr "می تواند یک پاسخ را بدون پرداخت اضافه کنید."
+
+#: templates/subscriptions.php:118
+msgid "Can add an answer."
+msgstr "می تواند یک پاسخ اضافه کنید."
+
+#: templates/subscriptions.php:116
+msgid "Can ask a question without payment."
+msgstr "می تواند یک سوال را بدون پرداخت اضافه کنید."
+
+#: templates/subscriptions.php:115
+msgid "Can ask a question."
+msgstr "می تواند یک سوال بپرسید."
+
+#: templates/subscriptions.php:126
+msgid "Can can upload files."
+msgstr "می توانید فایل آپلود کنید."
+
+#: templates/subscriptions.php:133
+msgid "Can get auto approve to your answers when media is attached."
+msgstr "وقتی فایل پیوست یک رسانه است ، می توانید پاسخ خود را تأیید کنید."
+
+#: templates/subscriptions.php:128
+msgid "Can get auto approve to your answers."
+msgstr "می توانید پاسخ خود را تأیید کنید."
+
+#: templates/subscriptions.php:131
+msgid "Can get auto approve to your comments."
+msgstr "می توانید تایید خودکار نظرات خود را دریافت کنید."
+
+#: templates/subscriptions.php:129
+msgid "Can get auto approve to your group."
+msgstr "می توانید تایید خودکار گروه خود را دریافت کنید."
+
+#: templates/subscriptions.php:130
+msgid "Can get auto approve to your posts."
+msgstr "می توانید تأیید خودکار پست های خود را دریافت کنید."
+
+#: templates/subscriptions.php:132
+msgid "Can get auto approve to your questions when media is attached."
+msgstr ""
+"وقتی رسانه به آن پیوست می شود ، به طور خودکار سوالات شما را تأیید می کند."
+
+#: templates/subscriptions.php:127
+msgid "Can get auto approve to your questions."
+msgstr "می توانید تایید خودکار سوالات خود را دریافت کنید."
+
+#: templates/subscriptions.php:125
+msgid "Can send message."
+msgstr "می توانید پیام ارسال کنید."
+
+#: templates/subscriptions.php:120
+msgid "Can show answers."
+msgstr "پاسخ ها را ببینید."
+
+#: templates/subscriptions.php:117
+msgid "Can show questions."
+msgstr "سوالات را ببینید."
+
+#: functions/filters.php:141
+msgid "Canada"
+msgstr "کانادا"
+
+#: wpqa.php:261 wpqa.php:309
+msgid "Cancel reply."
+msgstr "لغو ریپلای"
+
+#: functions/functions.php:1762 wpqa.php:268
+msgid "Cancel the best answer"
+msgstr "لغو بهترین پاسخ"
+
+#: functions/group.php:61
+msgid "Cancel the request"
+msgstr "لغو درخواست"
+
+#: templates/subscriptions.php:94
+msgid "Cancel your subscription"
+msgstr "لغو اشتراک"
+
+#: CPT/statements.php:339 CPT/statements.php:395
+msgid "Canceled"
+msgstr "کنسل شد"
+
+#: templates/profile/points.php:101
+#, fuzzy
+#| msgid "Canceled your answer best answer."
+msgid "Canceled your answer as the best answer."
+msgstr "لغو پاسخ حود از بهترین پاسخ."
+
+#: CPT/notifications.php:482
+#, fuzzy
+#| msgid "canceled your answer best answer."
+msgid "canceled your answer as the best answer."
+msgstr "لغو پاسخ حود"
+
+#: functions/filters.php:142
+msgid "Cape Verde"
+msgstr "کیپ ورد"
+
+#: functions/functions.php:35 functions/functions.php:37 
+#: functions/functions.php:45
+msgid "Captcha"
+msgstr "کد امنیتی"
+
+#: CPT/questions.php:172 shortcodes/post.php:297 shortcodes/question.php:446
+msgid "Category"
+msgstr "دسته بندی"
+
+#: functions/functions.php:2641
+msgid "category"
+msgstr "دسته بندی"
+
+#: shortcodes/category.php:126
+msgid "Category name"
+msgstr "نام دسته بندی"
+
+#: CPT/requests.php:286
+msgid "Category requests"
+msgstr "درخواست های دسته بندی"
+
+#: functions/filters.php:143
+msgid "Cayman Islands"
+msgstr "جزایر کیمن"
+
+#: functions/filters.php:144
+msgid "Central African Republic"
+msgstr "جمهوری آفریقای مرکزی"
+
+#: functions/filters.php:145
+msgid "Chad"
+msgstr "چاد"
+
+#: functions/rewrite.php:1975 templates/profile/edit-tabs.php:72
+msgid "Change Password"
+msgstr "تغییر رمز عبور"
+
+#: functions/menu.php:157 shortcodes/profile.php:671
+msgid "Change password"
+msgstr "تغییر رمز عبور"
+
+#: templates/subscriptions.php:87
+msgid "Change your plan"
+msgstr "تغییر پلن شما"
+
+#: shortcodes/register.php:240
+msgid "Check your email please to activate your membership."
+msgstr "لطفا ایمیل خود را چک کنید تا عضویت خود را فعال کنید."
+
+#: shortcodes/password.php:109
+msgid "Check your email please."
+msgstr "لطفا ایمیل خود را چک کنید."
+
+#: shortcodes/password.php:190
+msgid "Check your email, Your password has been reset."
+msgstr "ایمیل خود را چک کنید. پسورد شما ریست شده"
+
+#: functions/check-account.php:94
+#, fuzzy
+#| msgid "Check your email again."
+msgid "Check your mail again."
+msgstr "مجدداً ایمیلتان را بررسی کنید."
+
+#: functions/rewrite.php:2881 templates/checkout.php:15
+msgid "Checkout"
+msgstr "تسویه حساب"
+
+#: functions/filters.php:146
+msgid "Chile"
+msgstr "شیلی"
+
+#: functions/filters.php:147
+msgid "China"
+msgstr "چین"
+
+#: functions/comments.php:697 shortcodes/question.php:683
+msgid "Choose from here the video type."
+msgstr "نوع ویدئو را از اینجا انتخاب کنید."
+
+#: payments/form.php:261
+msgid "Choose your currency"
+msgstr "واحد پول خود را انتخاب کنید"
+
+#: CPT/notifications.php:478 templates/profile/points.php:99
+#, fuzzy
+#| msgid "chosen your answer best answer."
+msgid "Chosen your answer as Best answer."
+msgstr "پاسخ شما به بهترین پاسخ تبدیل شد"
+
+#: functions/filters.php:148
+msgid "Christmas Island"
+msgstr "جزیره کریسمس"
+
+#: payments/form.php:523 shortcodes/profile.php:586 
+#: shortcodes/profile.php:1235 shortcodes/register.php:582
+msgid "City"
+msgstr "شهر"
+
+#: wpqa.php:141
+msgid "Click here to continue."
+msgstr "برای ادامه اینجا کلیک  کنید."
+
+#: functions/functions.php:45
+msgid "Click here to update the captcha"
+msgstr "به جهت بروز رسانی کپچا کلیک کنید"
+
+#: functions/functions.php:46
+msgid "Click on image to update the captcha."
+msgstr "برای به روز رسانی گذرواژه امنیتی بر روی تصویر کلیک کنید"
+
+#: functions/questions.php:458
+msgid "Close"
+msgstr "بسته"
+
+#: functions/questions.php:458
+msgid "Close the question"
+msgstr "بستن پرسش"
+
+#: functions/functions.php:2208
+msgid "Closed"
+msgstr "بسته شده"
+
+#: functions/filters.php:149
+msgid "Cocos (Keeling) Islands"
+msgstr "جزایر کوکوس"
+
+#: functions/filters.php:150
+msgid "Colombia"
+msgstr "کلمبیا"
+
+#: CPT/notifications.php:522 CPT/notifications.php:608
+msgid "comment"
+msgstr "نظر"
+
+#: functions/author.php:244 functions/author.php:382 
+#: functions/comments.php:1274 functions/functions.php:799 
+#: shortcodes/comment.php:46 widgets/stats.php:79
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] "دیدگاه"
+
+#: functions/functions.php:1605
+#, php-format
+msgid "comment on %1$s at %2$s"
+msgstr "نظر درباره%1$ s در %2$s"
+
+#: CPT/posts.php:75 functions/comments.php:15 functions/comments.php:1361 
+#: functions/filters.php:79 functions/functions.php:2158 
+#: functions/menu.php:287 functions/rewrite.php:1963 shortcodes/post.php:16 
+#: templates/profile/head-tabs.php:106 templates/search-form.php:82 
+#: templates/search-form.php:112 widgets/comments.php:39 widgets/tabs.php:86
+msgid "Comments"
+msgstr "نظرات"
+
+#: functions/filters.php:151
+msgid "Comoros"
+msgstr "کومور"
+
+#: wpqa.php:142
+#, fuzzy
+#| msgid "Complete your following to continue."
+msgid "Complete your following above to continue."
+msgstr "کاربر زیر را حذف کرده است."
+
+#: templates/profile/referrals.php:96
+msgid "Completed"
+msgstr "تکمیل شده"
+
+#: functions/check-account.php:132 shortcodes/profile.php:1019 
+#: shortcodes/register.php:235
+msgid "Confirm account"
+msgstr "تایید حساب"
+
+#: shortcodes/profile.php:678 shortcodes/register.php:72
+msgid "Confirm Password"
+msgstr "تکرار رمز عبور"
+
+#: functions/filters.php:152
+msgid "Congo (Brazzaville)"
+msgstr "کنگو (برازاویل)"
+
+#: functions/filters.php:153
+msgid "Congo (Kinshasa)"
+msgstr "کنگو (کینشاسا)"
+
+#: CPT/messages.php:70 CPT/reports.php:161 shortcodes/posts.php:34
+msgid "Content"
+msgstr "مقدار"
+
+#: functions/filters.php:154
+msgid "Cook Islands"
+msgstr "جزایر کوک"
+
+#: templates/profile/referrals.php:60
+msgid "Copy"
+msgstr "کپی"
+
+#: templates/profile/referrals.php:58
+msgid "Copy and paste your referral link anywhere."
+msgstr "پیوند ارجاع خود را در هر کجا کپی و آنرا جایگذاری کنید."
+
+#: functions/filters.php:155
+msgid "Costa Rica"
+msgstr "کاستاریکا"
+
+#: functions/functions.php:920 payments/form.php:509 
+#: shortcodes/profile.php:583 shortcodes/profile.php:1231 
+#: shortcodes/register.php:569
+msgid "Country"
+msgstr "کشور"
+
+#: CPT/statements.php:303
+msgid "coupon"
+msgstr "کوپن"
+
+#: payments/form.php:224
+#, php-format
+msgid "Coupon \"%s\" applied successfully."
+msgstr "کوپن \"%s\"  با موفقیت تایید شده است."
+
+#: payments/form.php:236
+#, php-format
+msgid "Coupon \"%s\" does not exist!."
+msgstr "کوپن \"%s\"  وجود ندارد !"
+
+#: payments/form.php:340
+msgid "Coupon code"
+msgstr "كد تخفیف:"
+
+#: payments/payments.php:320
+msgid "Coupon code applied successfully."
+msgstr "کد تخفیف با موفقیت اعمال شد."
+
+#: payments/form.php:234
+msgid "Coupon does not exist!."
+msgstr "کوپن وجود ندارد  !"
+
+#: shortcodes/register.php:556
+msgid "Cover Picture"
+msgstr "عکس روی کاور"
+
+#: widgets/buttons.php:49
+msgid "Create A New Account"
+msgstr "ساخت یک حساب جدید"
+
+#: functions/filters.php:156
+msgid "Croatia"
+msgstr "کرواسی"
+
+#: functions/filters.php:157
+msgid "Cuba"
+msgstr "کوبا"
+
+#: functions/filters.php:158
+msgid "Cura&Ccedil;ao"
+msgstr "Cura&Ccedil;ao"
+
+#: shortcodes/profile.php:313
+msgid "Custom Categories"
+msgstr "دسته بندی های سفارشی"
+
+#: shortcodes/profile.php:1171 shortcodes/profile.php:1254
+msgid "Custom fields"
+msgstr "موضوعات سفارشی"
+
+#: shortcodes/profile.php:72
+msgid "Custom Left Menu With Categories"
+msgstr "منوی چپ سفارشی با دسته ها"
+
+#: templates/profile/withdrawals.php:109
+msgid "Custom points"
+msgstr "امتیازات سفارشی"
+
+#: functions/filters.php:159
+msgid "Cyprus"
+msgstr "قبرس"
+
+#: functions/filters.php:160
+msgid "Czech Republic"
+msgstr "جمهوری چک"
+
+#: CPT/activities.php:57 CPT/groups.php:72 CPT/messages.php:73 
+#: CPT/notifications.php:57 CPT/points.php:57 CPT/posts.php:76 
+#: CPT/questions.php:175 CPT/reports.php:164 CPT/requests.php:60 
+#: CPT/statements.php:305
+msgid "Date"
+msgstr "تاریخ"
+
+#: CPT/activities.php:142 CPT/notifications.php:142 CPT/points.php:142 
+#: CPT/reports.php:307 CPT/requests.php:195 CPT/statements.php:608
+msgid "Date From"
+msgstr "فرم تاریخ"
+
+#: functions/functions.php:2147 templates/search-form.php:102
+msgid "Date Register"
+msgstr "تاریخ ثبت نام"
+
+#: CPT/activities.php:143 CPT/notifications.php:143 CPT/points.php:143 
+#: CPT/reports.php:308 CPT/requests.php:196 CPT/statements.php:609
+msgid "Date To"
+msgstr "تاریخ به"
+
+#: functions/author.php:417
+msgid "Decline"
+msgstr "رد کردن"
+
+#: templates/group-requests.php:36
+msgid "Decline All"
+msgstr "رد کردن همه"
+
+#: functions/group.php:67
+msgid "Decline invite"
+msgstr "رد کردن دعوت"
+
+#: CPT/notifications.php:569
+msgid "declined your request."
+msgstr "رد کردن درخواست"
+
+#: functions/comments.php:542 functions/comments.php:568 
+#: functions/functions.php:1781 functions/group.php:54 
+#: functions/questions.php:455 functions/review.php:25 
+#: shortcodes/group.php:123 shortcodes/group.php:149 shortcodes/post.php:320 
+#: shortcodes/posts.php:57 shortcodes/profile.php:696 
+#: shortcodes/question.php:595 shortcodes/question.php:601 
+#: shortcodes/question.php:623 shortcodes/register.php:531 
+#: shortcodes/register.php:552 templates/profile/messages.php:115
+msgid "Delete"
+msgstr "پاک کردن"
+
+#: functions/menu.php:172 shortcodes/profile.php:92
+msgid "Delete Account"
+msgstr "حذف حساب کاربری"
+
+#: functions/rewrite.php:1987 shortcodes/profile.php:649 
+#: templates/profile/edit-tabs.php:82
+msgid "Delete account"
+msgstr "حذف حساب کاربری"
+
+#: CPT/questions.php:319
+msgid "Delete group"
+msgstr "حذف گروه"
+
+#: CPT/questions.php:315
+msgid "Delete post"
+msgstr "حذف مطلب"
+
+#: CPT/questions.php:317
+msgid "Delete question"
+msgstr "حذف پرسش"
+
+#: CPT/activities.php:367
+msgid "Delete user"
+msgstr "حذف کاربر"
+
+#: shortcodes/profile.php:653
+msgid "Delete your account?"
+msgstr "آیا مایل به حذف حساب کاربری خود هستید."
+
+#: CPT/questions.php:338 functions/comments.php:1312
+msgid "Delete?"
+msgstr "حذف؟"
+
+#: CPT/posts.php:97
+msgid "Deleted group"
+msgstr "گروه حذف شده."
+
+#: functions/ajax-action.php:1031 functions/ajax-action.php:1170 
+#: functions/comments.php:445 functions/functions.php:1193 
+#: templates/profile/messages.php:61
+msgid "Deleted successfully."
+msgstr "با موفقیت حذف شد."
+
+#: CPT/activities.php:85 CPT/activities.php:267 CPT/notifications.php:85 
+#: CPT/notifications.php:425 CPT/points.php:85 CPT/reports.php:200 
+#: CPT/requests.php:78
+msgid "Deleted user"
+msgstr "کاربر حذف شده"
+
+#: templates/profile/points.php:129
+msgid "Deleted your best answer."
+msgstr "بهترین پاسخ خود را حذف کرد."
+
+#: templates/profile/points.php:131
+msgid "Deleted your following user."
+msgstr "کاربر زیر را حذف کرده است."
+
+#: templates/profile/points.php:107
+msgid "Deleted your question."
+msgstr "سوال خود را حذف."
+
+#: CPT/notifications.php:530
+#, fuzzy
+#| msgid "Deleted your question."
+msgid "deleted your question."
+msgstr "سوال خود را حذف."
+
+#: wpqa.php:345
+msgid "Deleting..."
+msgstr "در حال حذف ..."
+
+#: functions/filters.php:161
+msgid "Denmark"
+msgstr "دانمارک"
+
+#: CPT/messages.php:203 shortcodes/post.php:336 shortcodes/question.php:643
+msgid "Details"
+msgstr "مشخصات"
+
+#: templates/profile/points.php:97
+msgid "Discount points to bump question."
+msgstr " تخفیف امتیازاز سوال چالش برانگیز"
+
+#: functions/group.php:164
+msgid "Discussion"
+msgstr "گفت و گو"
+
+#: functions/functions.php:1723 functions/questions.php:421
+msgid "Dislike"
+msgstr "نپسندیدن"
+
+#: shortcodes/profile.php:161 shortcodes/register.php:519
+#, fuzzy
+#| msgid "Display name"
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#: functions/filters.php:162
+msgid "Djibouti"
+msgstr "جیبوتی"
+
+#: shortcodes/profile.php:527
+msgid "Do you like to get mails for the new payments?"
+msgstr "آیا دوست دارید برای پرداخت های جدید ایمیل دریافت کنید؟"
+
+#: shortcodes/profile.php:548
+msgid ""
+"Do you like to get mails when new answers are added to the question that you "
+"follow?"
+msgstr ""
+"آیا دوست دارید وقتی پاسخ جدیدی به سوالی که دنبال می کنید، ایمیل دریافت کنید؟"
+
+#: shortcodes/profile.php:541
+msgid "Do you like to get mails when new answers are added to your questions?"
+msgstr ""
+"آیا دوست دارید برای پاسخ جدید در سوال شما ایمیل برنامه ریزی شده دریافت کنید؟"
+
+#: shortcodes/profile.php:513
+msgid "Do you like to get mails when new questions are added?"
+msgstr "آیا دوست دارید برای سوال جدید ایمیل برنامه ریزی شده دریافت کنید؟"
+
+#: shortcodes/profile.php:555
+msgid "Do you like to get mails when new replies are added to your answers?"
+msgstr "آیا دوست دارید برای پاسخ جدید ایمیل برنامه ریزی شده دریافت کنید؟"
+
+#: shortcodes/profile.php:534
+msgid "Do you like to get mails when you receive new messages?"
+msgstr "آیا دوست دارید برای پیام جدید ایمیل برنامه ریزی شده دریافت کنید؟"
+
+#: shortcodes/profile.php:506
+msgid "Do you like to get scheduled mails for the recent questions?"
+msgstr "آیا دوست دارید برای سوالات اخیر ایمیل برنامه ریزی شده دریافت کنید؟"
+
+#: shortcodes/profile.php:300
+#, fuzzy
+#| msgid "Do you need to receive message from another users?"
+msgid "Do you like to receive message from other users?"
+msgstr "امکان دریافت پیام از سایر کاربران"
+
+#: shortcodes/profile.php:520
+msgid "Do you like to unsubscribe from all the mails?"
+msgstr "آیا دوست دارید اشتراک تمام ایمیل ها را لغو کنید؟"
+
+#: functions/filters.php:163
+msgid "Dominica"
+msgstr "دومینیکا"
+
+#: functions/filters.php:164
+msgid "Dominican Republic"
+msgstr "جمهوری دومینیکن"
+
+#: shortcodes/register.php:814
+msgid "Don't have account,"
+msgstr "حساب کاربری ندارید ،"
+
+#: CPT/messages.php:190 shortcodes/password.php:33 shortcodes/post.php:282 
+#: shortcodes/profile.php:170 shortcodes/question.php:352 
+#: shortcodes/register.php:48 shortcodes/register.php:61
+msgid "E-Mail"
+msgstr "ایمیل"
+
+#: functions/points.php:58
+msgid "Each time when a user follows you."
+msgstr "هر بار که کاربری مرا فالو می کند."
+
+#: functions/functions.php:2644
+msgid "Earn More Points!"
+msgstr "کسب امتیاز بیشتر!"
+
+#: templates/profile/referrals.php:106
+msgid "Earned"
+msgstr "بدست آمده"
+
+#: functions/filters.php:165
+msgid "Ecuador"
+msgstr "اکوادور"
+
+#: CPT/questions.php:102 CPT/questions.php:128 functions/functions.php:1778 
+#: functions/group.php:167 functions/questions.php:452 functions/review.php:22
+msgid "Edit"
+msgstr "ویرایش"
+
+#: CPT/activities.php:24
+msgid "Edit Activity"
+msgstr "ویرایش فعالیت ها"
+
+#: CPT/questions.php:101
+msgid "Edit Category"
+msgstr "ویرایش دسته بندی"
+
+#: shortcodes/comment.php:64
+msgid "Edit Comment"
+msgstr "ویرایش دیدگاه"
+
+#: functions/rewrite.php:2923
+msgid "Edit comment"
+msgstr "ویرایش دیدگاه"
+
+#: CPT/groups.php:34 shortcodes/group.php:228
+msgid "Edit Group"
+msgstr "ویرایش گروه"
+
+#: functions/rewrite.php:2903
+msgid "Edit group"
+msgstr "ویرایش گروه"
+
+#: functions/rewrite.php:2917
+msgid "Edit group post"
+msgstr "ویرایش پست گروه"
+
+#: CPT/messages.php:27
+msgid "Edit Message"
+msgstr "ویرایش پیام"
+
+#: CPT/notifications.php:24
+msgid "Edit Notification"
+msgstr "ویرایش اطلاع رسانی"
+
+#: CPT/points.php:24
+msgid "Edit Point"
+msgstr "ویرایش امتیازات"
+
+#: CPT/posts.php:31
+msgid "Edit Post"
+msgstr "ویرایش پست"
+
+#: functions/rewrite.php:2921
+msgid "Edit post"
+msgstr "ویرایش پست"
+
+#: functions/menu.php:152
+msgid "Edit Profile"
+msgstr "ویرایش پروفایل"
+
+#: functions/cover.php:193 functions/functions.php:2001 
+#: functions/rewrite.php:1973 templates/profile/edit-tabs.php:70
+msgid "Edit profile"
+msgstr "ویرایش پروفایل"
+
+#: CPT/questions.php:68
+msgid "Edit Question"
+msgstr "ویرایش سوال"
+
+#: functions/rewrite.php:2897
+msgid "Edit question"
+msgstr "ویرایش سوال"
+
+#: CPT/reports.php:24
+msgid "Edit Report"
+msgstr "ویرایش گزارش"
+
+#: CPT/requests.php:27
+msgid "Edit Request"
+msgstr "ویرایش درخواست"
+
+#: functions/group.php:169
+msgid "Edit rules"
+msgstr "ویرایش قوانین"
+
+#: CPT/statements.php:182
+msgid "Edit Statement"
+msgstr "ویرایش عبارت ها"
+
+#: CPT/questions.php:127
+msgid "Edit Tag"
+msgstr "ویرایش برچسب"
+
+#: functions/rewrite.php:2899
+msgid "Edit tags"
+msgstr "ویرابش تگ"
+
+#: functions/functions.php:375
+msgid "Edit User"
+msgstr "ویرایش کاربر"
+
+#: CPT/statements.php:344
+msgid "Edit user"
+msgstr "ویرایش کاربر"
+
+#: shortcodes/post.php:394 shortcodes/posts.php:98
+msgid "Edit Your Post"
+msgstr "پست خود را ویرایش کنید"
+
+#: shortcodes/question.php:810
+msgid "Edit Your Question"
+msgstr "ویرایش پرسش"
+
+#: functions/comments.php:1059 shortcodes/group.php:544 
+#: shortcodes/post.php:640 shortcodes/posts.php:360 
+#: shortcodes/question.php:1003 shortcodes/question.php:1619
+msgid "Edited successfully."
+msgstr "ویرایش با موفقیت انجام شد."
+
+#: functions/filters.php:166
+msgid "Egypt"
+msgstr "مصر"
+
+#: functions/filters.php:167
+msgid "El Salvador"
+msgstr "السالوادور"
+
+#: functions/author.php:351 shortcodes/profile.php:580 
+#: templates/profile/referrals.php:144
+msgid "Email"
+msgstr "مقدار"
+
+#: functions/filters.php:168
+msgid "Equatorial Guinea"
+msgstr "گینه استوایی"
+
+#: functions/filters.php:169
+msgid "Eritrea"
+msgstr "اریتره"
+
+#: CPT/messages.php:318 CPT/messages.php:331 CPT/messages.php:333 
+#: CPT/messages.php:336 CPT/messages.php:338 CPT/messages.php:340 
+#: CPT/messages.php:344 CPT/messages.php:345 CPT/messages.php:346 
+#: CPT/messages.php:351 CPT/messages.php:355 functions/comments.php:1108 
+#: functions/comments.php:1120 functions/comments.php:1123 
+#: functions/comments.php:1126 functions/comments.php:1130 
+#: shortcodes/category.php:88 shortcodes/category.php:93 
+#: shortcodes/category.php:99 shortcodes/group.php:325 
+#: shortcodes/group.php:336 shortcodes/group.php:338 shortcodes/group.php:341 
+#: shortcodes/group.php:578 shortcodes/group.php:589 shortcodes/group.php:592 
+#: shortcodes/group.php:741 shortcodes/group.php:745 shortcodes/group.php:749 
+#: shortcodes/group.php:753 shortcodes/login.php:119 
+#: shortcodes/password.php:66 shortcodes/post.php:431 shortcodes/post.php:435 
+#: shortcodes/post.php:437 shortcodes/post.php:440 shortcodes/post.php:443 
+#: shortcodes/post.php:446 shortcodes/post.php:452 shortcodes/post.php:453 
+#: shortcodes/post.php:454 shortcodes/post.php:676 shortcodes/post.php:684 
+#: shortcodes/post.php:687 shortcodes/post.php:788 shortcodes/post.php:792 
+#: shortcodes/post.php:797 shortcodes/posts.php:185 shortcodes/posts.php:200 
+#: shortcodes/posts.php:399 shortcodes/posts.php:413 shortcodes/posts.php:416 
+#: shortcodes/posts.php:518 shortcodes/profile.php:793 
+#: shortcodes/profile.php:798 shortcodes/profile.php:804 
+#: shortcodes/profile.php:807 shortcodes/profile.php:816 
+#: shortcodes/profile.php:820 shortcodes/profile.php:822 
+#: shortcodes/profile.php:825 shortcodes/profile.php:828 
+#: shortcodes/profile.php:831 shortcodes/profile.php:834 
+#: shortcodes/profile.php:837 shortcodes/profile.php:840 
+#: shortcodes/profile.php:860 shortcodes/profile.php:863 
+#: shortcodes/profile.php:866 shortcodes/profile.php:869 
+#: shortcodes/profile.php:872 shortcodes/profile.php:875 
+#: shortcodes/profile.php:878 shortcodes/profile.php:881 
+#: shortcodes/profile.php:884 shortcodes/question.php:1056 
+#: shortcodes/question.php:1071 shortcodes/question.php:1073 
+#: shortcodes/question.php:1076 shortcodes/question.php:1079 
+#: shortcodes/question.php:1082 shortcodes/question.php:1087 
+#: shortcodes/question.php:1090 shortcodes/question.php:1091 
+#: shortcodes/question.php:1092 shortcodes/question.php:1673 
+#: shortcodes/question.php:1685 shortcodes/question.php:1688 
+#: shortcodes/question.php:1960 shortcodes/question.php:1964 
+#: shortcodes/question.php:1967 shortcodes/question.php:1973 
+#: shortcodes/question.php:1979 shortcodes/question.php:1996 
+#: shortcodes/question.php:1999 shortcodes/question.php:2005 
+#: shortcodes/question.php:2008 shortcodes/question.php:2024 
+#: shortcodes/question.php:2027 shortcodes/question.php:2031 
+#: shortcodes/question.php:2034 shortcodes/question.php:2037 
+#: shortcodes/question.php:2040 shortcodes/question.php:2044 
+#: shortcodes/question.php:2053 shortcodes/question.php:2063 
+#: shortcodes/question.php:2066 shortcodes/question.php:2072 
+#: shortcodes/register.php:158 shortcodes/register.php:660 
+#: shortcodes/register.php:663 shortcodes/register.php:666 
+#: shortcodes/register.php:669 shortcodes/register.php:673 
+#: shortcodes/register.php:676 shortcodes/register.php:701 
+#: shortcodes/register.php:704 shortcodes/register.php:707 
+#: shortcodes/register.php:710 shortcodes/register.php:713
+msgid "Error"
+msgstr "خطا"
+
+#: functions/functions.php:1857 functions/functions.php:1959
+msgid "Error 404"
+msgstr "خطای 404"
+
+#: functions/functions.php:1863 functions/functions.php:1982
+msgid "Error 404 "
+msgstr "خطای 404"
+
+#: shortcodes/posts.php:220
+msgid "Error in group post."
+msgstr "خطا در پست گروهی"
+
+#: shortcodes/group.php:362
+msgid "Error in group."
+msgstr "خطا در گروه"
+
+#: CPT/messages.php:377
+msgid "Error in message."
+msgstr "خطا در پیام"
+
+#: CPT/notifications.php:219 CPT/points.php:349 CPT/reports.php:127 
+#: CPT/requests.php:332 CPT/statements.php:24 CPT/statements.php:134 
+#: CPT/statements.php:237 functions/ajax-action.php:962 
+#: functions/ajax-action.php:1102 shortcodes/post.php:496
+msgid "Error in post."
+msgstr "خطا در مطلب."
+
+#: shortcodes/question.php:1121
+msgid "Error in question."
+msgstr "خطا در سوال"
+
+#: shortcodes/register.php:749 shortcodes/register.php:783
+msgid "Error in upload the image : "
+msgstr "خطا در بارگذاری تصویر: "
+
+#: shortcodes/register.php:685 shortcodes/register.php:696
+#, php-format
+msgid "Error size, The maximum size is %s MB."
+msgstr "خطاا ، حداکثر اندازه %s مگابایت است."
+
+#: shortcodes/register.php:683 shortcodes/register.php:694
+#, fuzzy
+#| msgid "Error type, Please upload: jpg,jpeg,png"
+msgid "Error type, Please upload: jpg, jpeg or png"
+msgstr "نوع خطا ، لطفا آپلود کنید:jpg,jpeg,png"
+
+#: shortcodes/register.php:218
+msgid "Error:"
+msgstr "خطا:"
+
+#: functions/filters.php:170
+msgid "Estonia"
+msgstr "استونی"
+
+#: functions/filters.php:171
+msgid "Ethiopia"
+msgstr "اتیوپی"
+
+#: functions/functions.php:2991
+msgid "Explain"
+msgstr "توضیح"
+
+#: functions/functions.php:547 functions/functions.php:818
+msgid "Explore Our Blog"
+msgstr "کاوش در وبلاگ ما"
+
+#: functions/functions.php:3539 shortcodes/profile.php:199 
+#: shortcodes/profile.php:1207
+msgid "Facebook"
+msgstr "فیسبوک"
+
+#: functions/filters.php:172
+msgid "Falkland Islands"
+msgstr "جزایر فالکلند"
+
+#: functions/filters.php:173
+msgid "Faroe Islands"
+msgstr "جزایر فارو"
+
+#: templates/profile/head-tabs.php:100
+msgid "Favorite Questions"
+msgstr "سوالات مورد علاقه"
+
+#: functions/menu.php:277 functions/rewrite.php:1959
+msgid "Favorites"
+msgstr "علاقه مندی ها"
+
+#: functions/comments.php:574 shortcodes/post.php:325 
+#: shortcodes/question.php:629
+msgid "Featured image"
+msgstr "تصویر برجسته"
+
+#: functions/author.php:212 shortcodes/profile.php:1248 
+#: shortcodes/register.php:603
+msgid "Female"
+msgstr "زن"
+
+#: functions/filters.php:174
+msgid "Fiji"
+msgstr "فیجی"
+
+#: functions/menu.php:187 functions/rewrite.php:1981 shortcodes/profile.php:87 
+#: shortcodes/profile.php:377 templates/profile/edit-tabs.php:78
+msgid "Financial"
+msgstr "مالی"
+
+#: shortcodes/profile.php:389
+msgid "Financial Payments"
+msgstr "پرداخت های مالی"
+
+#: functions/filters.php:175
+msgid "Finland"
+msgstr "فنلاند"
+
+#: shortcodes/profile.php:159 shortcodes/register.php:507
+msgid "First Name"
+msgstr "نام"
+
+#: functions/author.php:535 functions/author.php:537 
+#: functions/categories.php:245 functions/categories.php:246 wpqa.php:135
+msgid "Follow"
+msgstr "دنبال کردن"
+
+#: widgets/profile_strength.php:148
+#, fuzzy
+#, php-format
+#| msgid "Post categories"
+msgid "Follow %s categories"
+msgstr "دسته بندی مطالب"
+
+#: widgets/profile_strength.php:150
+#, fuzzy
+#, php-format
+#| msgid "Followers"
+msgid "Follow %s users"
+msgstr "دنبال کنندگان"
+
+#: wpqa.php:133
+msgid "Follow the question"
+msgstr "دنبال کردن سوال"
+
+#: functions/menu.php:272 functions/rewrite.php:1957
+msgid "Followed"
+msgstr "دنبال شده"
+
+#: templates/profile/head-tabs.php:102
+msgid "Followed Questions"
+msgstr "سوالات پرسیده شده"
+
+#: CPT/notifications.php:472
+msgid "followed you."
+msgstr "از این به بعد شما را دنبال می‌کند"
+
+#: CPT/notifications.php:500
+msgid "followed your question."
+msgstr "سوال شما را دنبال کرده."
+
+#: functions/categories.php:68 functions/cover.php:205 
+#: templates/profile/head.php:82 widgets/questions_categories.php:140 
+#: widgets/questions_categories.php:156
+msgid "Follower"
+msgid_plural "Followers"
+msgstr[0] "دنبال کننده"
+
+#: functions/functions.php:2045 functions/functions.php:2106 
+#: functions/functions.php:2156 functions/menu.php:192 
+#: functions/rewrite.php:1923 templates/profile/head.php:64
+msgid "Followers"
+msgstr "دنبال کنندگان"
+
+#: functions/menu.php:297 functions/rewrite.php:1967 
+#: templates/profile/head-tabs.php:110
+msgid "Followers Answers"
+msgstr "پاسخ های دنبال کننده ها"
+
+#: functions/menu.php:307 functions/rewrite.php:1971 
+#: templates/profile/head-tabs.php:114
+msgid "Followers Comments"
+msgstr "دیدگاه های دنبال کننده ها"
+
+#: functions/menu.php:302 functions/rewrite.php:1969 
+#: templates/profile/head-tabs.php:112
+msgid "Followers Posts"
+msgstr "پست های دنبال کننده ها"
+
+#: functions/menu.php:292 functions/rewrite.php:1965 
+#: templates/profile/head-tabs.php:108
+msgid "Followers Questions"
+msgstr "سوالات دنبال شده"
+
+#: functions/menu.php:197 functions/rewrite.php:1925 
+#: templates/profile/head.php:95
+msgid "Following"
+msgstr "دنبال کردن"
+
+#: payments/form.php:77 shortcodes/question.php:1478
+msgid "for"
+msgstr "برای"
+
+#: functions/points.php:60
+msgid "For adding a new post."
+msgstr "برای افزودن پست جدید"
+
+#: functions/points.php:48
+msgid "For adding a new question."
+msgstr "برای افزودن سوال جدید"
+
+#: functions/points.php:54
+msgid "For adding an answer."
+msgstr "برای افزودن پاسخ جئیئ"
+
+#: functions/points.php:68
+msgid "For adding your social media links to your profile."
+msgstr "برای اضافه کردن پیوندهای شبکه های اجتماعی خود"
+
+#: functions/points.php:66
+msgid "For referring a new user for paid membership."
+msgstr "برای ارجاع کاربر جدید برای عضویت پرداخت شده"
+
+#: functions/points.php:64
+msgid "For referring a new user."
+msgstr "برای پیشنهاد کاربر جدید"
+
+#: functions/points.php:62
+msgid "For Signing up."
+msgstr "برای ثبت نام"
+
+#: functions/functions.php:2802 functions/functions.php:2805 
+#: functions/functions.php:2808 functions/functions.php:2820
+#, fuzzy
+#| msgid "Forget Password"
+msgid "Forgot Password"
+msgstr "فراموشی رمز عبور"
+
+#: shortcodes/login.php:67
+#, fuzzy
+#| msgid "Forget Password?"
+msgid "Forgot Password?"
+msgstr "رمز خود را فراموش کرده اید؟"
+
+#: functions/filters.php:176
+msgid "France"
+msgstr "فرانسه"
+
+#: CPT/statements.php:339 templates/subscriptions.php:145
+msgid "Free"
+msgstr "رایگان"
+
+#: payments/form.php:56 payments/stripe.php:348 templates/subscriptions.php:107
+msgid "Free membership"
+msgstr "عضویت رایگان"
+
+#: functions/filters.php:177
+msgid "French Guiana"
+msgstr "گویان فرانسه"
+
+#: functions/filters.php:178
+msgid "French Polynesia"
+msgstr "پلینزی فرانسه"
+
+#: functions/filters.php:179
+msgid "French Southern Territories"
+msgstr "مناطق جنوبی فرانسه"
+
+#: shortcodes/login.php:205
+#, php-format
+msgid ""
+"From your profile you can view your %1$s recent questions %2$s, %3$s edit "
+"your password and profile details %4$s."
+msgstr ""
+"میتوانید از لینک روبرو پروفایلات  را ببنید %1$s سوالات اخیر  %2$s  %3$s "
+"ویرایش کردن حساب کاربری %4$s."
+
+#: functions/filters.php:180
+msgid "Gabon"
+msgstr "گابن"
+
+#: functions/filters.php:181
+msgid "Gambia"
+msgstr "گامبیا"
+
+#: shortcodes/profile.php:592 shortcodes/profile.php:1247 
+#: shortcodes/register.php:595
+msgid "Gender"
+msgstr "جنسیت"
+
+#: functions/filters.php:182
+msgid "Georgia"
+msgstr "گرجستان"
+
+#: functions/filters.php:183
+msgid "Germany"
+msgstr "آلمان"
+
+#: templates/subscriptions.php:102
+msgid "Get a free trial"
+msgstr "دریافت آزمایشی"
+
+#: shortcodes/question.php:705
+#, fuzzy
+#| msgid "Get notification by email when someone answers this question."
+msgid "Get notified by email when someone answers this question."
+msgstr "هنگامی که کسی به این سوال پاسخ دهد، از طریق ایمیل مطلع شوید"
+
+#: functions/subscriptions.php:17
+msgid "Get the paid membership"
+msgstr "دریافت عضویت ویژه"
+
+#: functions/filters.php:184
+msgid "Ghana"
+msgstr "غنا"
+
+#: functions/filters.php:185
+msgid "Gibraltar"
+msgstr "جبل الطارق"
+
+#: CPT/notifications.php:454
+msgid "Gift of the site"
+msgstr "هدیه سایت به شما"
+
+#: templates/profile/points.php:111
+msgid "Gift of the site."
+msgstr "هدیه سایت"
+
+#: includes/class-wpqa.php:54
+msgid "go back"
+msgstr "بازگشت"
+
+#: functions/filters.php:186
+msgid "Greece"
+msgstr "یونان"
+
+#: functions/filters.php:187
+msgid "Greenland"
+msgstr "گرینلند"
+
+#: functions/filters.php:188
+msgid "Grenada"
+msgstr "گرانادا"
+
+#: CPT/groups.php:30 CPT/posts.php:74
+msgid "Group"
+msgstr "گروه"
+
+#: functions/rewrite.php:2909
+msgid "Group admins"
+msgstr "مدیران گروه"
+
+#: CPT/posts.php:65 functions/comments.php:18 functions/comments.php:1234 
+#: functions/comments.php:1259 functions/comments.php:1362
+msgid "Group Comments"
+msgstr "نظرات گروه"
+
+#: templates/group-admins.php:80 templates/group-admins.php:83
+msgid "Group doesn't have any admins yet."
+msgstr "گروه هنوز مدیر ندارد."
+
+#: templates/blocked-users.php:64 templates/blocked-users.php:67
+msgid "Group doesn't have any blocked users yet."
+msgstr "گروه هنوز کاربر بلاک شده ای ندارد."
+
+#: templates/group-requests.php:75 templates/group-requests.php:78
+msgid "Group doesn't have any user requests yet."
+msgstr "درخواستی موجود نیست."
+
+#: templates/group-users.php:69 templates/group-users.php:72
+msgid "Group doesn't have any users yet."
+msgstr "کاربری در گروه نیست."
+
+#: shortcodes/group.php:67
+msgid "Group invitation"
+msgstr "دعوت نامه های گروه"
+
+#: functions/group.php:178
+msgid "Group Posts"
+msgstr "پست های گروه"
+
+#: functions/rewrite.php:2913 shortcodes/group.php:85
+msgid "Group posts"
+msgstr "پست های گروه"
+
+#: shortcodes/group.php:53
+msgid "Group privacy"
+msgstr "حریم خصوصی گروه"
+
+#: functions/rewrite.php:2905
+msgid "Group requests"
+msgstr "درخواست های گروه"
+
+#: widgets/rules.php:46
+msgid "Group Rules"
+msgstr "قوانین گروه"
+
+#: shortcodes/group.php:183
+msgid "Group rules"
+msgstr "قوانین گروه"
+
+#: shortcodes/group.php:45
+msgid "Group Title"
+msgstr "عنوان گروه"
+
+#: functions/rewrite.php:2907
+msgid "Group users"
+msgstr "اعضا گروه"
+
+#: CPT/groups.php:25 CPT/groups.php:27 CPT/groups.php:28 CPT/groups.php:29 
+#: functions/menu.php:267 functions/rewrite.php:1945 
+#: templates/profile/head-tabs.php:116 templates/search-form.php:90 
+#: widgets/groups.php:36
+msgid "Groups"
+msgstr "گروه ها"
+
+#: functions/filters.php:189
+msgid "Guadeloupe"
+msgstr "گوادلوپ"
+
+#: functions/filters.php:190
+msgid "Guatemala"
+msgstr "گواتمالا"
+
+#: functions/filters.php:191
+msgid "Guernsey"
+msgstr "گورنسی"
+
+#: functions/filters.php:192
+msgid "Guinea"
+msgstr "گینه"
+
+#: functions/filters.php:193
+msgid "Guinea-Bissau"
+msgstr "گینه بیسائو"
+
+#: functions/filters.php:194
+msgid "Guyana"
+msgstr "گویان"
+
+#: functions/filters.php:195
+msgid "Haiti"
+msgstr "هائیتی"
+
+#: CPT/activities.php:265 CPT/messages.php:504 CPT/notifications.php:421
+msgid "has"
+msgstr "دارای"
+
+#: functions/author.php:785
+msgid "has been qualified at the following categories"
+msgstr "در دسته بندی های زیر واجد شرایط شده اید."
+
+#: functions/author.php:785
+msgid "has been qualified at the following category"
+msgstr "در دسته بندی های زیر واجد شرایط شده اید."
+
+#: CPT/messages.php:130
+msgid "has delete his sent message."
+msgstr "پیام ارسالی او را حذف کرده است."
+
+#: CPT/messages.php:121
+msgid "has deleted his inbox message."
+msgstr "پیام صندوق ورودی خود را حذف کرده است."
+
+#: functions/functions.php:2695 shortcodes/login.php:248
+msgid "Have an account?"
+msgstr "حساب کاربری دارید؟"
+
+#: functions/filters.php:196
+msgid "Heard Island and McDonald Islands"
+msgstr "جزایر هرد و جزایر مک دونالد"
+
+#: functions/mails.php:248
+msgid "Hello"
+msgstr "سلام"
+
+#: shortcodes/login.php:205
+#, php-format
+msgid "Hello %1$s (not %2$s? %3$s Log out %4$s)"
+msgstr "سلام %1$s (نیستید %2$s? %3$sخارج شوید %4$s)"
+
+#: functions/mails.php:368
+msgid "Hello there,"
+msgstr "سلام،"
+
+#: functions/comments.php:807
+msgid "Hi there"
+msgstr "درود"
+
+#: templates/profile/withdrawals.php:137
+msgid "History Transfer"
+msgstr "سابقه انتقال ها"
+
+#: templates/search-form.php:56
+msgid "Hit enter to search"
+msgstr "عنوان جستجو ..."
+
+#: functions/functions.php:1810
+msgid "Home"
+msgstr "خانه"
+
+#: functions/filters.php:197
+msgid "Honduras"
+msgstr "هندوراس"
+
+#: functions/filters.php:198
+msgid "Hong Kong"
+msgstr "هنگ کنگ"
+
+#: functions/filters.php:199
+msgid "Hungary"
+msgstr "مجارستان"
+
+#: functions/filters.php:200
+msgid "Iceland"
+msgstr "ایسلند"
+
+#: functions/functions.php:2149 templates/search-form.php:104
+msgid "ID"
+msgstr "آیدی"
+
+#: templates/profile/withdrawals.php:130
+msgid ""
+"If you choose the all money option, you must still meet the minimum "
+"withdrawal amounts below. Your withdrawal request will not be processed "
+"unless it meets the minimum requirements."
+msgstr ""
+"اگر گزینه تمام پول را انتخاب کنید ، باید همچنان حداقل مبلغ برداشت را در زیر "
+"داشته باشید. درخواست برداشت شما پردازش نمی شود مگر اینکه حداقل شرایط را "
+"داشته باشد."
+
+#: wpqa.php:343
+msgid "If you press will delete the attachment!"
+msgstr "اگر شما فشار دهید ، ضمیمه پاک خواهد شد."
+
+#: shortcodes/question.php:477
+msgid "If you want to be doing a poll click here."
+msgstr "اگر شما می خواهید برای انجام نظر سنجی اینجا را کلیک کنید."
+
+#: shortcodes/question.php:489
+msgid "Image poll?"
+msgstr "نظر سنجی تصویر ؟"
+
+#: functions/functions.php:2212
+msgid "In Process"
+msgstr "در حال انجام"
+
+#: functions/functions.php:2641
+msgid "in the"
+msgstr "در این"
+
+#: templates/profile/messages.php:20
+msgid "inbox"
+msgstr "صندوق ورودی"
+
+#: functions/filters.php:201
+msgid "India"
+msgstr "هند"
+
+#: functions/filters.php:202
+msgid "Indonesia"
+msgstr "اندونزی"
+
+#: shortcodes/profile.php:229 shortcodes/profile.php:1223
+msgid "Instagram"
+msgstr "اینستاگرام"
+
+#: payments/payments.php:266
+msgid "Instant Payment Notification - Received Payment"
+msgstr "نوتیفیکیشن فوری پردات -رداخت دریافت شد"
+
+#: functions/functions.php:926
+msgid "Invitation"
+msgstr "دعوت"
+
+#: templates/profile/referrals.php:78
+msgid "Invitations Sent"
+msgstr "ارسال دعوت"
+
+#: functions/group.php:696
+msgid "Invite a new user"
+msgstr "از کاربر جدیدی دعوت کنید"
+
+#: CPT/notifications.php:574
+msgid "invited you to the group."
+msgstr "شما را به گروه دعوت کرد."
+
+#: functions/filters.php:203
+msgid "Iran"
+msgstr "ایران"
+
+#: functions/filters.php:204
+msgid "Iraq"
+msgstr "عراق"
+
+#: shortcodes/question.php:477
+#, fuzzy
+#| msgid "This question is a poll?"
+msgid "Is this question is a poll?"
+msgstr "این سوال یک نظرسنجی است؟"
+
+#: functions/filters.php:206
+msgid "Isle of Man"
+msgstr "جزیره من"
+
+#: functions/filters.php:207
+msgid "Israel"
+msgstr "اسرائیل"
+
+#: functions/filters.php:208
+msgid "Italy"
+msgstr "ایتالیا"
+
+#: functions/filters.php:209
+msgid "Ivory Coast"
+msgstr "ساحل عاج"
+
+#: functions/filters.php:210
+msgid "Jamaica"
+msgstr "جامائیکا"
+
+#: functions/filters.php:211
+msgid "Japan"
+msgstr "ژاپن"
+
+#: functions/filters.php:212
+msgid "Jersey"
+msgstr "جرسی"
+
+#: functions/group.php:70
+msgid "Join"
+msgstr "پیوستن"
+
+#: functions/filters.php:213
+msgid "Jordan"
+msgstr "اردن"
+
+#: functions/functions.php:246
+msgid "k"
+msgstr "هزار"
+
+#: functions/filters.php:214
+msgid "Kazakhstan"
+msgstr "قزاقستان"
+
+#: functions/filters.php:215
+msgid "Kenya"
+msgstr "کنیا"
+
+#: functions/functions.php:2357
+msgid ""
+"Kindly fill the required fields, You need to fill all the required fields."
+msgstr "لطفا فیلدهای موردنظر را پر کنید"
+
+#: functions/filters.php:216
+msgid "Kiribati"
+msgstr "کیریباتی"
+
+#: functions/filters.php:217
+msgid "Kuwait"
+msgstr "کویت"
+
+#: functions/filters.php:218
+msgid "Kyrgyzstan"
+msgstr "قرقیزستان"
+
+#: functions/filters.php:219
+msgid "Laos"
+msgstr "لائوس"
+
+#: shortcodes/profile.php:160 shortcodes/register.php:513
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+#: functions/filters.php:220
+msgid "Latvia"
+msgstr "لتونی"
+
+#: functions/group.php:57
+msgid "Leave"
+msgstr "ترک کردن"
+
+#: functions/questions.php:579
+msgid "Leave an answer"
+msgstr "پاسخ بگذارید"
+
+#: functions/filters.php:221
+msgid "Lebanon"
+msgstr "لبنان"
+
+#: functions/filters.php:222
+msgid "Lesotho"
+msgstr "لسوتو"
+
+#: functions/filters.php:223
+msgid "Liberia"
+msgstr "لیبریا"
+
+#: functions/filters.php:224
+msgid "Libya"
+msgstr "لیبی"
+
+#: functions/filters.php:225
+msgid "Liechtenstein"
+msgstr "لیختن اشتاین"
+
+#: CPT/statements.php:580 functions/functions.php:3834 payments/form.php:61 
+#: payments/stripe.php:353 templates/subscriptions.php:112
+msgid "Lifetime membership"
+msgstr "عضویت دائمی"
+
+#: functions/functions.php:1719 functions/questions.php:417 wpqa.php:307
+msgid "Like"
+msgstr "لایک"
+
+#: CPT/notifications.php:556
+msgid "liked your group post."
+msgstr "پست لایک شد"
+
+#: CPT/reports.php:160
+msgid "Link"
+msgstr "لینک"
+
+#: functions/functions.php:3543
+msgid "LinkedIn"
+msgstr "لینکداین"
+
+#: shortcodes/profile.php:223 shortcodes/profile.php:1219
+msgid "Linkedin"
+msgstr "لینکدین"
+
+#: functions/filters.php:226
+msgid "Lithuania"
+msgstr "لیتوانی"
+
+#: functions/functions.php:3245
+msgid "Load More Answers"
+msgstr "نمایش پاسخ های بیشتر"
+
+#: functions/functions.php:3240
+msgid "Load More Comments"
+msgstr "بارگذاری نظرات بیشتر"
+
+#: functions/functions.php:3260
+msgid "Load More Groups"
+msgstr "بارگزاری بیشتر گروه"
+
+#: functions/functions.php:3267
+msgid "Load More Posts"
+msgstr "بارگذاری پست های بیشتر"
+
+#: functions/functions.php:3253
+msgid "Load More Questions"
+msgstr "بارگذاری بیشتر سوالات"
+
+#: functions/menu.php:312 wpqa.php:264
+#, fuzzy
+#| msgid "Logout"
+msgid "Log out"
+msgstr "خروج"
+
+#: wpqa.php:263
+msgid "Log out of this account"
+msgstr "خارج شدن از حساب کاربری"
+
+#: wpqa.php:262
+msgid "Logged in as"
+msgstr "وارد شده به عنوان"
+
+#: functions/author.php:514 functions/menu.php:72 functions/rewrite.php:2887 
+#: shortcodes/login.php:74 widgets/buttons.php:44 widgets/login.php:34
+msgid "Login"
+msgstr "ورود"
+
+#: functions/menu.php:77
+msgid "Login Pop Up"
+msgstr "ورود"
+
+#: functions/functions.php:1738
+msgid "Login to Reply"
+msgstr "ورود برای پاسخ."
+
+#: functions/menu.php:92
+msgid "Lost Password"
+msgstr "فراموشی رمز عبور"
+
+#: functions/rewrite.php:2891
+msgid "Lost password"
+msgstr "فراموشی گذرواژه"
+
+#: functions/menu.php:97
+msgid "Lost Password Pop Up"
+msgstr "فراموشی گذرواژه"
+
+#: shortcodes/password.php:26
+msgid ""
+"Lost your password? Please enter your email address. You will receive a link "
+"and will create a new password via email."
+msgstr ""
+"رمز را فراموش کردید ؟ لطفا ایمیل را وارد کنید تا لینک تغییر پسورد به ایمیل "
+"شما ارسال شود"
+
+#: functions/filters.php:227
+msgid "Luxembourg"
+msgstr "لوکزامبورگ"
+
+#: functions/filters.php:228
+msgid "Macao S.A.R., China"
+msgstr "ماکائو S.A.R.، چین"
+
+#: functions/filters.php:229
+msgid "Macedonia"
+msgstr "مقدونیه"
+
+#: functions/filters.php:230
+msgid "Madagascar"
+msgstr "ماداگاسکار"
+
+#: functions/menu.php:167 shortcodes/profile.php:500
+msgid "Mail Settings"
+msgstr "تنظیمات ایمیل"
+
+#: functions/rewrite.php:1985 templates/profile/edit-tabs.php:80
+msgid "Mail settings"
+msgstr "تنظیمات ایمیل"
+
+#: shortcodes/profile.php:77
+msgid "Mails Setting"
+msgstr "تنظیمات ایمیل"
+
+#: CPT/statements.php:365
+msgid "Make a refund"
+msgstr "بازپرداخت کنید"
+
+#: functions/filters.php:231
+msgid "Malawi"
+msgstr "مالاوی"
+
+#: functions/filters.php:232
+msgid "Malaysia"
+msgstr "مالزی"
+
+#: functions/filters.php:233
+msgid "Maldives"
+msgstr "مالدیو"
+
+#: functions/author.php:212 shortcodes/profile.php:1248 
+#: shortcodes/register.php:599
+msgid "Male"
+msgstr "مرد"
+
+#: functions/filters.php:234
+msgid "Mali"
+msgstr "مالی"
+
+#: functions/filters.php:235
+msgid "Malta"
+msgstr "مالت"
+
+#: functions/filters.php:236
+msgid "Marshall Islands"
+msgstr "جزایر مارشال"
+
+#: functions/filters.php:237
+msgid "Martinique"
+msgstr "مارتینیک"
+
+#: functions/filters.php:238
+msgid "Mauritania"
+msgstr "موریتانی"
+
+#: functions/filters.php:239
+msgid "Mauritius"
+msgstr "موریس"
+
+#: functions/filters.php:240
+msgid "Mayotte"
+msgstr "مایوت"
+
+#: templates/profile/head.php:112
+msgid "Member"
+msgid_plural "Members"
+msgstr[0] "اعضاء"
+
+#: functions/subscriptions.php:171
+msgid "membership"
+msgstr "عضویت"
+
+#: CPT/statements.php:433
+msgid "Membership renew"
+msgstr "عضویت تمدید می شود"
+
+#: CPT/statements.php:438
+msgid "Membership reward"
+msgstr "پاداش عضویت"
+
+#: CPT/statements.php:435
+msgid "Membership trial"
+msgstr "عضویت آزمایشی"
+
+#: functions/author.php:501
+msgid "Message"
+msgstr "پیام "
+
+#: CPT/messages.php:134
+msgid "Message has not been deleted"
+msgstr "پیام حذف نشد."
+
+#: CPT/messages.php:197
+msgid "Message Title"
+msgstr "عنوان پیام"
+
+#: CPT/messages.php:18 CPT/messages.php:20 CPT/messages.php:21 
+#: CPT/messages.php:22 CPT/messages.php:23 functions/menu.php:227 
+#: functions/rewrite.php:1937 templates/profile/messages.php:17
+msgid "Messages"
+msgstr "پیام ها"
+
+#: functions/filters.php:241
+msgid "Mexico"
+msgstr "مکزیک"
+
+#: functions/filters.php:242
+msgid "Micronesia"
+msgstr "میکرونزی"
+
+#: functions/functions.php:248
+msgid "mil"
+msgstr "میلیون"
+
+#: functions/filters.php:243
+msgid "Moldova"
+msgstr "مولداوی"
+
+#: functions/filters.php:244
+msgid "Monaco"
+msgstr "موناکو"
+
+#: functions/filters.php:245
+msgid "Mongolia"
+msgstr "مغولستان"
+
+#: functions/filters.php:246
+msgid "Montenegro"
+msgstr "مونته نگرو"
+
+#: payments/form.php:358
+msgid "month"
+msgstr "ماه"
+
+#: CPT/statements.php:576 functions/functions.php:3830 payments/form.php:57 
+#: payments/stripe.php:349 templates/subscriptions.php:108
+msgid "Monthly membership"
+msgstr "عضویت ماهانه"
+
+#: functions/filters.php:247
+msgid "Montserrat"
+msgstr "مونتسرات"
+
+#: functions/filters.php:248
+msgid "Morocco"
+msgstr "مراکش"
+
+#: widgets/tabs.php:84
+msgid "Most rated"
+msgstr "بیشترین امتیاز"
+
+#: widgets/tabs.php:84
+msgid "Most visited"
+msgstr "بیشتر بازدید شده"
+
+#: widgets/tabs.php:84
+msgid "Most voted"
+msgstr "بیشترین امتیاز"
+
+#: functions/filters.php:249
+msgid "Mozambique"
+msgstr "موزامبیک"
+
+#: CPT/statements.php:276
+msgid "My money"
+msgstr "دارایی من"
+
+#: functions/filters.php:250
+msgid "Myanmar"
+msgstr "میانمار"
+
+#: functions/functions.php:2046 functions/functions.php:2107 
+#: functions/functions.php:2148 templates/search-form.php:103
+msgid "Name"
+msgstr "نام"
+
+#: shortcodes/profile.php:436
+msgid "Name of the Account Holder"
+msgstr "نام صاحب حساب"
+
+#: functions/filters.php:251
+msgid "Namibia"
+msgstr "نامیبیا"
+
+#: functions/filters.php:252
+msgid "Nauru"
+msgstr "نائورو"
+
+#: shortcodes/register.php:808
+msgid "Need An Account,"
+msgstr "به حساب کاربری نیاز دارید؟"
+
+#: functions/filters.php:253
+msgid "Nepal"
+msgstr "نپال"
+
+#: functions/filters.php:254
+msgid "Netherlands"
+msgstr "هلند"
+
+#: functions/filters.php:255
+msgid "Netherlands Antilles"
+msgstr "آنتیل هلند"
+
+#: functions/functions.php:3247
+msgid "New Answers"
+msgstr "پاسخ های جدید"
+
+#: functions/filters.php:256
+msgid "New Caledonia"
+msgstr "کالدونیای جدید"
+
+#: shortcodes/category.php:55
+#, fuzzy
+#| msgid "New post for review"
+msgid "New category for review"
+msgstr "ارسال پست جدید برای بررسی"
+
+#: functions/comments.php:345
+#, fuzzy
+#| msgid "New post for review"
+msgid "New comment for review"
+msgstr "ارسال پست جدید برای بررسی"
+
+#: functions/functions.php:3242
+msgid "New Comments"
+msgstr "نظرات جدید"
+
+#: functions/functions.php:3271
+msgid "New Entries"
+msgstr "ورودی های جدید"
+
+#: CPT/groups.php:33
+msgid "New Group"
+msgstr "گروه جدید"
+
+#: shortcodes/group.php:278
+msgid "New group for review"
+msgstr "بازبینی گروه جدید"
+
+#: shortcodes/posts.php:139
+msgid "New group post for review"
+msgstr "پست جدید برای بازبینی"
+
+#: functions/functions.php:3264
+msgid "New Groups"
+msgstr "گروه های جدید"
+
+#: functions/referrals.php:27 functions/referrals.php:58
+msgid "New invitation"
+msgstr "دعوت نامه ی جدید"
+
+#: CPT/messages.php:26
+msgid "New Message"
+msgstr "پیام جدید"
+
+#: CPT/messages.php:273 functions/ajax-action.php:185 
+#: functions/functions.php:1362
+msgid "New message"
+msgstr "پیام جدید"
+
+#: shortcodes/profile.php:673
+msgid "New Password"
+msgstr "رمز عبور جدید"
+
+#: CPT/posts.php:30
+msgid "New Post"
+msgstr "پست جدید"
+
+#: shortcodes/post.php:212
+msgid "New post for review"
+msgstr "ارسال پست جدید برای بررسی"
+
+#: functions/mails.php:390
+msgid "New Post Submission"
+msgstr "ارسال نوشته جدید"
+
+#: CPT/questions.php:67
+msgid "New Question"
+msgstr "سوال جدید"
+
+#: functions/questions.php:23
+msgid "New question"
+msgstr "سوال جدید"
+
+#: shortcodes/question.php:927
+msgid "New question for review"
+msgstr "سوال جدید برای بازبینی"
+
+#: functions/functions.php:3257
+msgid "New Questions"
+msgstr "سوال جدید"
+
+#: templates/profile/withdrawals.php:48
+msgid "New request for review"
+msgstr "بازبینی درخواست جدید"
+
+#: CPT/requests.php:264 CPT/requests.php:289
+msgid "New requests"
+msgstr "درخواست های جدید"
+
+#: functions/check-account.php:73 shortcodes/register.php:252
+#, fuzzy
+#| msgid "New post for review"
+msgid "New user for review"
+msgstr "ارسال پست جدید برای بررسی"
+
+#: functions/filters.php:257
+msgid "New Zealand"
+msgstr "نیوزلند"
+
+#: functions/functions.php:2194
+msgid "Next"
+msgstr "بعدی"
+
+#: functions/filters.php:258
+msgid "Nicaragua"
+msgstr "نیکاراگوئه"
+
+#: shortcodes/profile.php:158 shortcodes/register.php:501
+msgid "Nickname"
+msgstr "نام مستعار"
+
+#: functions/filters.php:259
+msgid "Niger"
+msgstr "نیجر"
+
+#: functions/filters.php:260
+msgid "Nigeria"
+msgstr "نیجریه"
+
+#: functions/filters.php:261
+msgid "Niue"
+msgstr "نیو"
+
+#: CPT/activities.php:29
+msgid "No Activities Found in Trash."
+msgstr "فعالیتی در زباله دان نیست."
+
+#: CPT/activities.php:28
+msgid "No Activities Found."
+msgstr "فعالیتی یافت نشد."
+
+#: widgets/tabs.php:84
+msgid "No answers"
+msgstr "بدون پاسخ"
+
+#: CPT/questions.php:220
+msgid "No category"
+msgstr "بدون دسته بندی"
+
+#: widgets/tabs.php:84
+msgid "No comments"
+msgstr "بدون نظر"
+
+#: CPT/groups.php:41
+msgid "No Groups Found in Trash."
+msgstr "گروهی در زباله دان نیست."
+
+#: CPT/groups.php:40
+msgid "No Groups Found."
+msgstr "گروهی یافت نشد."
+
+#: CPT/messages.php:34
+msgid "No Messages Found in Trash."
+msgstr "پیامی در سطل زباله یافت نشد."
+
+#: CPT/messages.php:33
+msgid "No Messages Found."
+msgstr "هیچ پیامی یافت نشد."
+
+#: functions/functions.php:3244
+msgid "No more answers"
+msgstr "پاسخ دیگری وجود ندارد"
+
+#: functions/functions.php:3239
+msgid "No more comments"
+msgstr "نظر بیشتری وجود ندارد"
+
+#: functions/functions.php:3259
+msgid "No more groups"
+msgstr "گروه بیشتری نیست."
+
+#: functions/functions.php:3266
+msgid "No more posts"
+msgstr "بدون پست های بیشتر"
+
+#: functions/functions.php:3252
+msgid "No more questions"
+msgstr "سوال دیگری وجود ندارد"
+
+#: CPT/notifications.php:29
+msgid "No Notifications Found in Trash."
+msgstr "هیچ اطلاع رسانی در زباله دان نیست."
+
+#: CPT/notifications.php:28
+msgid "No Notifications Found."
+msgstr "اطلاع رسانی خاصی یافت نشد."
+
+#: CPT/points.php:29
+msgid "No Points Found in Trash."
+msgstr "امتیازی در زباله دان نیست."
+
+#: CPT/points.php:28
+msgid "No Points Found."
+msgstr "امتیازی یافت نشد."
+
+#: CPT/posts.php:38
+msgid "No Posts Found in Trash."
+msgstr "نوشته ای در زباله دان نیست."
+
+#: CPT/posts.php:37
+msgid "No Posts Found."
+msgstr "پستی یافت نشد."
+
+#: CPT/questions.php:75
+msgid "No Questions Found in Trash."
+msgstr "سوالی در سطل زباله یافت نشد."
+
+#: CPT/questions.php:74
+msgid "No Questions Found."
+msgstr "هیچ سوالی یافت نشد."
+
+#: CPT/reports.php:29
+msgid "No Reports Found in Trash."
+msgstr "گزارشی در زباله دان نیست."
+
+#: CPT/reports.php:28
+msgid "No Reports Found."
+msgstr "گزارشی یافت نشد."
+
+#: CPT/requests.php:32
+msgid "No Requests Found in Trash."
+msgstr "درخواستی در زباله دان نیست."
+
+#: CPT/requests.php:31
+msgid "No Requests Found."
+msgstr "درخواستی موجود نیست."
+
+#: functions/ajax-action.php:1819 functions/group.php:495 
+#: shortcodes/question.php:265
+msgid "No results found."
+msgstr "نتیجه ای پیدا نشد."
+
+#: CPT/statements.php:187
+msgid "No Statements Found in Trash."
+msgstr "عبارتی در زباله دان نیست."
+
+#: CPT/statements.php:186
+msgid "No Statements Found."
+msgstr "عبارتی نیست."
+
+#: CPT/questions.php:232
+msgid "No tags"
+msgstr "بدون برچسب"
+
+#: functions/questions.php:707
+msgid "No votes. Be the first one to vote."
+msgstr "اولین رای دهنده باشید."
+
+#: functions/filters.php:262
+msgid "Norfolk Island"
+msgstr "جزیره نورفولک"
+
+#: functions/filters.php:263
+msgid "North Korea"
+msgstr "کره شمالی"
+
+#: functions/filters.php:264
+msgid "Norway"
+msgstr "نروژ"
+
+#: shortcodes/profile.php:866
+msgid "Not a valid URL (Facebook)."
+msgstr "آدرس معتبر نیست."
+
+#: shortcodes/profile.php:881
+msgid "Not a valid URL (Instagram)."
+msgstr "آدرس معتبر نیست."
+
+#: shortcodes/profile.php:878
+msgid "Not a valid URL (Linkedin)."
+msgstr "آدرس معتبر نیست."
+
+#: shortcodes/profile.php:884
+msgid "Not a valid URL (Pinterest)."
+msgstr "آدرس معتبر نیست."
+
+#: shortcodes/profile.php:869
+msgid "Not a valid URL (Twitter)."
+msgstr "آدرس معتبر نیست."
+
+#: shortcodes/profile.php:875
+msgid "Not a valid URL (Vimeo)."
+msgstr "آدرس معتبر نیست."
+
+#: shortcodes/profile.php:872
+msgid "Not a valid URL (Youtube)."
+msgstr "آدرس معتبر نیست."
+
+#: shortcodes/question.php:774
+msgid "Note: this option shows for the admin only!"
+msgstr "توجه داشته باشید: این گزینه فقط برای مدیر نشان داده می شود!"
+
+#: shortcodes/question.php:784
+#, fuzzy
+#| msgid "Note: this option shows for the admin only!"
+msgid "Note: this option shows for the admin or moderators only!"
+msgstr "توجه داشته باشید: این گزینه فقط برای مدیر نشان داده می شود!"
+
+#: CPT/notifications.php:55
+msgid "Notification"
+msgstr "نوتیفیکشن"
+
+#: CPT/notifications.php:18 CPT/notifications.php:20 CPT/notifications.php:21 
+#: CPT/notifications.php:22 CPT/notifications.php:23 functions/menu.php:212 
+#: functions/rewrite.php:1931 widgets/notifications.php:43
+msgid "Notifications"
+msgstr "اطلاعیه"
+
+#: CPT/questions.php:358
+msgid "OFF"
+msgstr "خاموش"
+
+#: functions/functions.php:3246
+msgid "Old Answers"
+msgstr "جواب های قدیمی"
+
+#: functions/functions.php:3241
+msgid "Old Comments"
+msgstr "نظرات قدیمی"
+
+#: functions/functions.php:3270
+msgid "Old Entries"
+msgstr "ورودی های قدیمی"
+
+#: functions/functions.php:3263
+msgid "Old Groups"
+msgstr "گروه های قدیمی"
+
+#: functions/functions.php:3256
+msgid "Old Questions"
+msgstr "سوال های قدیمی تر"
+
+#: functions/filters.php:265
+msgid "Oman"
+msgstr "عمان"
+
+#: CPT/questions.php:358
+msgid "ON"
+msgstr "روشن"
+
+#: functions/functions.php:790
+msgid "On"
+msgstr "روشن"
+
+#: functions/mails.php:427
+msgid "Once Monthly"
+msgstr "یک ماهه"
+
+#: functions/mails.php:423
+msgid "Once Weekly"
+msgstr "هفتگی"
+
+#: CPT/messages.php:118
+msgid "One of the users has deleted his inbox message."
+msgstr "یکی از کاربران صندوق پیام ها را خالی کرده است."
+
+#: shortcodes/profile.php:628
+msgid "Only me"
+msgstr "فقط من"
+
+#: functions/questions.php:458
+msgid "Open"
+msgstr "باز"
+
+#: functions/questions.php:458
+msgid "Open the question"
+msgstr "بازکردن پرسش"
+
+#: shortcodes/login.php:40 shortcodes/register.php:39
+msgid "or use"
+msgstr "یا استفاده کنید از"
+
+#: functions/author.php:212 shortcodes/profile.php:1248 
+#: shortcodes/register.php:608
+msgid "Other"
+msgstr "دیگر"
+
+#: functions/functions.php:1986
+msgid "Page"
+msgstr "صفحه"
+
+#: templates/subscriptions.php:145
+msgid "Paid"
+msgstr "پولی"
+
+#: functions/functions.php:1554
+msgid "Paid Answer"
+msgstr "پاسخ پولی"
+
+#: templates/subscriptions.php:175
+msgid "Paid features"
+msgstr "امکان پولی"
+
+#: CPT/statements.php:429
+msgid "Paid for sticky"
+msgstr "سنجاق پولی"
+
+#: CPT/statements.php:432 functions/subscriptions.php:171 payments/form.php:66 
+#: payments/stripe.php:355
+msgid "Paid membership"
+msgstr "عضویت غیر  رایگان"
+
+#: functions/menu.php:252 functions/rewrite.php:1955 
+#: templates/profile/head-tabs.php:98
+msgid "Paid Questions"
+msgstr "پرداخت پرسش"
+
+#: functions/filters.php:266
+msgid "Pakistan"
+msgstr "پاکستان"
+
+#: functions/filters.php:267
+msgid "Palestinian Territory"
+msgstr "قلمرو فلسطین"
+
+#: functions/filters.php:268
+msgid "Panama"
+msgstr "پاناما"
+
+#: functions/filters.php:269
+msgid "Papua New Guinea"
+msgstr "پاپوآ گینه نو"
+
+#: functions/filters.php:270
+msgid "Paraguay"
+msgstr "پاراگوئه"
+
+#: CPT/activities.php:27
+msgid "Parent Activity:"
+msgstr "فعالیت والد:"
+
+#: CPT/groups.php:39
+msgid "Parent Group:"
+msgstr "گروه والد"
+
+#: CPT/messages.php:32
+msgid "Parent Message:"
+msgstr "پیام والد"
+
+#: CPT/notifications.php:27
+msgid "Parent Notification:"
+msgstr "اطلاع رسانی والد"
+
+#: CPT/points.php:27
+msgid "Parent Point:"
+msgstr "امتیاز والد:"
+
+#: CPT/posts.php:36
+msgid "Parent Post:"
+msgstr "پست والد:"
+
+#: CPT/questions.php:73
+msgid "Parent Question:"
+msgstr "پرسش مادر:"
+
+#: CPT/reports.php:27
+msgid "Parent Report:"
+msgstr "گزاش والد"
+
+#: CPT/requests.php:30
+msgid "Parent Request:"
+msgstr "درخواست والد:"
+
+#: CPT/statements.php:185
+msgid "Parent Statement:"
+msgstr "عبارت والد:"
+
+#: functions/questions.php:719
+msgid "Participate in Poll, Choose Your Answer."
+msgstr "یک گزینه را انتخاب کنید"
+
+#: shortcodes/login.php:54 shortcodes/register.php:49 
+#: shortcodes/register.php:67
+msgid "Password"
+msgstr "رمز"
+
+#: shortcodes/profile.php:807 shortcodes/register.php:176
+msgid "Password does not match."
+msgstr "رمز عبور مطابقت ندارد."
+
+#: payments/form.php:373
+msgid "Pay"
+msgstr "پرداخت"
+
+#: shortcodes/post.php:40
+msgid "Pay to add a post"
+msgstr "پرداخت و افزودن پست جدید"
+
+#: payments/answer.php:59
+msgid "Pay to add an answer"
+msgstr "پرداخت و افزودن پاسخ جدید"
+
+#: CPT/statements.php:445 payments/form.php:34
+msgid "Pay to add answer"
+msgstr "پرداخت برای اضافه کردن پاسخ"
+
+#: shortcodes/question.php:1553
+msgid "Pay to ask a question"
+msgstr "پرداخت و پرسیدن سوال"
+
+#: functions/questions.php:363 payments/form.php:42
+#, fuzzy
+#| msgid "Pay to make question sticky"
+msgid "Pay to make this Question sticky"
+msgstr "برای سنجاق شدن سوال باید هزینه پرداخت کنید"
+
+#: functions/questions.php:311 functions/questions.php:314
+msgid "Pay to sticky question"
+msgstr "پرداخت برای سنجاق شدن سوال"
+
+#: CPT/statements.php:307
+msgid "Payer email"
+msgstr "ایمیل پرداخت کننده"
+
+#: CPT/statements.php:594
+msgid "Payment methods"
+msgstr "روش پرداخت"
+
+#: CPT/statements.php:393
+msgid "Payments"
+msgstr "پرداخت ها"
+
+#: shortcodes/profile.php:400
+msgid "Payoneer"
+msgstr "پرداخت کننده"
+
+#: shortcodes/profile.php:426
+msgid "Payoneer E-Mail"
+msgstr "ایمیل پرداخت کننده"
+
+#: shortcodes/profile.php:424
+msgid "Payoneer Information"
+msgstr "اطلاعات پرداخت کننده"
+
+#: shortcodes/profile.php:395
+msgid "PayPal"
+msgstr "پی پال"
+
+#: shortcodes/profile.php:417
+msgid "PayPal E-Mail"
+msgstr "ایمیل پی پال"
+
+#: shortcodes/profile.php:415
+msgid "PayPal Information"
+msgstr "اطلاعات پی پال"
+
+#: templates/profile/referrals.php:87 templates/profile/withdrawals.php:155
+msgid "Pending"
+msgstr "در انتظار"
+
+#: functions/rewrite.php:1929
+msgid "Pending Posts"
+msgstr "پست های در انتظار"
+
+#: functions/menu.php:207
+msgid "Pending posts"
+msgstr "پست های در انتظار"
+
+#: functions/rewrite.php:1927
+msgid "Pending Questions"
+msgstr "سوالات در صف بررسی"
+
+#: functions/menu.php:202
+#, fuzzy
+#| msgid "Edit question"
+msgid "Pending questions"
+msgstr "ویرایش سوال"
+
+#: functions/filters.php:271
+msgid "Peru"
+msgstr "پرو"
+
+#: functions/filters.php:272
+msgid "Philippines"
+msgstr "فیلیپین"
+
+#: functions/functions.php:917 shortcodes/profile.php:589 
+#: shortcodes/profile.php:1243 shortcodes/register.php:588
+msgid "Phone"
+msgstr "تلفن"
+
+#: shortcodes/profile.php:235 shortcodes/profile.php:1227
+msgid "Pinterest"
+msgstr "پینترست"
+
+#: functions/filters.php:273
+msgid "Pitcairn"
+msgstr "پیتکرن"
+
+#: functions/functions.php:2985
+msgid "Please briefly explain why you feel this answer should be reported."
+msgstr ""
+"لطفا به طور خلاصه توضیح دهید که چرا شما احساس می کنید این پاسخ باید گزارش "
+"شود."
+
+#: functions/functions.php:78
+msgid "Please check on the reCAPTCHA box."
+msgstr "لطفا به باکس کپچا دقت کنید."
+
+#: shortcodes/category.php:129
+#, fuzzy
+#| msgid "Please choose an appropriate title for the post."
+msgid "Please choose an appropriate category for questions."
+msgstr "لطفا یک عنوان مناسب برای پست انتخاب کنید"
+
+#: shortcodes/group.php:48
+msgid ""
+"Please choose an appropriate title for the group so it can be answered "
+"easily."
+msgstr ""
+"لطفاً عنوانی مناسب برای گروه انتخاب کنید تا بتوان به راحتی به آن پاسخ داد."
+
+#: shortcodes/post.php:293
+msgid "Please choose an appropriate title for the post."
+msgstr "لطفا یک عنوان مناسب برای پست انتخاب کنید"
+
+#: shortcodes/question.php:390
+#, fuzzy
+#| msgid ""
+#| "Please choose an appropriate title for the question so it can be answered "
+#| "easier."
+msgid ""
+"Please choose an appropriate title for the question so it can be answered "
+"easily."
+msgstr " لطفا عنوان مناسب برای این سوال را انتخاب کنید."
+
+#: shortcodes/post.php:310 shortcodes/question.php:459
+msgid "Please choose suitable Keywords Ex: "
+msgstr "لطفا انتخاب کنید کلمات کلیدی مناسب سابق:"
+
+#: shortcodes/question.php:449
+#, fuzzy
+#| msgid ""
+#| "Please choose the appropriate section so question can be searched easier."
+msgid ""
+"Please choose the appropriate section so the question can be searched easily."
+msgstr " لطفا بخش مناسب را انتخاب کنید."
+
+#: shortcodes/post.php:300
+msgid ""
+"Please choose the appropriate section so your post can be easily searched."
+msgstr ""
+"لطفاً عنوانی مناسب برای گروه انتخاب کنید تا بتوان به راحتی آن را جستجو کرد."
+
+#: wpqa.php:256
+msgid "Please enter a valid email address."
+msgstr "لطفا یک آدرس ایمیل معتبر وارد کنید."
+
+#: shortcodes/question.php:2024 shortcodes/question.php:2044
+msgid "Please enter at least two values in poll."
+msgstr "لطفا حداقل 2 مقدار را در رای وارد کنید"
+
+#: shortcodes/question.php:2027
+msgid "Please enter values in poll."
+msgstr "لطفا مقادیر را در نظرسنجی وارد کنید."
+
+#: payments/form.php:200
+msgid "Please enter your coupon."
+msgstr "لطفا کوپن خود را وارد کنید."
+
+#: shortcodes/register.php:167
+msgid "Please enter your email."
+msgstr "لطفا پست الکترونیک خود را وارد کنید."
+
+#: shortcodes/register.php:164
+msgid "Please enter your name without any spaces."
+msgstr "لطفا نام خود را بدون هیچ گونه فاصله وارد کنید."
+
+#: shortcodes/register.php:161
+msgid "Please enter your name."
+msgstr "لطفا نام خود را وارد کنید."
+
+#: shortcodes/register.php:170
+msgid "Please enter your password."
+msgstr "لطفا رمز عبور خود را وارد کنید."
+
+#: wpqa.php:119 wpqa.php:295
+msgid "Please fill the required field."
+msgstr "لطفا فیلد های اجباری را پر کنید."
+
+#: wpqa.php:255
+msgid "Please fill the required fields (email)."
+msgstr "لطفا فیلد های اجباری را پر کنید. (ایمیل)"
+
+#: wpqa.php:254
+msgid "Please fill the required fields (name)."
+msgstr "لطفا فیلد های اجباری را پر کنید(نام)"
+
+#: functions/mails.php:369
+#, fuzzy
+#| msgid " Please find details below:"
+msgid "Please find details below:"
+msgstr "لطفا جزییات زیر را پیدا کنید :"
+
+#: shortcodes/profile.php:21
+#, fuzzy
+#| msgid "Please login to edit profile."
+msgid "Please login to delete account."
+msgstr "لطفا برای ویرایش نمایه وارد شوید."
+
+#: shortcodes/profile.php:23
+msgid "Please login to edit profile."
+msgstr "لطفا برای ویرایش نمایه وارد شوید."
+
+#: templates/checkout.php:224
+msgid "Please login to pay."
+msgstr "ابتدا وارد شوید و پرداخت کنید."
+
+#: functions/questions.php:671 wpqa.php:146
+msgid "Please login to vote and see the results."
+msgstr "لطفا وارد شوید و نتیجه نظرسنجی را ببینید."
+
+#: templates/checkout.php:158
+#, php-format
+msgid "Please make a payment to be able to add a post with %s."
+msgstr "لطفاً پرداخت کنید تا بتوانید پستی با %s اضافه کنید."
+
+#: shortcodes/post.php:35
+msgid "Please make a payment to be able to add a post."
+msgstr "لطفاً پرداخت کنید تا بتوانید یک پست اضافه کنید."
+
+#: templates/checkout.php:50
+#, php-format
+msgid "Please make a payment to be able to add an answer with %s."
+msgstr "لطفاً پرداخت کنید تا بتوانید با  %s. پاسخی اضافه کنید."
+
+#: payments/answer.php:58
+msgid "Please make a payment to be able to add an answer."
+msgstr "لطفاً پرداخت کنید تا بتوانید پاسخی اضافه کنید."
+
+#: templates/checkout.php:118
+#, php-format
+msgid "Please make a payment to be able to ask %s a question with %s."
+msgstr "لطفاً پرداخت کنید تا بتوانید از %s سوالی با %s بپرسید."
+
+#: templates/checkout.php:120
+#, php-format
+msgid "Please make a payment to be able to ask a question with %s."
+msgstr "لطفاً پرداخت کنید تا بتوانید با %s سوال کنید."
+
+#: shortcodes/question.php:1548
+msgid "Please make a payment to be able to ask a question."
+msgstr "لطفاً پرداخت کنید تا بتوانید سوالی را بپرسید."
+
+#: templates/checkout.php:64
+#, php-format
+msgid ""
+"Please make a payment to be able to make this question \"sticky\" with %s "
+"for %s days."
+msgstr "لطفاً پرداخت کنید تا بتوانید این سوال را با %s به مدت %s سنجاق کنید."
+
+#: templates/checkout.php:85
+#, php-format
+msgid "Please make a payment to buy %s points with %s."
+msgstr "لطفاً برای خرید %s امتیاز با %s پرداخت کنید."
+
+#: templates/checkout.php:148 templates/checkout.php:185
+#, fuzzy
+#, php-format
+#| msgid "Please make a payment to buy %s points %s."
+msgid "Please make a payment to buy %s with %s."
+msgstr "لطفاً یک پرداخت برای خرید %s امتیاز %s ایجاد کنید."
+
+#: templates/checkout.php:99
+#, php-format
+msgid "Please make a payment to buy paid %s with %s."
+msgstr "لطفاً برای خرید %s پرداختی با %s پرداخت کنید."
+
+#: templates/profile/withdrawals.php:131
+msgid ""
+"Please note that the request must be renewed each month. This means clicking "
+"will not result in automatic withdrawals for the coming months."
+msgstr ""
+"لطفا توجه داشته باشید که درخواست باید هر ماه تمدید شود. این بدان معنی است که "
+"کلیک کردن منجر به برداشت خودکار برای ماه های آینده نمی شود."
+
+#: payments/form.php:156
+#, php-format
+msgid "Please pay by points to \"sticky question\" with %s for %s days."
+msgstr "لطفاً با امتیاز سوال سنجاق شده با %s برای %s روز پرداخت کنید."
+
+#: payments/form.php:178
+#, php-format
+msgid "Please pay by points to add %s with %s."
+msgstr "لطفاً برای افزودن %s با %s با امتیاز پرداخت کنید."
+
+#: payments/form.php:175
+#, php-format
+msgid "Please pay by points to add a post with %s."
+msgstr "لطفاً امتیازات خود را پرداخت کنید تا یک پست با %s اضافه کنید."
+
+#: payments/form.php:158
+#, fuzzy
+#, php-format
+#| msgid "Please pay by points to allow to be able to add a answer %s."
+msgid "Please pay by points to allow to be able to add a answer with %s."
+msgstr "لطفا با امتیاز پرداخت کنید تا بتوانید پاسخ %s را اضافه کنید."
+
+#: payments/form.php:170
+#, php-format
+msgid "Please pay by points to ask %s a question %s with %s."
+msgstr "لطفاً برای سوال پرسیدن از %s با %s امتیاز پرداخت کنید."
+
+#: payments/form.php:163
+#, php-format
+msgid "Please pay by points to ask %s a question with %s."
+msgstr "لطفاً با سوال از %s با %s سوال بپرسید."
+
+#: payments/form.php:172
+#, php-format
+msgid "Please pay by points to ask %s with %s."
+msgstr "برای پرسیدن %s با %s امتیاز پرداخت کنید."
+
+#: payments/form.php:165
+#, php-format
+msgid "Please pay by points to ask a question with %s."
+msgstr "لطفاً برای سوال کردن %s امتیاز بپردازید."
+
+#: payments/form.php:160
+#, php-format
+msgid "Please pay by points to subscribe to %s with %s."
+msgstr "لطفاً برای اشتراک در %s با %s امتیاز بپردازید."
+
+#: shortcodes/register.php:173
+msgid "Please rewrite password."
+msgstr "گذرواژه خود را بازنویسی کنید."
+
+#: wpqa.php:140 wpqa.php:257
+msgid "Please type a comment."
+msgstr "لطفا دیدگاه خود را تایپ کنید."
+
+#: CPT/messages.php:193 shortcodes/post.php:285 shortcodes/question.php:355
+msgid "Please type your E-Mail."
+msgstr "لطفا ایمیل خود را تایپ کنید."
+
+#: CPT/messages.php:186 shortcodes/post.php:278 shortcodes/question.php:348
+msgid "Please type your username."
+msgstr "لطفا نام کاربری را وارد کنید"
+
+#: CPT/messages.php:346 shortcodes/post.php:454 shortcodes/question.php:1092 
+#: shortcodes/register.php:193
+msgid "Please write correctly email."
+msgstr "لطفا پست الکترونیک خود را به صورت صحیح وارد نمایید."
+
+#: CPT/points.php:55 functions/author.php:268 functions/author.php:405 
+#: functions/author.php:468 functions/author.php:770 
+#: functions/subscriptions.php:142 shortcodes/register.php:416 
+#: shortcodes/register.php:431
+msgid "Point"
+msgid_plural "Points"
+msgstr[0] "امتیاز"
+
+#: functions/author.php:797
+msgid "point"
+msgid_plural "points"
+msgstr[0] "امتیاز"
+
+#: CPT/points.php:18 CPT/points.php:20 CPT/points.php:21 CPT/points.php:22 
+#: CPT/points.php:23 functions/functions.php:914 functions/functions.php:2154 
+#: functions/menu.php:232 functions/rewrite.php:1947 
+#: templates/profile/referrals.php:148 templates/search-form.php:109 
+#: templates/subscriptions.php:146
+msgid "Points"
+msgstr "امتیازات"
+
+#: CPT/statements.php:339 payments/form.php:146 payments/form.php:156 
+#: payments/form.php:158 payments/form.php:160 payments/form.php:163 
+#: payments/form.php:165 payments/form.php:170 payments/form.php:172 
+#: payments/form.php:175 payments/form.php:178 
+#: templates/profile/content.php:108
+msgid "points"
+msgstr "امتیاز"
+
+#: templates/profile/points.php:117
+msgid "Points have been deducted for asking a question."
+msgstr "برای پرسیدن سوال از امتیازات کم شده است."
+
+#: functions/filters.php:274
+msgid "Poland"
+msgstr "لهستان"
+
+#: CPT/questions.php:188 CPT/questions.php:275
+msgid "Poll"
+msgstr "نظرسنجی"
+
+#: CPT/activities.php:289
+msgid "Poll at question"
+msgstr "شما به پرسشی رای دادید"
+
+#: functions/questions.php:669
+msgid "Poll Results"
+msgstr "نتیجه نظرسنجی"
+
+#: CPT/notifications.php:452
+msgid "polled at your question"
+msgstr "در نظرسنجی شما رای داده است"
+
+#: functions/menu.php:102 functions/menu.php:242 functions/rewrite.php:1949 
+#: templates/profile/head-tabs.php:89
+msgid "Polls"
+msgstr "نظرسنجی ها"
+
+#: functions/functions.php:2044 functions/functions.php:2105 
+#: widgets/tabs.php:84
+msgid "Popular"
+msgstr "محبوب"
+
+#: functions/filters.php:275
+msgid "Portugal"
+msgstr "پرتغال"
+
+#: CPT/notifications.php:524
+msgid "post"
+msgstr "پست"
+
+#: CPT/groups.php:88 CPT/posts.php:27 functions/author.php:236 
+#: functions/author.php:377 functions/group.php:88 widgets/stats.php:73
+msgid "Post"
+msgid_plural "Posts"
+msgstr[0] "نوشته"
+
+#: functions/filters.php:81 templates/search-form.php:84
+msgid "Post categories"
+msgstr "دسته بندی مطالب"
+
+#: functions/filters.php:83 templates/search-form.php:86
+msgid "Post tags"
+msgstr "برچسب ها را ارسال کنید"
+
+#: shortcodes/post.php:290
+msgid "Post Title"
+msgstr "عنوان پست"
+
+#: shortcodes/post.php:310
+msgid "post, video"
+msgstr "پست , فیلم"
+
+#: CPT/groups.php:70 CPT/posts.php:22 CPT/posts.php:24 CPT/posts.php:25 
+#: CPT/posts.php:26 functions/filters.php:77 functions/functions.php:2157 
+#: functions/menu.php:282 functions/rewrite.php:1961 
+#: templates/profile/head-tabs.php:104 templates/search-form.php:80 
+#: templates/search-form.php:111 widgets/posts.php:72
+msgid "Posts"
+msgstr "پست ها"
+
+#: functions/functions.php:1861 functions/functions.php:1980
+msgid "Posts tagged "
+msgstr "برچسب پست ها"
+
+#: CPT/statements.php:303
+msgid "Price"
+msgstr "قیمت"
+
+#: functions/menu.php:162 functions/rewrite.php:1977 shortcodes/profile.php:82 
+#: templates/profile/edit-tabs.php:74
+msgid "Privacy"
+msgstr "حریم شخصی"
+
+#: shortcodes/profile.php:577
+msgid "Privacy Settings"
+msgstr "تنظیمات حریم شخصی"
+
+#: CPT/groups.php:127
+msgid "Private"
+msgstr "خصوصی"
+
+#: functions/group.php:48 shortcodes/group.php:61 widgets/groups.php:75
+msgid "Private group"
+msgstr "گروه خصوصی"
+
+#: payments/form.php:580
+msgid "Process"
+msgstr "فرآیند"
+
+#: shortcodes/profile.php:284
+msgid "Professional Bio"
+msgstr "بیوگرافی حرفه ای"
+
+#: functions/menu.php:147
+msgid "Profile"
+msgstr "پروفایل"
+
+#: shortcodes/profile.php:616 shortcodes/profile.php:1199
+msgid "Profile credential"
+msgstr "اعتبار پروفایل"
+
+#: shortcodes/profile.php:787
+#, fuzzy
+#| msgid "Profile has been updated."
+msgid "Profile has been deleted."
+msgstr "پروفایل به روز شده است."
+
+#: shortcodes/profile.php:918 shortcodes/profile.php:934
+msgid "Profile has been updated."
+msgstr "پروفایل به روز شده است."
+
+#: functions/menu.php:25
+msgid "Profile links"
+msgstr "لینک های پروفایل"
+
+#: shortcodes/register.php:536
+msgid "Profile Picture"
+msgstr "تصویر پروفایل"
+
+#: widgets/profile_strength.php:127
+#, fuzzy
+#| msgid "Profile Picture"
+msgid "Profile Strength"
+msgstr "تصویر پروفایل"
+
+#: CPT/groups.php:128 shortcodes/profile.php:626
+msgid "Public"
+msgstr "عمومی"
+
+#: functions/group.php:48 shortcodes/group.php:57 widgets/groups.php:75
+msgid "Public group"
+msgstr "گروه عمومی"
+
+#: shortcodes/question.php:784
+#, fuzzy
+#| msgid "Publish Your Question"
+msgid "Publish this question"
+msgstr "منتشر کردن سوال"
+
+#: shortcodes/group.php:226
+msgid "Publish Your Group"
+msgstr "انتشار گروه"
+
+#: shortcodes/post.php:394 shortcodes/posts.php:98
+msgid "Publish Your Post"
+msgstr "انتشار مطلب"
+
+#: shortcodes/question.php:810
+msgid "Publish Your Question"
+msgstr "منتشر کردن سوال"
+
+#: functions/comments.php:704 shortcodes/question.php:690
+#, fuzzy
+#| msgid ""
+#| "Put here the video id : https://www.youtube.com/watch?v=sdUUx5FdySs Ex: "
+#| "'sdUUx5FdySs'."
+msgid ""
+"Put Video ID here: https://www.youtube.com/watch?v=sdUUx5FdySs Ex: "
+"\"sdUUx5FdySs\"."
+msgstr ""
+"قرار دادن در اینجا شناسه ویدیو: https://www.youtube.com/watch?v=sdUUx5FdySs "
+"Ex: ' sdUUx5FdySs '."
+
+#: functions/functions.php:1923
+msgid "Q"
+msgstr "Q"
+
+#: functions/filters.php:276
+msgid "Qatar"
+msgstr "قطر"
+
+#: CPT/notifications.php:524
+msgid "question"
+msgstr "سوال"
+
+#: CPT/questions.php:64 CPT/questions.php:190 CPT/questions.php:274 
+#: CPT/reports.php:184 functions/author.php:253 functions/author.php:388 
+#: functions/author.php:732 functions/categories.php:71 
+#: functions/cover.php:206 widgets/questions_categories.php:47 
+#: widgets/questions_categories.php:137 widgets/questions_categories.php:198 
+#: widgets/stats.php:70
+msgid "Question"
+msgid_plural "Questions"
+msgstr[0] "سوال"
+
+#: CPT/questions.php:95 CPT/questions.php:96 CPT/questions.php:99 
+#: CPT/questions.php:100
+msgid "Question Categories"
+msgstr "دسته بندی سوالات"
+
+#: functions/filters.php:73 templates/search-form.php:76
+msgid "Question categories"
+msgstr "دسته بندی سوالات"
+
+#: CPT/questions.php:121 CPT/questions.php:122 CPT/questions.php:125 
+#: CPT/questions.php:126
+msgid "Question Tags"
+msgstr "برچسب های سوال"
+
+#: functions/filters.php:75 templates/search-form.php:78
+msgid "Question tags"
+msgstr "برچسب سوالات"
+
+#: shortcodes/question.php:386
+msgid "Question Title"
+msgstr "عنوان سوال"
+
+#: shortcodes/question.php:459
+msgid "question, poll"
+msgstr "نظرسنجی سوال"
+
+#: CPT/questions.php:59 CPT/questions.php:61 CPT/questions.php:62 
+#: CPT/questions.php:63 CPT/reports.php:223 functions/filters.php:69 
+#: functions/functions.php:912 functions/functions.php:1922 
+#: functions/functions.php:2150 functions/menu.php:237 
+#: functions/rewrite.php:1939 templates/profile/head-tabs.php:85 
+#: templates/search-form.php:72 templates/search-form.php:105
+msgid "Questions"
+msgstr "سوالات"
+
+#: widgets/questions_categories.php:81
+msgid "Questions Categories"
+msgstr "دسته بندی سوالات"
+
+#: CPT/reports.php:231 CPT/reports.php:299
+#, fuzzy
+#| msgid "Question report"
+msgid "Questions reports"
+msgstr "گزارش تخلف سوال"
+
+#: widgets/tabs.php:84
+msgid "Random"
+msgstr "تصادفی"
+
+#: CPT/messages.php:437
+msgid "RE:"
+msgstr "پاسخ:"
+
+#: functions/functions.php:1682
+msgid "Read more"
+msgstr "ادامه مطلب ..."
+
+#: CPT/questions.php:332 functions/comments.php:1299
+msgid "Reason if you need to remove it."
+msgstr "دلیل شما برای حذف"
+
+#: functions/comments.php:1304
+msgid "Reason:"
+msgstr "فصلی"
+
+#: widgets/tabs.php:84
+msgid "Recent"
+msgstr "اخیر"
+
+#: functions/mails.php:400
+msgid "Recent questions"
+msgstr "سوالات اخیر"
+
+#: templates/profile/points.php:115
+msgid "Refer a new user for paid membership."
+msgstr "برای عضویت پرداخت شده به کاربر جدید مراجعه کنید."
+
+#: templates/profile/points.php:113
+msgid "Refer a new user."
+msgstr "به کاربر جدیدی مراجعه کنید."
+
+#: CPT/notifications.php:458
+msgid "referral a new user for paid membership"
+msgstr "معرفی یک کاربر جدید برای عضویت پرداخت شده"
+
+#: functions/menu.php:222 functions/rewrite.php:1935
+msgid "Referrals"
+msgstr "معرفی کرده ها"
+
+#: CPT/notifications.php:456
+msgid "referred a new user"
+msgstr "کاربر جدید را معرفی کرد"
+
+#: CPT/statements.php:339 wpqa.php:341
+msgid "Refunded"
+msgstr "مسترد شد"
+
+#: CPT/statements.php:394
+msgid "Refunds"
+msgstr "مسترد کردن"
+
+#: shortcodes/login.php:75
+msgid "Register"
+msgstr "ثبت نام"
+
+#: CPT/requests.php:129
+msgid "Reject"
+msgstr "رد کردن"
+
+#: templates/profile/withdrawals.php:153
+msgid "Rejected"
+msgstr "رد شده"
+
+#: widgets/related_questions.php:111
+msgid "Related Questions"
+msgstr "پرسش‌های مرتبط"
+
+#: shortcodes/login.php:64
+msgid "Remember Me!"
+msgstr "راهنمای ذخیره"
+
+#: functions/author.php:430
+msgid "Remove"
+msgstr "حذف"
+
+#: CPT/activities.php:198 CPT/notifications.php:198 CPT/points.php:198 
+#: CPT/reports.php:371 CPT/requests.php:251 CPT/statements.php:694
+msgid "Remove filters"
+msgstr "حذف فیلنر"
+
+#: functions/author.php:437
+msgid "Remove moderator"
+msgstr "حذف ناظر"
+
+#: wpqa.php:275
+msgid "Remove this question of my favorites"
+msgstr "حذف پرسش از موارد دلخواه من"
+
+#: CPT/notifications.php:592
+msgid "removed you from the group."
+msgstr "از گروه حذف شده اید."
+
+#: CPT/notifications.php:498
+msgid "removed your question from favorites."
+msgstr "حذف کردن سوال شما از علاقه‌مندی‌ها"
+
+#: functions/functions.php:1601 functions/functions.php:1604
+msgid "Replied to"
+msgstr "پاسخ داده شده به"
+
+#: CPT/notifications.php:490
+msgid "replied to your answer."
+msgstr "به جواب شما پاسخ داد"
+
+#: functions/filters.php:356 functions/filters.php:358 
+#: functions/functions.php:1738 templates/profile/messages.php:111 
+#: wpqa.php:265 wpqa.php:310
+msgid "Reply"
+msgstr "پاسخ"
+
+#: functions/comments.php:912
+msgid "Reply to your answer"
+msgstr "به پاسخ خود پاسخ دهید"
+
+#: functions/functions.php:1785 functions/functions.php:2999 
+#: functions/questions.php:462
+msgid "Report"
+msgstr "گزارش"
+
+#: functions/ajax-action.php:1119
+msgid "Report Answer"
+msgstr "گزارش پاسخ"
+
+#: functions/ajax-action.php:978
+msgid "Report Question"
+msgstr "گزارش سوال"
+
+#: CPT/reports.php:162 CPT/reports.php:297
+msgid "Report type"
+msgstr "نوع گزارش"
+
+#: CPT/reports.php:18 CPT/reports.php:20 CPT/reports.php:21 CPT/reports.php:22 
+#: CPT/reports.php:23
+msgid "Reports"
+msgstr "گزارش ها"
+
+#: functions/filters.php:205
+msgid "Republic of Ireland"
+msgstr "جمهوری ایرلند"
+
+#: CPT/requests.php:58
+msgid "Request"
+msgstr "درخواست"
+
+#: CPT/requests.php:152
+msgid "Request a new category"
+msgstr "درخواست دسته بندی جدید"
+
+#: CPT/requests.php:269
+msgid "Request category"
+msgstr "درخواست دسته بندی"
+
+#: CPT/requests.php:266
+msgid "Request money"
+msgstr "درخواست وجه"
+
+#: functions/subscriptions.php:346
+msgid "Request your paid membership"
+msgstr "درخواست شما برای عضویت پولی"
+
+#: CPT/notifications.php:552
+msgid "requested his money."
+msgstr "پول خود را درخواست کرده است."
+
+#: CPT/requests.php:21 CPT/requests.php:23 CPT/requests.php:24 
+#: CPT/requests.php:25 CPT/requests.php:26 functions/group.php:172
+msgid "Requests"
+msgstr "درخواست"
+
+#: templates/profile/referrals.php:163
+msgid "Resend"
+msgstr "ارسال مجدد"
+
+#: shortcodes/password.php:45
+msgid "Reset"
+msgstr "تنظیم مجدد"
+
+#: shortcodes/password.php:194
+msgid "Reset Password"
+msgstr "بازیابی رمز عبور"
+
+#: shortcodes/password.php:104 shortcodes/password.php:185
+msgid "Reset your password"
+msgstr "رمز عبور خود را بازنشانی کنید"
+
+#: functions/questions.php:737
+msgid "Results"
+msgstr "نتیجه"
+
+#: functions/filters.php:277
+msgid "Reunion"
+msgstr "Reunion"
+
+#: CPT/statements.php:339
+msgid "Reversed"
+msgstr "رزرو"
+
+#: functions/review.php:17
+msgid "Review the post"
+msgstr "بازبینی پست"
+
+#: functions/review.php:17
+msgid "Review the question"
+msgstr "بازبینی سوال"
+
+#: functions/subscriptions.php:161
+msgid "Reward membership"
+msgstr "تمدید عضویت"
+
+#: functions/functions.php:68 functions/functions.php:75
+msgid "Robot verification failed, Please try again."
+msgstr "لطفا دوباره امتحان کنید."
+
+#: functions/filters.php:278
+msgid "Romania"
+msgstr "رومانی"
+
+#: functions/filters.php:279
+msgid "Russia"
+msgstr "روسیه"
+
+#: functions/filters.php:280
+msgid "Rwanda"
+msgstr "رواندا"
+
+#: functions/filters.php:290
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+
+#: functions/filters.php:281
+msgid "Saint Barth&eacute;lemy"
+msgstr "Saint Barth&eacute;lemy"
+
+#: functions/filters.php:282
+msgid "Saint Helena"
+msgstr "سنت هلن"
+
+#: functions/filters.php:283
+msgid "Saint Kitts and Nevis"
+msgstr "سنت کیتس و نویس"
+
+#: functions/filters.php:284
+msgid "Saint Lucia"
+msgstr "سنت لوسیا"
+
+#: functions/filters.php:286
+msgid "Saint Martin (Dutch part)"
+msgstr "سنت مارتین (قسمت هلندی)"
+
+#: functions/filters.php:285
+msgid "Saint Martin (French part)"
+msgstr "سنت مارتین (قسمت فرانسوی)"
+
+#: functions/filters.php:287
+msgid "Saint Pierre and Miquelon"
+msgstr "سنت پیر و میکلون"
+
+#: functions/filters.php:288
+msgid "Saint Vincent and the Grenadines"
+msgstr "سنت وینسنت و گرنادین"
+
+#: functions/filters.php:289
+msgid "San Marino"
+msgstr "سان مارینو"
+
+#: CPT/statements.php:307
+msgid "sandbox"
+msgstr "سندباکس"
+
+#: functions/filters.php:291
+msgid "Saudi Arabia"
+msgstr "عربستان سعودی"
+
+#: shortcodes/profile.php:696
+msgid "Save"
+msgstr "ذخیره"
+
+#: functions/filters.php:91 functions/rewrite.php:2877 
+#: templates/search-form.php:119
+msgid "Search"
+msgstr "جستجو"
+
+#: functions/filters.php:56
+msgid "Search ..."
+msgstr "جستجو ..."
+
+#: CPT/activities.php:26
+msgid "Search Activities"
+msgstr "جستجوی فعالیت ها"
+
+#: CPT/questions.php:97
+msgid "Search Categories"
+msgstr "جستجوی دسته بندی ها"
+
+#: CPT/groups.php:38
+msgid "Search Groups"
+msgstr "جستجوی گروه ها"
+
+#: CPT/messages.php:31
+msgid "Search Messages"
+msgstr "جستجوی پیام ها"
+
+#: CPT/notifications.php:26
+msgid "Search Notifications"
+msgstr "جستجوی اطلاع رسانی ها"
+
+#: CPT/points.php:26
+msgid "Search Points"
+msgstr "جستجوی امتیاز ها"
+
+#: CPT/posts.php:35
+msgid "Search Posts"
+msgstr "جستجوی پست ها"
+
+#: CPT/questions.php:72
+msgid "Search Questions"
+msgstr "جستجوی سوالات"
+
+#: CPT/reports.php:26
+msgid "Search Reports"
+msgstr "جستجوی گزارش ها"
+
+#: CPT/requests.php:29
+msgid "Search Requests"
+msgstr "جستجوی درخواست ها"
+
+#: templates/search.php:115
+msgid "Search results"
+msgstr "نتایج جستجو"
+
+#: functions/rewrite.php:2875
+msgid "Search results for "
+msgstr "نتایج جستجو برای"
+
+#: CPT/statements.php:184
+msgid "Search Statements"
+msgstr "عبارت جستجو"
+
+#: CPT/questions.php:123
+msgid "Search Tags"
+msgstr "جستجوی برچسب ها"
+
+#: functions/functions.php:1686 widgets/rules.php:51
+msgid "See less"
+msgstr "دیدن کمتر"
+
+#: widgets/rules.php:50
+msgid "See more"
+msgstr "دیدن بیشتر"
+
+#: CPT/notifications.php:546
+msgid "seen your message."
+msgstr "پیام شما را دیده است."
+
+#: shortcodes/question.php:42 shortcodes/question.php:198
+msgid "Select a Category"
+msgstr "انتخاب دسته بندی"
+
+#: payments/form.php:512 shortcodes/register.php:572
+msgid "Select a country&hellip;"
+msgstr "انتخاب کشور&hellip;"
+
+#: functions/menu.php:46
+msgid "Select All"
+msgstr "انتخاب همه"
+
+#: functions/functions.php:1765 wpqa.php:267
+msgid "Select as best answer"
+msgstr "انتخاب به عنوان بهترین پاسخ"
+
+#: functions/comments.php:550 functions/comments.php:578 
+#: shortcodes/group.php:135 shortcodes/group.php:161 shortcodes/post.php:329 
+#: shortcodes/posts.php:69 shortcodes/question.php:518 
+#: shortcodes/question.php:545 shortcodes/question.php:568 
+#: shortcodes/question.php:635 shortcodes/register.php:540 
+#: shortcodes/register.php:560 wpqa.php:137
+msgid "Select file"
+msgstr "انتخاب فایل"
+
+#: functions/filters.php:63 templates/search-form.php:67
+msgid "Select kind of search"
+msgstr "نوع جستجو"
+
+#: payments/form.php:389
+msgid "Select Payment Method"
+msgstr "یک روش پرداخت را انتخاب کنید."
+
+#: shortcodes/profile.php:578
+msgid "Select who may see your profile details"
+msgstr "انتخاب کنید چه کسی جزئیات پروفایل شما را ببیند."
+
+#: templates/profile/referrals.php:40
+msgid "Send a referral by email or share it with your firends."
+msgstr "ارسابل دعوتنامه ی برای دوستان با ایمیل از طریق لینک عضویت"
+
+#: functions/functions.php:3549 templates/profile/referrals.php:46
+msgid "Send an email"
+msgstr "ارسال ایمیل"
+
+#: functions/group.php:705
+msgid "Send invite"
+msgstr "ارسال دعوت"
+
+#: functions/author.php:501
+msgid "Send Message"
+msgstr "ارسال پیام"
+
+#: CPT/messages.php:233
+msgid "Send Your Message"
+msgstr "ارسال پیام"
+
+#: functions/filters.php:292
+msgid "Senegal"
+msgstr "سنگال"
+
+#: templates/profile/messages.php:21
+msgid "Sent"
+msgstr "ارسال"
+
+#: CPT/messages.php:504 CPT/notifications.php:544
+msgid "sent a message for you."
+msgstr "برای شما یک پیام ارسال کرده است"
+
+#: functions/filters.php:293
+msgid "Serbia"
+msgstr "صربستان"
+
+#: functions/filters.php:294
+msgid "Seychelles"
+msgstr "سیشل"
+
+#: functions/functions.php:1751 functions/functions.php:3532 
+#: templates/profile/referrals.php:54
+msgid "Share"
+msgstr "اشتراک گذاری"
+
+#: functions/functions.php:3539 functions/functions.php:3541 
+#: functions/functions.php:3543 functions/functions.php:3545
+msgid "Share on"
+msgstr "اشتراک در"
+
+#: functions/functions.php:2607
+msgid "Share the link on social media."
+msgstr "اشتراک لینک در شبکه های اجتماعی"
+
+#: templates/profile/referrals.php:53
+msgid "Share the referral link on social media."
+msgstr "اشتراک لینک معرفی در شبکه های اجتماعی"
+
+#: functions/functions.php:3530
+msgid "Share This Article"
+msgstr "اشتراک گذاری این مطلب"
+
+#: CPT/activities.php:445
+msgid "Show all activities."
+msgstr "نمایش همه فعالیت ها."
+
+#: CPT/messages.php:512
+msgid "Show all messages."
+msgstr "نمایش تمام پاسخ ها"
+
+#: CPT/notifications.php:291 CPT/notifications.php:295
+msgid "Show all notifications."
+msgstr "نمایش تمامی اعلان ها"
+
+#: shortcodes/profile.php:293
+msgid "Show your private pages for all the users?"
+msgstr "نمایش دادن همه صفحات خصوصی شما برای همه کاربران ؟"
+
+#: functions/filters.php:295
+msgid "Sierra Leone"
+msgstr "سیرا لئون"
+
+#: functions/functions.php:2695 functions/functions.php:2737 
+#: functions/functions.php:2740 functions/functions.php:2743 
+#: functions/functions.php:2755 payments/packages.php:54
+msgid "Sign In"
+msgstr "ورود"
+
+#: shortcodes/login.php:248
+msgid "Sign In Now"
+msgstr "هم اکنون وارد شوید"
+
+#: functions/functions.php:2672 functions/functions.php:2675 
+#: functions/functions.php:2678 functions/functions.php:2690 
+#: templates/buy-points.php:53 templates/subscriptions.php:151
+msgid "Sign Up"
+msgstr "ثبت نام"
+
+#: functions/functions.php:2760 shortcodes/register.php:808 
+#: shortcodes/register.php:814
+msgid "Sign Up Here"
+msgstr "اینجا ثبت نام کنید"
+
+#: functions/menu.php:82 functions/rewrite.php:2889 
+#: shortcodes/register.php:115 widgets/signup.php:34
+msgid "Signup"
+msgstr "ثبت نام"
+
+#: functions/menu.php:87
+msgid "Signup Pop Up"
+msgstr "ثبت نام پاپ آپ"
+
+#: functions/filters.php:296
+msgid "Singapore"
+msgstr "سنگاپور"
+
+#: CPT/statements.php:578 functions/functions.php:3832 payments/form.php:59 
+#: payments/stripe.php:351 templates/subscriptions.php:110
+msgid "Six Months membership"
+msgstr "عضویت شش ماهه"
+
+#: functions/filters.php:297
+msgid "Slovakia"
+msgstr "اسلواکی"
+
+#: functions/filters.php:298
+msgid "Slovenia"
+msgstr "اسلوونی"
+
+#: shortcodes/profile.php:607
+msgid "Social links"
+msgstr "لینک های شبکه اجتماعی"
+
+#: shortcodes/profile.php:67 shortcodes/profile.php:194
+msgid "Social Profiles"
+msgstr "پروفایل های اجتماعی"
+
+#: functions/filters.php:299
+msgid "Solomon Islands"
+msgstr "جزایر سلیمان"
+
+#: functions/filters.php:300
+msgid "Somalia"
+msgstr "سومالی"
+
+#: functions/ajax-action.php:1798
+msgid "Some suggested questions for you"
+msgstr "تعدادی از سوالات مشابه سوال شما"
+
+#: functions/questions.php:562 templates/profile/content.php:330 
+#: templates/search.php:67
+#, fuzzy
+#| msgid "Sorry it a private answer."
+msgid "Sorry it is a private answer."
+msgstr "متاسفیم! این یک پاسخ خصوصی می باشد."
+
+#: functions/ajax-action.php:887
+#, fuzzy
+#| msgid "Sorry was mistake, This is not a your question."
+msgid "Sorry it was a mistake! This is not a your question."
+msgstr "با عرض پوزش اشتباه بود ، این سوال شما نیست."
+
+#: shortcodes/group.php:524
+msgid "Sorry no group has been selected or not found."
+msgstr "گروهی انتخاب نشده یا وجود ندارد."
+
+#: shortcodes/posts.php:337
+msgid "Sorry no group posts has been selected or not found."
+msgstr "پستی انتخاب نشده یا وجود ندارد."
+
+#: shortcodes/posts.php:416
+msgid "Sorry no group posts selected or not found."
+msgstr "پستی انتخاب نشده یا وجود ندارد."
+
+#: shortcodes/group.php:592
+msgid "Sorry no group selected or not found."
+msgstr "گروهی انتخاب نشده یا وجود ندارد."
+
+#: templates/view-post-group.php:25
+#, fuzzy
+#| msgid "Sorry no post has you select or not found."
+msgid "Sorry no post has been selected or not found."
+msgstr "با عرض پوزش هیچ پست شما  انتخاب نشد  یا یافت نشد."
+
+#: shortcodes/question.php:1599
+#, fuzzy
+#| msgid "Sorry no question has you select or not found."
+msgid "Sorry no question has been selected or not found."
+msgstr "ببخشید , شما سوالی انتخاب نکرده‌اید یا پیدا نشده است"
+
+#: shortcodes/question.php:1688
+#, fuzzy
+#| msgid "Sorry no question select or not found."
+msgid "Sorry no question selected or not found."
+msgstr "متاسفم .سوالی انتخاب نشده است یا یافت نشد."
+
+#: shortcodes/post.php:687
+msgid "Sorry post not selected or not found."
+msgstr "پستی انتخاب نشده یا وجود ندارد."
+
+#: shortcodes/posts.php:331 shortcodes/posts.php:334 shortcodes/posts.php:413
+msgid "Sorry you can't edit this group posts."
+msgstr "شما نمی توانید پست را ویرایش کنید."
+
+#: shortcodes/group.php:518 shortcodes/group.php:521 shortcodes/group.php:589
+msgid "Sorry you can't edit this group."
+msgstr "شما نمی توانید گروه را ویرایش کنید."
+
+#: shortcodes/question.php:1593 shortcodes/question.php:1596 
+#: shortcodes/question.php:1685
+msgid "Sorry you can't edit this question."
+msgstr "متاسفم .شما قادر به ویرایش پرسش نیستید."
+
+#: functions/comments.php:1123 shortcodes/comment.php:72
+#, fuzzy
+#| msgid "Sorry no comment has you select or not found."
+msgid "Sorry, no comment has been selected or not found."
+msgstr "متاسفم .نظری انتخاب نشده است یا یافت نشد."
+
+#: shortcodes/post.php:165
+#, fuzzy
+#| msgid "Sorry no post select or not found."
+msgid "Sorry, no post selected or not found."
+msgstr "متاسفم .نوشته انتخاب نشده است یا یافت نشد."
+
+#: shortcodes/question.php:2066
+#, php-format
+msgid "Sorry, The maximum characters for question content is %s."
+msgstr "متن سوال از حداکثر کاراکترهای مجاز بیشتر شده است."
+
+#: shortcodes/question.php:2040
+#, php-format
+msgid "Sorry, The maximum characters for question poll is %s."
+msgstr "متن سوال نظرسنجی از حداکثر کاراکترهای مجاز بیشتر شده است."
+
+#: shortcodes/question.php:2008
+#, php-format
+msgid "Sorry, The maximum characters for question tag is %s."
+msgstr "متن برچسب سوال از حداکثر کاراکترهای مجاز بیشتر شده است."
+
+#: shortcodes/question.php:1967
+#, php-format
+msgid "Sorry, The maximum characters for question title is %s."
+msgstr "متن عنوان سوال از حداکثر کاراکترهای مجاز بیشتر شده است."
+
+#: shortcodes/profile.php:863
+msgid "Sorry, The maximum characters for the profile credential is"
+msgstr "با عرض پوزش ، حداکثر کاراکتر برای اعتبار مشخصات"
+
+#: wpqa.php:121 wpqa.php:259
+msgid "Sorry, The maximum characters is"
+msgstr "حداکثر کاراکترها"
+
+#: shortcodes/question.php:2034
+#, php-format
+msgid "Sorry, The maximum items for question poll is %s items."
+msgstr "آیتم های انتخاب شده برای سوال نظرسنجی از حداکثر  آن بیشتر شده است."
+
+#: shortcodes/question.php:1999
+#, php-format
+msgid "Sorry, The maximum tags for question is %s tags."
+msgstr "متن برچسب از حداکثر کاراکترهای مجاز بیشتر شده است."
+
+#: shortcodes/question.php:2063
+#, php-format
+msgid "Sorry, The minimum characters for question content is %s."
+msgstr "حداقل کاراکترهای متن سوال وارد نشده است."
+
+#: shortcodes/question.php:2037
+#, php-format
+msgid "Sorry, The minimum characters for question poll is %s."
+msgstr "حداقل کاراکترهای سوال نظرسنجی وارد نشده است."
+
+#: shortcodes/question.php:2005
+#, php-format
+msgid "Sorry, The minimum characters for question tag is %s."
+msgstr "حداقل کاراکترهای برچسب سوال وارد نشده است."
+
+#: shortcodes/question.php:1964
+#, php-format
+msgid "Sorry, The minimum characters for question title is %s."
+msgstr "حداقل کاراکترهای عنوان سوال وارد نشده است."
+
+#: wpqa.php:120 wpqa.php:258
+msgid "Sorry, The minimum characters is"
+msgstr "حداقل کاراکترها"
+
+#: shortcodes/question.php:2031
+#, php-format
+msgid "Sorry, The minimum items for question poll is %s items."
+msgstr "متأسفیم ، حداقل موارد نظرسنجی %s موارد است."
+
+#: shortcodes/question.php:1996
+#, php-format
+msgid "Sorry, The minimum tags for question is %s tags."
+msgstr "متأسفیم ، حداقل برچسب های سوال %s برچسب ها است."
+
+#: shortcodes/register.php:202
+#, fuzzy
+#| msgid "Sorry, You can not register, Please contact the webmaster"
+msgid ""
+"Sorry, This email or domain are not allowing to register, Please try another "
+"email."
+msgstr ""
+"با عرض پوزش ، شما نمی توانید ثبت نام کنید ، لطفا با مدیر سایت تماس بگیرید"
+
+#: templates/blocked-users.php:70 templates/group-admins.php:86 
+#: templates/group-requests.php:81 templates/group-users.php:75 
+#: templates/pending-posts.php:52 templates/profile/content.php:217 
+#: templates/profile/content.php:346
+#, fuzzy
+#| msgid "Sorry, this private page."
+msgid "Sorry, this is a private page."
+msgstr "با عرض پوزش ، این صفحه خصوصی است."
+
+#: shortcodes/category.php:38 shortcodes/group.php:494 
+#: shortcodes/profile.php:472 templates/buy-points.php:65 
+#: templates/checkout.php:227 templates/profile/withdrawals.php:173 
+#: templates/subscriptions.php:190
+msgid "Sorry, this page is not available."
+msgstr "متاسفانه این صفحه یافت نشد"
+
+#: templates/group-requests.php:27 templates/pending-posts.php:25 
+#: templates/profile/content.php:348
+#, fuzzy
+#| msgid "Sorry, this page not found."
+msgid "Sorry, this page is not found."
+msgstr "متاسفانه این صفحه یافت نشد"
+
+#: templates/checkout.php:218
+msgid "Sorry, this payment type is not available."
+msgstr "متأسفیم ، این نوع پرداخت در دسترس نیست"
+
+#: templates/profile/content.php:214
+msgid "Sorry, You are not moderator yet."
+msgstr "متاسفیم، شما هنوز معاون نشده اید."
+
+#: shortcodes/register.php:218
+#, fuzzy
+#| msgid "Sorry, You can not register, Please contact the webmaster"
+msgid "Sorry, You can not register. Please contact the webmaster"
+msgstr ""
+"با عرض پوزش ، شما نمی توانید ثبت نام کنید ، لطفا با مدیر سایت تماس بگیرید"
+
+#: functions/ajax-action.php:894
+#, php-format
+msgid "Sorry, you can't bumping your question with less than %s points."
+msgstr "متأسفیم ، شما نمی توانید سوال خود را با کمتر از %s جمع کنید."
+
+#: shortcodes/post.php:159 shortcodes/post.php:162 shortcodes/post.php:684
+#, fuzzy
+#| msgid "Sorry you can't edit this post."
+msgid "Sorry, you can't edit this post."
+msgstr "متاسفانه شما قادر به ویرایش نوشته نیستید ."
+
+#: wpqa.php:145
+msgid "Sorry, you cannot poll on the same question more than once."
+msgstr "شما نمی توانید در یک نظرسنجی دوبار شرکت کنید"
+
+#: functions/ajax-action.php:605 functions/ajax-action.php:698 wpqa.php:130
+msgid "Sorry, you cannot vote on the same answer more than once."
+msgstr "شما نمی توانید بیش از یک بار برای یک پاسخ رای دهید."
+
+#: wpqa.php:132
+msgid "Sorry, you cannot vote on the same comment more than once."
+msgstr "متأسفانه شما تنها یکبار می‌توانید به یک نظر رأی دهید."
+
+#: functions/ajax-action.php:431 functions/ajax-action.php:514 wpqa.php:127
+msgid "Sorry, you cannot vote on the same question more than once."
+msgstr "شما در یک نظرسنیجی نمی توانید 2 بار رای دهید."
+
+#: wpqa.php:129
+msgid "Sorry, you cannot vote your answer."
+msgstr "شما نمی توانید پاسخ خود را رای دهید."
+
+#: wpqa.php:131
+#, fuzzy
+#| msgid "Sorry, you cannot vote your question."
+msgid "Sorry, you cannot vote your comment."
+msgstr "شما نمی توانید در نظرسنجی خود شرکت کنید."
+
+#: wpqa.php:126
+msgid "Sorry, you cannot vote your question."
+msgstr "شما نمی توانید در نظرسنجی خود شرکت کنید."
+
+#: shortcodes/category.php:28
+#, fuzzy
+#| msgid "Sorry, you do not have a permission to add a post."
+msgid "Sorry, you do not have a permission to add a category."
+msgstr "متاستفانه اجازه برای ایجاد پست ندارید"
+
+#: shortcodes/group.php:482 shortcodes/group.php:489
+msgid "Sorry, you do not have a permission to add a group"
+msgstr "متأسفیم ، شما اجازه اضافه کردن یک گروه را ندارید"
+
+#: shortcodes/posts.php:200
+msgid "Sorry, you do not have a permission to add a group post."
+msgstr "متأسفیم ، شما اجازه اضافه کردن یک پست به گروه را ندارید."
+
+#: shortcodes/group.php:336
+msgid "Sorry, you do not have a permission to add a group."
+msgstr "متأسفیم ، شما اجازه اضافه کردن یک گروه را ندارید."
+
+#: shortcodes/post.php:45 shortcodes/post.php:52 shortcodes/post.php:435
+msgid "Sorry, you do not have a permission to add a post."
+msgstr "متاستفانه اجازه برای ایجاد پست ندارید"
+
+#: shortcodes/question.php:1437 shortcodes/question.php:1444
+#, fuzzy
+#| msgid "Sorry, you do not have a permission to add a question"
+msgid "Sorry, you do not have a permission to ask a question"
+msgstr "با عرض پوزش ، شما اجازه اضافه کردن یک سوال را ندارید"
+
+#: shortcodes/question.php:1071
+#, fuzzy
+#| msgid "Sorry, you do not have a permission to add a question."
+msgid "Sorry, you do not have a permission to ask a question."
+msgstr "با عرض پوزش ، شما اجازه اضافه کردن یک سوال را ندارید"
+
+#: shortcodes/posts.php:340
+msgid "Sorry, you do not have a permission to edit a group posts."
+msgstr "متأسفیم ، شما اجازه ویرایش پست های گروهی را ندارید."
+
+#: shortcodes/group.php:527
+msgid "Sorry, you do not have a permission to edit a group."
+msgstr "متأسفیم ، شما اجازه ویرایش یک گروه را ندارید."
+
+#: shortcodes/post.php:168
+msgid "Sorry, you do not have a permission to edit a post."
+msgstr "با عرض پوزش ، شما اجازه ویرایش این پست را ندارید."
+
+#: shortcodes/question.php:1602
+msgid "Sorry, you do not have a permission to edit a question."
+msgstr "با عرض پوزش ، شما اجازه ویرایش یک سوال را ندارید."
+
+#: CPT/messages.php:159 CPT/messages.php:331
+msgid "Sorry, you do not have a permission to send message."
+msgstr "با عرض پوزش ، شما اجازه ارسال پیام را ندارید."
+
+#: shortcodes/question.php:1087 shortcodes/question.php:1565
+#, php-format
+msgid ""
+"Sorry, you do not have the minimum points. Please answer some questions to "
+"get points (The minimum point is = %s)."
+msgstr ""
+"با عرض پوزش ، شما حداقل امتیاز را ندارید. لطفاً برای گرفتن امتیاز به چند "
+"سوال پاسخ دهید (حداقل امتیاز =٪ s)."
+
+#: payments/form.php:189 payments/payments.php:356
+msgid "Sorry, you don't have enough points"
+msgstr "با عرض پوزش ، شما امتیاز کافی ندارید"
+
+#: functions/filters.php:301
+msgid "South Africa"
+msgstr "آفریقای جنوبی"
+
+#: functions/filters.php:302
+msgid "South Georgia/Sandwich Islands"
+msgstr "جزایر جنوبی جورجیا / ساندویچ"
+
+#: functions/filters.php:303
+msgid "South Korea"
+msgstr "کره جنوبی"
+
+#: functions/filters.php:304
+msgid "South Sudan"
+msgstr "سودان جنوبی"
+
+#: functions/filters.php:305
+msgid "Spain"
+msgstr "اسپانیا"
+
+#: functions/functions.php:2604
+msgid "Spread the word."
+msgstr "پخش کردن کلمات"
+
+#: functions/filters.php:306
+msgid "Sri Lanka"
+msgstr "سری لانکا"
+
+#: widgets/profile_strength.php:159
+msgid "Start Now"
+msgstr "شروع کنید"
+
+#: payments/form.php:530
+msgid "State"
+msgstr "استان"
+
+#: CPT/statements.php:176 CPT/statements.php:178 CPT/statements.php:179 
+#: CPT/statements.php:180 CPT/statements.php:181
+msgid "Statements"
+msgstr "اعلامیه"
+
+#: widgets/stats.php:41
+msgid "Stats"
+msgstr "آمار"
+
+#: templates/profile/referrals.php:145
+msgid "Status"
+msgstr "وضعیت"
+
+#: shortcodes/posts.php:87
+msgid "Stick this post"
+msgstr "چسباندن این پست"
+
+#: CPT/questions.php:360 shortcodes/question.php:774
+msgid "Stick this question"
+msgstr "این سوال را سنجاق کن"
+
+#: CPT/questions.php:276 CPT/questions.php:349
+msgid "Sticky"
+msgstr "چسبنده"
+
+#: payments/form.php:99 payments/form.php:128
+#, php-format
+msgid "sticky for %s day"
+msgid_plural "sticky for %s days"
+msgstr[0] "یادداشت برای %s روز"
+
+#: functions/questions.php:588 functions/questions.php:736 wpqa.php:266 
+#: wpqa.php:311
+msgid "Submit"
+msgstr "تایید"
+
+#: templates/profile/withdrawals.php:123
+msgid "Submit request"
+msgstr "تایید درخواست"
+
+#: templates/subscriptions.php:157 templates/subscriptions.php:163
+msgid "Subscribe"
+msgstr "اشتراک"
+
+#: CPT/statements.php:583
+msgid "Subscription plans"
+msgstr "پلن های اشتراک"
+
+#: functions/functions.php:1127
+msgid "Subscription users"
+msgstr "کاربران مشترک"
+
+#: functions/menu.php:137 functions/rewrite.php:2883 
+#: templates/subscriptions.php:37
+msgid "Subscriptions"
+msgstr "مشترکان"
+
+#: functions/filters.php:307
+msgid "Sudan"
+msgstr "سودان"
+
+#: functions/filters.php:308
+msgid "Suriname"
+msgstr "سورینام"
+
+#: functions/filters.php:309
+msgid "Svalbard and Jan Mayen"
+msgstr "اسوالبارد و جان ماین"
+
+#: functions/filters.php:310
+msgid "Swaziland"
+msgstr "سوازیلند"
+
+#: functions/filters.php:311
+msgid "Sweden"
+msgstr "سوئد"
+
+#: shortcodes/profile.php:457
+msgid "SWIFT/IBAN Code"
+msgstr "کد SWIFT/IBAN"
+
+#: functions/filters.php:312
+msgid "Switzerland"
+msgstr "سوئیس"
+
+#: functions/filters.php:313
+msgid "Syria"
+msgstr "سوریه"
+
+#: CPT/questions.php:173 shortcodes/post.php:308 shortcodes/question.php:457 
+#: widgets/tabs.php:88
+msgid "Tags"
+msgstr "موضوعات"
+
+#: functions/filters.php:314
+msgid "Taiwan"
+msgstr "تایوان"
+
+#: functions/filters.php:315
+msgid "Tajikistan"
+msgstr "تاجیکستان"
+
+#: payments/form.php:330
+#, php-format
+msgid "Take it free? Add this coupon %s."
+msgstr "رایگان می خواهید ؟ یک کوپن %s بسازید."
+
+#: functions/filters.php:316
+msgid "Tanzania"
+msgstr "تانزانیا"
+
+#: functions/filters.php:317
+msgid "Thailand"
+msgstr "تایلند"
+
+#: functions/mails.php:389
+msgid "Thank You"
+msgstr "متشکرم"
+
+#: payments/payments.php:50
+#, fuzzy
+#| msgid "Thank you for your payment you can now add a new answer"
+msgid "Thank you for your payment. You can now add a new answer"
+msgstr ""
+"با تشکر از شما برای پرداخت خود .. شما هم اکنون می توانید یک پاسخ جدید اضافه "
+"کنید"
+
+#: payments/payments.php:60
+msgid "Thank you for your payment. You can now add a new post"
+msgstr "با تشکر از پرداخت شما. می توانید یک پست جدید ایجاد کنید."
+
+#: payments/payments.php:58
+#, fuzzy
+#| msgid "Thank you for your payment you can now add a new question"
+msgid "Thank you for your payment. You can now ask a new question"
+msgstr "تشکر بابت پرداخت .همین الان می توانید سوال جدید را مطرح کنید."
+
+#: payments/payments.php:56
+msgid "Thank you for your payment. Your membership has been upgraded"
+msgstr "با تشکر از پرداخت شما. عضویت شما ارتقا یافته است"
+
+#: payments/payments.php:54
+#, fuzzy
+#| msgid "Thank you for your payment, Your points was added now"
+msgid "Thank you for your payment. Your points has been added"
+msgstr "از شما به خاطر پرداخت تشکر می کنیم، سوال شما به صورت سنجاق شده است . "
+
+#: payments/payments.php:52
+#, fuzzy
+#| msgid "Thank you for your payment, Your question now is sticky"
+msgid "Thank you for your payment. Your question now is \"sticky\""
+msgstr "از شما به خاطر پرداخت تشکر می کنیم، سوال شما به صورت سنجاق شده است . "
+
+#: functions/ajax-action.php:1046 functions/ajax-action.php:1187 wpqa.php:139
+#, fuzzy
+#| msgid "Thank you, your reported will be reviewed shortly."
+msgid "Thank you, your report will be reviewed shortly."
+msgstr "با تشکر از شما, گزارش شما  به زودی بررسی خواهد شد."
+
+#: CPT/notifications.php:522 CPT/notifications.php:524
+#, php-format
+msgid "The administrator %s your %s."
+msgstr "مدیر سایت %s %s شما را"
+
+#: CPT/notifications.php:565
+msgid "The administrator accepted your join request."
+msgstr "مدیر درخواست پیوستن شما را تایید کرد."
+
+#: CPT/notifications.php:460 templates/profile/points.php:119
+msgid "The administrator added points for you."
+msgstr "مدیر به شما امتیاز افزود"
+
+#: CPT/notifications.php:504
+msgid "The administrator approved your answer."
+msgstr "ادمین پاسخ شما را تایید کرد."
+
+#: CPT/notifications.php:448
+#, fuzzy
+#| msgid "The administrator approved your answer."
+msgid "The administrator approved your category."
+msgstr "ادمین پاسخ شما را تایید کرد."
+
+#: CPT/notifications.php:506
+msgid "The administrator approved your comment."
+msgstr "ادمین پاسخ شما را تایید کرد"
+
+#: CPT/notifications.php:585
+msgid "The administrator approved your group post."
+msgstr "مدیر پست گروه شما را تایید کرد."
+
+#: CPT/notifications.php:579
+msgid "The administrator approved your group."
+msgstr "مدیر گروه شما را تایید کرد."
+
+#: CPT/notifications.php:514
+msgid "The administrator approved your message."
+msgstr "ادمین پیام شما را تایید کرد"
+
+#: CPT/notifications.php:550
+msgid "The administrator approved your money request."
+msgstr "مدیر درخواست پول شما را تایید کرد."
+
+#: CPT/notifications.php:520
+msgid "The administrator approved your post."
+msgstr "ادمین پست شما را تایید کرد"
+
+#: CPT/notifications.php:511
+msgid "The administrator approved your question."
+msgstr "ادمین سوال شما را تایید کرد"
+
+#: CPT/notifications.php:571
+msgid "The administrator declined your request."
+msgstr "مدیر درخواست شما را رد کرد."
+
+#: CPT/notifications.php:526
+#, php-format
+msgid "The administrator reason: %s."
+msgstr "دلیل ادمین  %s."
+
+#: CPT/notifications.php:450
+#, fuzzy
+#| msgid "The administrator review your answer."
+msgid "The administrator rejected your category."
+msgstr "ادمین پاسخ شما را بررسی می‌کند"
+
+#: CPT/notifications.php:548
+msgid "The administrator rejected your money request."
+msgstr "مدیر درخواست پول شما را رد کرد."
+
+#: CPT/notifications.php:462 templates/profile/points.php:121
+msgid "The administrator removed points from you."
+msgstr "مدیر از شما امتیاز کم کرد"
+
+#: CPT/notifications.php:516
+#, fuzzy
+#| msgid "The administrator review your answer."
+msgid "The administrator will review your answer."
+msgstr "ادمین پاسخ شما را بررسی می‌کند"
+
+#: CPT/notifications.php:518
+#, fuzzy
+#| msgid "The administrator review your question."
+msgid "The administrator will review your question."
+msgstr "ادمین پرسش شما را بررسی می‌کند"
+
+#: functions/comments.php:90 functions/comments.php:92 
+#: functions/comments.php:103 functions/comments.php:105 
+#: functions/functions.php:86 functions/functions.php:93 wpqa.php:271 
+#: wpqa.php:296
+msgid "The captcha is incorrect, Please try again."
+msgstr "گذرواژه امنیتی نادرست است"
+
+#: shortcodes/category.php:99
+msgid "The category exists!"
+msgstr "این دسته بندی از قبل موجود است."
+
+#: wpqa.php:203
+msgid "The invitation was sent."
+msgstr "دعوت نامه ارسال شد"
+
+#: functions/group.php:520
+msgid "The invite has sent successfully."
+msgstr "دعوت با موفقیت ارسال شد"
+
+#: CPT/messages.php:284
+msgid "The message has been sent successfully."
+msgstr "شما میتوانید در صفحه پیام ها ، پیام ارسال شده خود را مشاهده کنید"
+
+#: functions/group.php:514
+msgid "The moderator has added successfully."
+msgstr "مسئول گروه با موفقیت اضافه شد."
+
+#: payments/paypal.php:71
+msgid "The payment was canceled!"
+msgstr "پرداخت لغو شده است !"
+
+#: payments/paypal.php:323
+msgid "The payment was failed!"
+msgstr "پرداخت با شکست روبرو شد"
+
+#: payments/form.php:366
+#, php-format
+msgid "The price for the first %s %s, Then %s for each %s."
+msgstr "قیمت برای اولین %s %s، سپس %s برای هر %s"
+
+#: functions/comments.php:1108
+msgid "There are an error, Please try again."
+msgstr "یک خطا وجود دارد، لطفا دوباره تلاش کنید "
+
+#: CPT/activities.php:448 templates/profile/content.php:159
+msgid "There are no activities yet."
+msgstr "هیچ فعالیتی هنوز وجود ندارد "
+
+#: templates/profile/content.php:338
+msgid "There are no answers yet"
+msgstr "هنوز پاسخی وجود ندارد"
+
+#: functions/questions.php:570
+msgid "There are no answers yet."
+msgstr "هیچ پاسخی موجود نیست."
+
+#: templates/profile/content.php:338
+msgid "There are no best answers yet."
+msgstr "هنوز هیچ بهترین پاسخی وجود ندارد."
+
+#: templates/profile/content.php:338
+msgid "There are no comments yet"
+msgstr "هیچ نظری وجود ندارد"
+
+#: CPT/messages.php:515 templates/profile/messages.php:133
+msgid "There are no messages yet."
+msgstr "هیچ پیامی وجود ندارد"
+
+#: CPT/notifications.php:298 templates/profile/content.php:155
+msgid "There are no notifications yet."
+msgstr "فعلا اعلانی ندارید!"
+
+#: templates/pending-posts.php:44
+msgid "There are no pending posts yet."
+msgstr "هیچ پستی در لیست انتظار نیست"
+
+#: templates/profile/content.php:279
+msgid "There are no points yet."
+msgstr "هنوز امتیازی وجود ندارد"
+
+#: wpqa.php:217
+#, fuzzy
+#| msgid "There are no reports yet."
+msgid "There are no posts yet."
+msgstr "هیچ گزارشی وجود ندارد"
+
+#: wpqa.php:216
+msgid "There are no questions yet."
+msgstr "هنوز هیچ پرسشی وجود ندارد"
+
+#: templates/profile/content.php:149
+msgid "There are no transactions yet."
+msgstr "هنوز هیچ معامله ای انجام نشده است."
+
+#: templates/profile/withdrawals.php:168
+msgid "There are no withdrawals yet."
+msgstr "هنوز برداشتی انجام نشده است."
+
+#: shortcodes/profile.php:840
+msgid "There are required fields (Account Number)."
+msgstr "فیلدهای ضروری (شماره حساب) را وارد کنید."
+
+#: shortcodes/register.php:713
+msgid "There are required fields (Age)."
+msgstr "زمینه های مورد نیاز (سن) وجود دارد."
+
+#: functions/comments.php:173 shortcodes/group.php:760 shortcodes/post.php:805 
+#: shortcodes/question.php:2078 shortcodes/register.php:185 wpqa.php:260
+msgid "There are required fields (Agree of the terms)."
+msgstr "فیلدهای الزامی وجو دارند.(موافقت قوانین)"
+
+#: shortcodes/profile.php:834
+msgid "There are required fields (Bank Address)."
+msgstr "فیلدهای ضروری (آدرس بانک) را وارد کنید."
+
+#: shortcodes/profile.php:831
+msgid "There are required fields (Bank Name)."
+msgstr "فیلدهای ضروری (نام بانک) را وارد کنید."
+
+#: functions/functions.php:82
+msgid "There are required fields (captcha)."
+msgstr "فیلدهای الزامی وجو دارند.(کپچا)"
+
+#: shortcodes/category.php:93 shortcodes/post.php:792 
+#: shortcodes/question.php:1973 shortcodes/question.php:1979
+msgid "There are required fields (category)."
+msgstr "فیلدهای الزامی وجو دارند.(دسته بندی)"
+
+#: shortcodes/register.php:704
+msgid "There are required fields (City)."
+msgstr "زمینه های مورد نیاز (شهر) وجود دارد."
+
+#: functions/comments.php:1126
+msgid "There are required fields (comment)."
+msgstr "فیلدهای الزامی وجو دارند.(نظرات)"
+
+#: CPT/messages.php:355 shortcodes/posts.php:518 shortcodes/question.php:2053
+msgid "There are required fields (content)."
+msgstr "فیلدهای الزامی وجو دارند.(محتوا)"
+
+#: shortcodes/register.php:701
+msgid "There are required fields (Country)."
+msgstr "زمینه های مورد نیاز (کشور) وجود دارد."
+
+#: shortcodes/register.php:676
+msgid "There are required fields (Cover picture)."
+msgstr "زمینه های مورد نیاز (تصویر کاور) وجود دارد."
+
+#: shortcodes/post.php:797
+msgid "There are required fields (details)."
+msgstr "فیلدهای الزامی وجو دارند.(جزییات)"
+
+#: shortcodes/register.php:669
+msgid "There are required fields (Display name)."
+msgstr "زمینه های مورد نیاز (نام نمایشی) وجود دارد."
+
+#: shortcodes/profile.php:798
+msgid "There are required fields (Email)."
+msgstr "فیلدهای الزامی وجو دارند.(ایمیل)"
+
+#: CPT/messages.php:345 shortcodes/post.php:453 shortcodes/question.php:1091
+msgid "There are required fields (email)."
+msgstr "فیلدهای الزامی وجو دارند.(ایمیل)"
+
+#: shortcodes/profile.php:816
+msgid "There are required fields (Financial Payments)."
+msgstr "فیلدهای ضروری (پرداخت های مالی) را وارد کنید."
+
+#: shortcodes/register.php:663
+msgid "There are required fields (First name)."
+msgstr "زمینه های مورد نیاز (نام) وجود دارد."
+
+#: shortcodes/register.php:710
+msgid "There are required fields (Gender)."
+msgstr "زمینه های مورد نیاز (جنسیت) وجود دارد."
+
+#: shortcodes/group.php:749
+msgid "There are required fields (group invitation)."
+msgstr "فیلدهای ضروری (دعوت گروه) را وارد کنید."
+
+#: shortcodes/group.php:753
+msgid "There are required fields (group posts)."
+msgstr "فیلدهای ضروری (پست های گروه) را وارد کنید."
+
+#: shortcodes/group.php:745
+msgid "There are required fields (group privacy)."
+msgstr "فیلدهای ضروری (حریم خصوصی گروه) را وارد کنید."
+
+#: shortcodes/register.php:666
+msgid "There are required fields (Last name)."
+msgstr "زمینه های مورد نیاز (نام خانوادگی) وجود دارد."
+
+#: shortcodes/profile.php:825
+msgid "There are required fields (Name of the Account Holder)."
+msgstr "فیلدهای ضروری (نام مالک حساب کاربری) را وارد کنید."
+
+#: shortcodes/register.php:660
+msgid "There are required fields (Nickname)."
+msgstr "زمینه های مورد نیاز (نام مستعار) وجود دارد."
+
+#: shortcodes/profile.php:804
+msgid "There are required fields (Password)."
+msgstr "فیلدهای ضروری (رمزعبور) را وارد کنید."
+
+#: shortcodes/profile.php:822
+msgid "There are required fields (Payoneer E-Mail)."
+msgstr "فیلدهای ضروری (ایمیل Payoneer) را وارد کنید."
+
+#: shortcodes/profile.php:820
+msgid "There are required fields (PayPal E-Mail)."
+msgstr "فیلدهای ضروری (ایمیل پی پال) را وارد کنید."
+
+#: shortcodes/register.php:707
+msgid "There are required fields (Phone)."
+msgstr "زمینه های مورد نیاز (تلفن) وجود دارد."
+
+#: shortcodes/profile.php:860
+msgid "There are required fields (Profile credential)."
+msgstr "زمینه های لازم (اعتبارنامه پروفایل) وجود دارد."
+
+#: shortcodes/register.php:673
+msgid "There are required fields (Profile picture)."
+msgstr "زمینه های مورد نیاز (تصویر نمایه) وجود دارد."
+
+#: shortcodes/profile.php:837
+msgid "There are required fields (SWIFT/IBAN Code)."
+msgstr "فیلدهای ضروری (کد SWIFT / IBAN) را وارد کنید."
+
+#: CPT/messages.php:351 shortcodes/group.php:741 shortcodes/post.php:788 
+#: shortcodes/question.php:1960
+msgid "There are required fields (title)."
+msgstr "فیلدهای الزامی وجو دارند.(عنوان)"
+
+#: CPT/messages.php:344 shortcodes/post.php:452 shortcodes/question.php:1090
+msgid "There are required fields (username)."
+msgstr "فیلدهای الزامی وجو دارند.(نام کاربری)"
+
+#: functions/comments.php:125 functions/comments.php:1130 
+#: shortcodes/question.php:2072
+msgid "There are required fields (Video ID)."
+msgstr "فیلدهای الزامی وجو دارند.(شناسه ویدئو)"
+
+#: shortcodes/profile.php:828
+msgid "There are required fields (Your Address)."
+msgstr "فیلدهای ضروری (آدرس شما) وجود دارد."
+
+#: CPT/messages.php:318 payments/stripe.php:91 shortcodes/category.php:88 
+#: shortcodes/group.php:325 shortcodes/group.php:578 shortcodes/login.php:119 
+#: shortcodes/password.php:66 shortcodes/post.php:431 shortcodes/post.php:676 
+#: shortcodes/posts.php:185 shortcodes/posts.php:399 
+#: shortcodes/profile.php:793 shortcodes/question.php:1056 
+#: shortcodes/question.php:1673 shortcodes/register.php:158
+msgid "There is an error, Please reload the page and try again."
+msgstr ""
+"خطایی روی داد ، لطفاً صفحه را دوباره بارگیری کنید و دوباره امتحان کنید."
+
+#: CPT/messages.php:340
+#, fuzzy
+#| msgid "There are an error."
+msgid "There is an error."
+msgstr "خطایی وجود دارد"
+
+#: wpqa.php:270
+#, fuzzy
+#| msgid "There are another one select this a best answer"
+msgid "There is another one select this a best answer"
+msgstr "یکی پاسخ از دیگر به عنوان بهترین پاسخ وجود دارد"
+
+#: functions/functions.php:1617
+msgid "This answer was edited."
+msgstr "این پاسخ ویرایش شده است."
+
+#: functions/functions.php:1619
+msgid "This comment was edited."
+msgstr "این دیدگاه ویرایش شده است."
+
+#: payments/form.php:211 payments/payments.php:299
+msgid "This coupon has expired."
+msgstr "این کد تخفیف منقضی شده است."
+
+#: payments/form.php:213 payments/form.php:215 payments/payments.php:302 
+#: payments/payments.php:312
+msgid "This coupon is not valid."
+msgstr "این کوپن نامعتبر است."
+
+#: wpqa.php:202
+msgid "This email is already exists."
+msgstr "این ایمیل از قبل موجود است."
+
+#: shortcodes/register.php:195
+msgid "This email is already registered."
+msgstr "با این ایمیل قبلا ثبت نام شده است."
+
+#: shortcodes/post.php:817
+msgid "This is a paid post."
+msgstr "این یک پست پرداختی است."
+
+#: functions/questions.php:246
+msgid "This is a paid question."
+msgstr "این یک پرسش پرداخت شده است."
+
+#: templates/subscriptions.php:154
+msgid "This is your plan."
+msgstr "این پلن شماست."
+
+#: functions/subscriptions.php:318 functions/subscriptions.php:340
+#, php-format
+msgid "This month you have %s, you need to add %s to join the %s plan"
+msgstr "این ماه شما %s دارید و نیاز دارید %s اضافه کنید تا به پلن %s برسید."
+
+#: functions/subscriptions.php:307
+#, php-format
+msgid "This month you have %s, you need to ask %s to join the %s plan"
+msgstr "این ماه شما %s دارید و نیاز دارید %s سوال بپرسید تا به پلن %s برسید."
+
+#: functions/subscriptions.php:329
+#, php-format
+msgid "This month you have %s, you need to get %s to join the %s plan"
+msgstr "این ماه شما %s دارید و نیاز دارید %s بگیرید تا به پلن %s برسید."
+
+#: includes/class-wpqa.php:54
+#, php-format
+msgid ""
+"This plugin can not be activated because it requires a WordPress version at "
+"least %1$s (or later). Please go to Dashboard &#9656; Updates to get the "
+"latest version of WordPress."
+msgstr ""
+"این افزونه نمی تواند فعال شود زیرا نیاز به نسخه وردپرس حداقل%1$s (یا بعد) "
+"دارد. لطفا به داشبورد & #9656; به روز رسانی برای دریافت آخرین نسخه وردپرس."
+
+#: shortcodes/post.php:821
+msgid "This post will \"sticky\" to"
+msgstr "این پست \"چسبیده\" به"
+
+#: shortcodes/question.php:717
+msgid "This question is a private question?"
+msgstr "این سوال یک سوال خصوصی است؟"
+
+#: functions/questions.php:250
+msgid "This question will sticky to"
+msgstr "این سوال سنجاق خواهد شد برای "
+
+#: shortcodes/register.php:189
+msgid "This username is already registered."
+msgstr "این نام کاربری قبلا ثبت شده است."
+
+#: CPT/statements.php:577 functions/functions.php:3831 payments/form.php:58 
+#: payments/stripe.php:350 templates/subscriptions.php:109
+msgid "Three months membership"
+msgstr "عضویت سه ماهه"
+
+#: functions/filters.php:318
+msgid "Timor-Leste"
+msgstr "تیمور شرقی"
+
+#: CPT/groups.php:68 CPT/messages.php:69 CPT/posts.php:72 
+#: CPT/questions.php:169 CPT/statements.php:302
+msgid "Title"
+msgstr "عنوان"
+
+#: functions/functions.php:1840 functions/functions.php:1881
+msgid "to"
+msgstr "به"
+
+#: payments/form.php:301
+msgid "to ask"
+msgstr "پرسیدن"
+
+#: functions/mails.php:386
+msgid "To take action (approve/reject)- please go here:"
+msgstr "برای اقدام -به اینجا بروید : "
+
+#: CPT/messages.php:72
+msgid "To user/groups/s"
+msgstr "به کاربر / گروه / ها"
+
+#: functions/filters.php:319
+msgid "Togo"
+msgstr "توگو"
+
+#: functions/filters.php:320
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: functions/filters.php:321
+msgid "Tonga"
+msgstr "تونگا"
+
+#: CPT/statements.php:306
+msgid "Transaction"
+msgstr "تراکنش"
+
+#: templates/profile/withdrawals.php:141
+msgid "Transaction Amount"
+msgstr "مقدار تراکنش"
+
+#: payments/stripe.php:86 payments/stripe.php:187 payments/stripe.php:192 
+#: payments/stripe.php:217
+msgid "Transaction has been failed."
+msgstr "تراکنش ناموفق بود"
+
+#: templates/profile/withdrawals.php:142
+msgid "Transaction Status"
+msgstr "وضعیت تراکنش ها"
+
+#: functions/menu.php:177 functions/rewrite.php:1983
+msgid "Transactions"
+msgstr "تراکنش ها"
+
+#: templates/profile/withdrawals.php:140
+msgid "Transfer date"
+msgstr "تاریخ انتقال"
+
+#: functions/subscriptions.php:167
+msgid "Trial membership"
+msgstr "عضویت آزمایشی"
+
+#: functions/filters.php:322
+msgid "Trinidad and Tobago"
+msgstr "ترینیداد و توباگو"
+
+#: functions/filters.php:323
+msgid "Tunisia"
+msgstr "تونس"
+
+#: functions/filters.php:324
+msgid "Turkey"
+msgstr "ترکیه"
+
+#: functions/filters.php:325
+msgid "Turkmenistan"
+msgstr "ترکمنستان"
+
+#: functions/filters.php:326
+msgid "Turks and Caicos Islands"
+msgstr "جزایر تورکس و کایکوس"
+
+#: functions/filters.php:327
+msgid "Tuvalu"
+msgstr "تووالو"
+
+#: functions/functions.php:3541 shortcodes/profile.php:205 
+#: shortcodes/profile.php:1203
+msgid "Twitter"
+msgstr "توییتر"
+
+#: CPT/questions.php:170
+msgid "Type"
+msgstr "نوع"
+
+#: functions/group.php:699 templates/group-admins.php:27
+msgid "Type a name or email"
+msgstr "نام یا ایمیل خود را تایپ کنید."
+
+#: CPT/messages.php:215 shortcodes/question.php:655
+msgid "Type the description thoroughly and in details."
+msgstr "توضیحات کاملا در جزئیات وارد کنید."
+
+#: shortcodes/group.php:190
+msgid "Type the group rules thoroughly and in details."
+msgstr "قوانین گروه را به طور کامل و با جزئیات تایپ کنید."
+
+#: functions/functions.php:2075 functions/functions.php:2124 
+#: functions/functions.php:2165
+msgid "Type to find..."
+msgstr "نوع برای جست و جو "
+
+#: functions/filters.php:328
+msgid "Uganda"
+msgstr "اوگاندا"
+
+#: functions/filters.php:329
+msgid "Ukraine"
+msgstr "اوکراین"
+
+#: functions/author.php:325 functions/cover.php:196 functions/review.php:37 
+#: wpqa.php:144 wpqa.php:215
+msgid "Unban user"
+msgstr "برداشتن مسدودیت کاربر"
+
+#: functions/author.php:426
+msgid "Unblock"
+msgstr "آنبلاک"
+
+#: templates/profile/messages.php:120 wpqa.php:178
+msgid "Unblock Message"
+msgstr "لغو بلاک کردن پیام"
+
+#: CPT/notifications.php:590
+msgid "unblocked you from the group."
+msgstr "شما از گروه آنبلاک شدید."
+
+#: functions/functions.php:1121 shortcodes/register.php:343
+msgid "Under review"
+msgstr "در حال بررسی"
+
+#: functions/author.php:524 functions/author.php:526 
+#: functions/categories.php:245 functions/categories.php:246 wpqa.php:136
+msgid "Unfollow"
+msgstr "دنبال نکردن"
+
+#: wpqa.php:134
+msgid "Unfollow the question"
+msgstr "لغو دنبال کردن سوال"
+
+#: CPT/notifications.php:474
+msgid "unfollowed you."
+msgstr "از این به بعد شما را دنبال نخواهد کرد"
+
+#: CPT/notifications.php:502
+msgid "unfollowed your question."
+msgstr "دنبال کردن سوال شما را بیخیال شد."
+
+#: functions/filters.php:330
+msgid "United Arab Emirates"
+msgstr "امارات متحده عربی"
+
+#: functions/filters.php:331
+msgid "United Kingdom (UK)"
+msgstr "بریتانیا (انگلستان)"
+
+#: functions/filters.php:332
+msgid "United States (US)"
+msgstr "ایالات متحده (ایالات متحده)امریکا"
+
+#: wpqa.php:308
+msgid "Unlike"
+msgstr "آنلایک"
+
+#: shortcodes/group.php:224
+msgid "Update the rules"
+msgstr "ویرایش قانون ها"
+
+#: CPT/groups.php:111
+#, php-format
+msgid "Updated. %1$s View group %2$s"
+msgstr "به روز شد. %1$s مشاهده گروه %2$s"
+
+#: CPT/posts.php:122
+#, php-format
+msgid "Updated. %1$s View post %2$s"
+msgstr "به روز شد. %1$s مشاهده پست %2$s"
+
+#: CPT/questions.php:252
+#, fuzzy
+#, php-format
+#| msgid "Updated. <a href=\"%s\">View question</a>"
+msgid "Updated. %1$s View question %2$s"
+msgstr "بروزرسانی شد . <a href=\"%s\">مشاهده سوال</a>"
+
+#: shortcodes/group.php:155
+msgid "Upload the group cover"
+msgstr "آپلود تصویر کاور گروه"
+
+#: shortcodes/group.php:129
+msgid "Upload the group photo, that represents this group"
+msgstr "عکس گروه را که نمایانگر این گروه است بارگذاری کنید"
+
+#: shortcodes/posts.php:63
+msgid "Upload the posts photo, that represents this posts"
+msgstr "عکس نوشته ها را که نمایانگر این پست ها است بارگذاری کنید"
+
+#: widgets/profile_strength.php:142
+msgid "Upload your avatar image"
+msgstr "آپلود تصویر کاربری"
+
+#: widgets/profile_strength.php:144
+msgid "Upload your cover image"
+msgstr "آپلود تصویر کاور"
+
+#: functions/filters.php:333
+msgid "Uruguay"
+msgstr "اروگوئه"
+
+#: CPT/groups.php:92 functions/group.php:87 widgets/stats.php:93
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "کاربر"
+
+#: CPT/messages.php:74
+msgid "User deleted?"
+msgstr "کاربر حذف شود؟"
+
+#: templates/profile/follow.php:62 templates/profile/follow.php:65 
+#: templates/profile/head.php:114
+msgid "User doesn't follow anyone."
+msgstr "هیچ کاربری شما را دنبال نمیکند"
+
+#: templates/profile/follow.php:62 templates/profile/follow.php:65 
+#: templates/profile/head.php:84
+msgid "User doesn't have any followers yet."
+msgstr "این کاربر هیچ فالوری ندارد"
+
+#: templates/profile/points.php:93
+msgid "User followed You."
+msgstr "کابری که شما را فالو می کند."
+
+#: templates/profile/points.php:95
+msgid "User unfollowed You."
+msgstr "کابری که شما را فالو نمی کند."
+
+#: CPT/messages.php:183 shortcodes/post.php:275 shortcodes/question.php:345 
+#: shortcodes/register.php:47 shortcodes/register.php:55
+msgid "Username"
+msgstr "نام کاربری"
+
+#: shortcodes/login.php:49
+msgid "Username or email"
+msgstr "نام کاربری یا ایمیل"
+
+#: CPT/groups.php:71 functions/filters.php:85 functions/group.php:182 
+#: templates/search-form.php:88 widgets/users.php:66
+msgid "Users"
+msgstr "کاربران"
+
+#: functions/filters.php:334
+msgid "Uzbekistan"
+msgstr "ازبکستان"
+
+#: functions/filters.php:335
+msgid "Vanuatu"
+msgstr "وانواتو"
+
+#: functions/filters.php:336
+msgid "Vatican"
+msgstr "واتیکان"
+
+#: functions/filters.php:337
+msgid "Venezuela"
+msgstr "ونزوئلا"
+
+#: functions/author.php:559
+msgid "Verified"
+msgstr "تایید شده"
+
+#: functions/comments.php:701 shortcodes/question.php:687
+msgid "Video ID"
+msgstr "شناسه ویدیو"
+
+#: functions/comments.php:687 shortcodes/question.php:673
+msgid "Video type"
+msgstr "نوع ویدئو"
+
+#: functions/filters.php:338
+msgid "Vietnam"
+msgstr "ویتنام"
+
+#: CPT/activities.php:83
+msgid "View activities"
+msgstr "مشاهده فعالیت ها"
+
+#: functions/menu.php:34
+msgid "View All"
+msgstr "نمایش همه"
+
+#: widgets/questions_categories.php:136 widgets/questions_categories.php:151
+#, php-format
+msgid "View all questions under %s"
+msgstr "مشاهده تمام سوالات زیر %s"
+
+#: functions/ajax-action.php:1694 functions/ajax-action.php:1726 
+#: functions/ajax-action.php:1750 functions/ajax-action.php:1773 
+#: functions/ajax-action.php:1805
+msgid "View all results."
+msgstr "دیدن همه نتایج"
+
+#: CPT/activities.php:70 CPT/notifications.php:70 CPT/points.php:70 
+#: CPT/reports.php:174
+msgid "View answer"
+msgstr "مشاهده پاسخ"
+
+#: CPT/groups.php:35
+msgid "View Group"
+msgstr "مشاهده گروه"
+
+#: functions/rewrite.php:2915
+msgid "View group post"
+msgstr "مشاهده پست ها"
+
+#: CPT/groups.php:36
+msgid "View Groups"
+msgstr "مشاهده گروه ها"
+
+#: CPT/groups.php:84
+msgid "View groups"
+msgstr "مشاهده گروه ها"
+
+#: CPT/messages.php:28
+msgid "View Message"
+msgstr "مشاهده پیام"
+
+#: CPT/messages.php:29
+msgid "View Messages"
+msgstr "نمایش پیام ها"
+
+#: CPT/notifications.php:83
+msgid "View notifications"
+msgstr "مشاهده اطلاع رسانی ها"
+
+#: CPT/points.php:83
+msgid "View points"
+msgstr "مشاهده امتیاز ها"
+
+#: CPT/posts.php:32
+msgid "View Post Group"
+msgstr "مشاهده پست "
+
+#: CPT/posts.php:33
+msgid "View Posts"
+msgstr "مشاهده پست ها"
+
+#: CPT/posts.php:88 CPT/posts.php:103
+msgid "View posts"
+msgstr "مشاهده پست ها"
+
+#: functions/author.php:421 functions/author.php:439 functions/author.php:446
+msgid "View Profile"
+msgstr "نمایش پروفایل"
+
+#: CPT/questions.php:69
+msgid "View Question"
+msgstr "مشاهده سوال"
+
+#: CPT/activities.php:76 CPT/notifications.php:76 CPT/points.php:76 
+#: CPT/reports.php:176 CPT/statements.php:385
+msgid "View question"
+msgstr "مشاهده سوال"
+
+#: CPT/questions.php:70
+msgid "View Questions"
+msgstr "مشاهده سوال"
+
+#: CPT/reports.php:198
+msgid "View reports"
+msgstr "مشاهده گزارش ها"
+
+#: CPT/requests.php:75
+msgid "View requests"
+msgstr "مشاهده درخواست ها"
+
+#: CPT/statements.php:344
+msgid "View statements"
+msgstr "مشاهده عبارت ها"
+
+#: templates/profile/messages.php:101
+msgid "View the message"
+msgstr "پیام را مشاهده کنید"
+
+#: CPT/requests.php:76
+msgid "View user payment"
+msgstr "مشاهده پرداخت کاربر"
+
+#: shortcodes/profile.php:217 shortcodes/profile.php:1215
+msgid "Vimeo"
+msgstr "ویمو"
+
+#: shortcodes/profile.php:625
+msgid "Visibility"
+msgstr "قابلیت دیده شدن"
+
+#: functions/author.php:205
+msgid "Visit site"
+msgstr "نمایش سایت"
+
+#: functions/questions.php:704
+msgid "Vote"
+msgid_plural "Votes"
+msgstr[0] "نظرسنجی"
+
+#: CPT/activities.php:297
+msgid "Voted down answer."
+msgstr "یک رای منفی گرفتید"
+
+#: CPT/activities.php:293
+msgid "Voted down question."
+msgstr "یک رای منفی گرفتید"
+
+#: CPT/notifications.php:470
+#, fuzzy
+#| msgid "voted down you answered."
+msgid "voted down your answer."
+msgstr "به پاسخ شما نظر منفی داد"
+
+#: CPT/notifications.php:466
+msgid "voted down your question."
+msgstr "به پرسش شما نظر منفی داد"
+
+#: CPT/activities.php:295
+msgid "Voted up answer."
+msgstr "یک رای مثبت گرفتید"
+
+#: CPT/activities.php:291
+msgid "Voted up question."
+msgstr "یک رای مثبت گرفتید"
+
+#: CPT/notifications.php:468
+#, fuzzy
+#| msgid "voted up you answered."
+msgid "voted up your answer."
+msgstr "به پاسخ شما نظر مثبت داد"
+
+#: CPT/notifications.php:464
+msgid "voted up your question."
+msgstr "به پرسش شما نظر مثبت داد"
+
+#: templates/profile/points.php:91
+msgid "Voted your answer."
+msgstr "حذف بهترین پاسخ شما"
+
+#: templates/profile/points.php:89
+msgid "Voted your question."
+msgstr "رای به سوال خود دهید."
+
+#: functions/questions.php:689 functions/questions.php:693
+msgid "voter"
+msgid_plural "voters"
+msgstr[0] "نظر دهندگان"
+
+#: functions/questions.php:711
+msgid "Voting"
+msgstr "نظر دادن"
+
+#: wpqa.php:128
+msgid "Voting is available to members only."
+msgstr "رای گیری فقط برای اعضا موجود است."
+
+#: functions/rewrite.php:1953 templates/profile/head-tabs.php:95
+msgid "Waiting Questions"
+msgstr "لیست انتظار سوالات"
+
+#: functions/filters.php:339
+msgid "Wallis and Futuna"
+msgstr "والیس و فوتونا"
+
+#: templates/profile/withdrawals.php:95
+#, php-format
+msgid "We pay for %s, and your current your balance"
+msgstr "ما برای %s و موجودی شما را پرداخت می کنیم"
+
+#: shortcodes/profile.php:269 shortcodes/profile.php:610
+msgid "Website"
+msgstr "وب سایت"
+
+#: functions/ajax-action.php:111 shortcodes/register.php:399
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+#: functions/filters.php:340
+msgid "Western Sahara"
+msgstr "صحرای غربی"
+
+#: functions/filters.php:341
+msgid "Western Samoa"
+msgstr "ساموآی غربی"
+
+#: functions/functions.php:3545
+msgid "WhatsApp"
+msgstr "واتس آپ"
+
+#: functions/points.php:50
+msgid "When your answer has been chosen as the best answer."
+msgstr "وقتی پاسخ شما به عنوان بهترین پاسخ انتخاب شده است."
+
+#: CPT/requests.php:148
+msgid "with"
+msgstr "با"
+
+#: CPT/requests.php:148 CPT/requests.php:283
+msgid "Withdrawal points"
+msgstr "امتیازهای استفاده شده"
+
+#: functions/menu.php:182 functions/rewrite.php:1979 
+#: templates/profile/edit-tabs.php:76 templates/profile/withdrawals.php:69
+msgid "Withdrawals"
+msgstr "برداشت ها"
+
+#: functions/functions.php:2641
+#, php-format
+msgid ""
+"Woohoo! You've earned the %s badge%s, here's a new badge to celebrate! "
+"Looking for more? Browse the complete list of questions, or popular tags. "
+"Help us answer unanswered questions."
+msgstr ""
+"وواووو! شما %s نشان %s را به دست آورده اید ، اینجا یک نشان جدید برای جشن "
+"گرفتن است! به دنبال بیشتر ؟ فهرست کاملی از سوالات و یا تگ های محبوب را مرور "
+"کنید. به ما کمک کنید به سوالات بدون جواب پاسخ دهیم."
+
+#: functions/menu.php:14
+msgid "WPQA - Custom Links"
+msgstr "WPQA-لینک های سفارشی"
+
+#: payments/form.php:364
+msgid "year"
+msgstr "سال"
+
+#: CPT/statements.php:579 functions/functions.php:3833 payments/form.php:60 
+#: payments/stripe.php:352 templates/subscriptions.php:111
+msgid "Yearly membership"
+msgstr "عضویت سالانه"
+
+#: functions/author.php:219
+msgid "years old"
+msgstr "سن"
+
+#: functions/filters.php:342
+msgid "Yemen"
+msgstr "یمن"
+
+#: CPT/notifications.php:558
+msgid "You added as a moderator in the group."
+msgstr "یک مسئول به گروه اضافه شد."
+
+#: functions/subscriptions.php:344
+msgid "You are admin, so you can't subscribe."
+msgstr "شما مدیر هستید پس نمی توانید اینکار را بکنید."
+
+#: shortcodes/password.php:64 shortcodes/password.php:204
+#, fuzzy
+#, php-format
+#| msgid ""
+#| "You are already logged in, If you want to change your password go to <a "
+#| "href='%s'>edit profile</a>."
+msgid ""
+"You are already logged in, If you want to change your password go to %1$s "
+"edit profile %2$s."
+msgstr ""
+"اگر شما می خواهید که پسورد خود را تغییر دهید به <a href='%s'>ویرایش "
+"پروفایل</a> بروید."
+
+#: functions/check-account.php:115
+#, fuzzy
+#, php-format
+#| msgid ""
+#| "You are already logged in, you have activated your membership, go to your "
+#| "%1$s profile %2$s."
+msgid ""
+"You are already logged in, you have activated your membership, go to your "
+"%1$s profile. %2$s"
+msgstr ""
+"شما در حال حاضر وارد سیستم شده اید ، عضویت خود را فعال کرده اید ، به <a "
+"href='%s'>نمایه</a>خود بروید."
+
+#: functions/comments.php:1120 shortcodes/comment.php:69
+msgid "You are not allowed to edit this comment."
+msgstr "شما مجوز کافی برای ویرایش این کامنت ندارید ."
+
+#: templates/checkout.php:203
+#, php-format
+msgid "You can already add %s you can pay more if you want."
+msgstr ""
+"در حال حاضر می توانید %s  را اضافه کنید در صورت تمایل می توانید هزینه بیشتری "
+"پرداخت کنید."
+
+#: templates/checkout.php:193
+#, php-format
+msgid "You can already ask %s you can pay more if you want."
+msgstr ""
+"در حال حاضر می توانید از %s بخواهید در صورت تمایل می توانید هزینه بیشتری "
+"پرداخت کنید."
+
+#: templates/checkout.php:197 templates/checkout.php:207
+#, php-format
+msgid "You can already make \"sticky\" %s you can pay more if you want."
+msgstr ""
+"شما می توانید %s یادداشت بسازید ، در صورت تمایل می توانید بیشتر پرداخت کنید."
+
+#: payments/form.php:189 payments/payments.php:356
+msgid "You can buy the points from here."
+msgstr "شما می توانید از اینجا امتیاز خریداری کنید."
+
+#: CPT/messages.php:173 CPT/messages.php:338
+msgid "You can't send message for yourself."
+msgstr "شما نمی توانید برای خودتان پیام بفرستید."
+
+#: templates/profile/withdrawals.php:30 wpqa.php:155
+msgid "You don't get the minimum money to can request your payment."
+msgstr "شما مبلغ کافی را برای پرداخت ندارید."
+
+#: templates/profile/withdrawals.php:36 wpqa.php:153
+msgid "You don't get the minimum points to can request your payment."
+msgstr "شما امتیاز لازم را ندارید و می توانید امتیاز خرید کنید."
+
+#: templates/profile/withdrawals.php:33 wpqa.php:154
+msgid "You don't have these points."
+msgstr "شما این امتیازات را ندارید."
+
+#: templates/profile/points.php:87
+msgid "You got a refund for your buying of the points."
+msgstr "برای خرید امتیاز نیاز به بودجه دارید."
+
+#: templates/subscriptions.php:80
+msgid "You have a paid membership already."
+msgstr "شما هنوز یک عضویت ویژه دارید."
+
+#: templates/subscriptions.php:59
+#, php-format
+msgid "You have a trial membership for %s."
+msgstr "شما یک عضویت آزمایشی برای %s دارید."
+
+#: CPT/activities.php:383
+msgid "You have accepted the group invite."
+msgstr "درخواست دعوت تایید شد."
+
+#: CPT/requests.php:90
+msgid "You have accepted this request"
+msgstr "این درخواست تایید شد."
+
+#: CPT/activities.php:331
+msgid "You have added a comment."
+msgstr "شما یک نظر اضافه کرده اید"
+
+#: CPT/activities.php:325
+msgid "You have added a question at favorites."
+msgstr "یک سوال در مورد علاقه های شما اضافه شده است."
+
+#: CPT/activities.php:329
+msgid "You have added an answer."
+msgstr "شما پاسخ را اضافه کرده اید."
+
+#: templates/profile/points.php:43
+msgid "You have added your Facebook link."
+msgstr "یک لینک فیس بوک اضافه شد."
+
+#: templates/profile/points.php:53
+msgid "You have added your Instagram link."
+msgstr "یک لینک اینستاگرام اضافه شد."
+
+#: templates/profile/points.php:51
+msgid "You have added your Linkedin link."
+msgstr "یک لینک لینکدین اضافه شد."
+
+#: templates/profile/points.php:55
+msgid "You have added your Pinterest link."
+msgstr "یک لینک پینترست اضافه شد."
+
+#: templates/profile/points.php:45
+msgid "You have added your Twitter link."
+msgstr "یک لینک توییتر اضافه شد."
+
+#: templates/profile/points.php:49
+msgid "You have added your Vimeo link."
+msgstr "یک لینک ویموو اضافه شد."
+
+#: templates/profile/points.php:47
+msgid "You have added your Youtube link."
+msgstr "یک لینک یوتیوب اضافه شد."
+
+#: functions/comments.php:118
+msgid "You have already answered this question."
+msgstr "پاسخ شما در این سوال تکراری است."
+
+#: templates/profile/points.php:103
+msgid "You have answered the question."
+msgstr "شما به این سوال پاسخ داده اید."
+
+#: CPT/activities.php:301
+#, fuzzy
+#| msgid "You have added an answer."
+msgid "You have banned user"
+msgstr "شما پاسخ را اضافه کرده اید."
+
+#: functions/check-account.php:109
+msgid ""
+"You have been banned from using the site, you can contact the admin to know "
+"the reason for the ban and appeal the ban."
+msgstr ""
+"شما از استفاده از سایت منع شده اید ، می توانید با مدیر تماس بگیرید تا دلیل "
+"ممنوعیت را بدانید و درخواست تجدید نظر دهید."
+
+#: templates/profile/points.php:85
+#, fuzzy
+#| msgid "You have bought a new points."
+msgid "You have bought new points."
+msgstr "شما یک پست را حذف کرده اید"
+
+#: templates/profile/points.php:79
+msgid "You have bought to add a post by points."
+msgstr "شما برای افزودن پست به امتیاز نیاز دارید."
+
+#: templates/profile/points.php:75
+msgid "You have bought to add an answer by points."
+msgstr "شما برای پاسخ دادن امتیاز خریده اید."
+
+#: templates/profile/points.php:81
+msgid "You have bought to add posts by points."
+msgstr "شما برای افزودن پست امتیاز خریده اید."
+
+#: templates/profile/points.php:73
+msgid "You have bought to ask a question by points."
+msgstr "شما برای پرسیدن سوال امتیاز خریده اید."
+
+#: templates/profile/points.php:77
+#, fuzzy
+#| msgid "You have bought to ask question by points."
+msgid "You have bought to ask questions by points."
+msgstr "شما برای پرسیدن سوال باید امتیاز خریداری کنید."
+
+#: CPT/activities.php:307 wpqa.php:276
+msgid "You have bumped your question."
+msgstr "پاسخ شما نامعتبر است"
+
+#: CPT/activities.php:315
+msgid "You have canceled the best answer."
+msgstr "شما بهترین پاسخ را لغو کرده اید."
+
+#: templates/subscriptions.php:85
+msgid ""
+"You have canceled your subscription, your membership will be canceled on:"
+msgstr "شما اشتراکتان را لغو کرده اید ، عضویت شما لغو خواهد شد در :"
+
+#: CPT/activities.php:313
+msgid "You have chosen the best answer."
+msgstr "شما یک پاسخ را حذف کرده اید"
+
+#: CPT/activities.php:317
+msgid "You have closed the question."
+msgstr "شما این سوال را بسته اید."
+
+#: CPT/activities.php:385
+msgid "You have declined the group invite."
+msgstr "دعوت گروه رد شد."
+
+#: CPT/activities.php:355
+msgid "You have deleted a comment."
+msgstr "شما یک نظر را حذف کرده اید"
+
+#: CPT/activities.php:377
+msgid "You have deleted a group post."
+msgstr "پست حذف شد."
+
+#: CPT/activities.php:375
+msgid "You have deleted a group."
+msgstr "گروه حذف شد."
+
+#: CPT/activities.php:351
+msgid "You have deleted a post."
+msgstr "شما یک پست را حذف کرده اید"
+
+#: CPT/activities.php:349
+msgid "You have deleted a question."
+msgstr "شما یک سوال را حذف کرده اید"
+
+#: CPT/activities.php:353
+msgid "You have deleted an answer."
+msgstr "شما یک پاسخ را حذف کرده اید"
+
+#: CPT/activities.php:371
+msgid "You have deleted your inbox message"
+msgstr "شما پیام صندوق ورودی خود را حذف کرده اید"
+
+#: CPT/activities.php:373
+msgid "You have deleted your sent message"
+msgstr "پیام ارسالی شما حذف شده است"
+
+#: CPT/activities.php:299
+msgid "You have followed"
+msgstr "شما دنبال می شوید"
+
+#: CPT/activities.php:321
+msgid "You have followed the question."
+msgstr "شما این سوال را دنبال کرده اید."
+
+#: functions/subscriptions.php:205
+msgid "You have got a new free membership."
+msgstr "شما به صورت رایگان عضو شدید."
+
+#: templates/buy-points.php:27
+msgid "You have got a new free points."
+msgstr "شما امتیاز رایگان دریافت کردید."
+
+#: payments/answer.php:105
+msgid "You have just bought to add a answer by points."
+msgstr "شما با موجودی خود پاسخ داده اید."
+
+#: shortcodes/post.php:104
+msgid "You have just bought to add a post by points."
+msgstr "شما با موجودی خود پست گذاشته اید."
+
+#: shortcodes/post.php:102
+msgid "You have just bought to add posts by points."
+msgstr "شما با موجودی خود پست گذاشته اید."
+
+#: shortcodes/question.php:1512
+msgid "You have just bought to ask a question by points."
+msgstr "شما از موجودی امتیازات خود سوال پرسیده اید."
+
+#: shortcodes/question.php:1510
+#, fuzzy
+#| msgid "You have just bought to ask question by points."
+msgid "You have just bought to ask questions by points."
+msgstr "شما باید امتیاز بخرید تا بتوانید سوال بپرسید"
+
+#: templates/profile/withdrawals.php:61
+msgid "You have just requested your money."
+msgstr "شما پول خود را درخواست کرده اید."
+
+#: functions/questions.php:373
+msgid "You have just stickied the question by points."
+msgstr "شما به پرسش جواب دهید"
+
+#: CPT/activities.php:379
+msgid "You have liked a group post."
+msgstr "شما این پست را پسندیدید."
+
+#: templates/profile/withdrawals.php:85
+#, php-format
+msgid ""
+"You have not set any payment methods yet, Please %s click here %s to can "
+"request a new payment."
+msgstr ""
+"شما هنوز هیچ روش پرداختی تعیین نکرده اید ، لطفاً %s اینجا را کلیک کنید %s "
+"برای درخواست پرداخت جدید."
+
+#: CPT/activities.php:319
+msgid "You have opend the question."
+msgstr "شما یک سوال باز کرده اید"
+
+#: CPT/requests.php:92
+msgid "You have rejected this request"
+msgstr "درخواست شما رد شد."
+
+#: CPT/activities.php:327
+msgid "You have removed a question from favorites."
+msgstr "حذف کردن سوال شما از علاقه‌مندی‌ها"
+
+#: templates/profile/points.php:57
+msgid "You have removed your Facebook link."
+msgstr "لینک فیس بوک حذف شد."
+
+#: templates/profile/points.php:67
+msgid "You have removed your Instagram link."
+msgstr "لینک اینستاگرام حذف شد."
+
+#: templates/profile/points.php:65
+msgid "You have removed your Linkedin link."
+msgstr "لینک لینکدین حذف شد."
+
+#: templates/profile/points.php:69
+msgid "You have removed your Pinterest link."
+msgstr "لینک پینترست حذف شد."
+
+#: templates/profile/points.php:59
+msgid "You have removed your Twitter link."
+msgstr "لینک توییتر حذف شد."
+
+#: templates/profile/points.php:63
+msgid "You have removed your Vimeo link."
+msgstr "لینک ویمو حذف شد."
+
+#: templates/profile/points.php:61
+msgid "You have removed your Youtube link."
+msgstr "لینک یوتیوب حذف شد."
+
+#: CPT/activities.php:309
+msgid "You have reported a question."
+msgstr "شما یک سوال را گزارش کرده اید."
+
+#: CPT/activities.php:311
+msgid "You have reported an answer."
+msgstr "شما پاسخ را گزارش کرده اید."
+
+#: CPT/activities.php:357
+msgid "You have sent a message for"
+msgstr "شما یک پیام ارسال کردید برای"
+
+#: templates/profile/points.php:71
+msgid "You have stickied your question by points."
+msgstr "شما یک سوال را حذف کرده اید"
+
+#: functions/subscriptions.php:203 templates/profile/points.php:83
+msgid "You have subscribed to paid membership by points."
+msgstr "شما باید عضویت ویژه دریافت کنید."
+
+#: CPT/activities.php:303
+#, fuzzy
+#| msgid "You have added an answer."
+msgid "You have unbanned user"
+msgstr "شما پاسخ را اضافه کرده اید."
+
+#: CPT/activities.php:305
+msgid "You have unfollowed"
+msgstr "شما دیگر دنبال نمی شوید"
+
+#: CPT/activities.php:323
+msgid "You have unfollowed the question."
+msgstr "شما این سوال را دنبال نکرده اید."
+
+#: CPT/activities.php:381
+msgid "You have unliked a group post."
+msgstr "شما این پست را نپسندیدید."
+
+#: functions/functions.php:2640
+msgid "You just unlocked a new badge!"
+msgstr "شما فقط یک نشان جدید را قفل کرده اید!"
+
+#: functions/ajax-action.php:890 functions/ajax-action.php:892
+msgid "You must enter a numeric value and a value greater than zero."
+msgstr "شما باید یک مقدار عددی غیر صفر وارد کنید "
+
+#: widgets/profile_strength.php:130
+msgid "You must have a total score of 100 for your profile."
+msgstr "شما باید امتیاز 100 را دریافت کنید."
+
+#: shortcodes/category.php:33
+#, fuzzy
+#| msgid "You must login to add post."
+msgid "You must login to add category."
+msgstr "شما باید ابتدا برای ایجاد پست وارد شوید"
+
+#: shortcodes/group.php:482
+msgid "You must login to add group"
+msgstr "برای پیوستن به گروه باید ابتدا وارد شوید."
+
+#: shortcodes/group.php:338 shortcodes/group.php:341 shortcodes/group.php:487
+msgid "You must login to add group."
+msgstr "برای پیوستن به گروه باید ابتدا وارد شوید."
+
+#: shortcodes/post.php:50 shortcodes/post.php:55 shortcodes/post.php:437 
+#: shortcodes/post.php:440 shortcodes/post.php:443
+msgid "You must login to add post."
+msgstr "شما باید ابتدا برای ایجاد پست وارد شوید"
+
+#: shortcodes/question.php:1437
+msgid "You must login to ask question"
+msgstr "شما باید وارد شوید تا بتوانید سوال خود را مطرح کنید."
+
+#: shortcodes/question.php:1073 shortcodes/question.php:1076 
+#: shortcodes/question.php:1079 shortcodes/question.php:1442 
+#: shortcodes/question.php:1447
+msgid "You must login to ask question."
+msgstr "شما باید وارد شوید تا بتوانید سوال خود را مطرح کنید."
+
+#: shortcodes/posts.php:313
+msgid "You must login to edit group posts."
+msgstr "برای ویرایش پست های گروه نیاز به وارد شدن دارید."
+
+#: shortcodes/group.php:502
+msgid "You must login to edit group."
+msgstr "برای ویرایش گروه ابتدا باید وارد شوید."
+
+#: shortcodes/post.php:147
+msgid "You must login to edit post."
+msgstr "شما باید ابتدا برای ویرایش پست وارد شوید"
+
+#: shortcodes/question.php:1576
+msgid "You must login to edit question."
+msgstr "شما باید وارد شوید برای ویرایش سوال."
+
+#: CPT/messages.php:164 CPT/messages.php:333 CPT/messages.php:336
+msgid "You must login to send a message."
+msgstr "برای ارسال یک پیام باید وارد سیستم شوید."
+
+#: templates/subscriptions.php:96
+msgid "You need to contact the admin to cancel your subscription."
+msgstr "برای لغو اشتراک خود باید با مدیر تماس بگیرید."
+
+#: functions/comments.php:166 shortcodes/post.php:446 
+#: shortcodes/question.php:1082
+msgid "You need to pay first."
+msgstr "شما باید ابتدا پرداخت را انجام دهید."
+
+#: CPT/notifications.php:560
+msgid "You removed as a moderator in the group."
+msgstr "شما از گروه حذف شدید."
+
+#: functions/ajax-action.php:1020
+#, fuzzy
+#| msgid "Your reported will be reviewed shortly, The question is under review."
+msgid ""
+"You reported a question. It will be reviewed shortly, The question is under "
+"review."
+msgstr "منتظر تایید پرسش از سمت کارشناسان ما باشید."
+
+#: functions/ajax-action.php:1159
+#, fuzzy
+#| msgid "Your reported will be reviewed shortly, The answer is under review."
+msgid ""
+"You reported an answer. It will be reviewed shortly, The answer is under "
+"review."
+msgstr "منتظر تایید پرسش از سمت کارشناسان ما باشید."
+
+#: templates/profile/content.php:76
+msgid "You spent:"
+msgstr "زمان گذرانده شده:"
+
+#: shortcodes/question.php:1561
+#, fuzzy
+#, php-format
+#| msgid "Will lose %s points when add a new question."
+msgid "You will lose %s points when asking a new question."
+msgstr "هنگام افزودن یک سوال جدید ، %s امتیاز را از دست خواهد داد."
+
+#: templates/subscriptions.php:134
+msgid "You will not see any ads on the site."
+msgstr "هیچ تبلیغی در سایت مشاهده نخواهید کرد."
+
+#: functions/check-account.php:45
+msgid ""
+"Your account is under review, You will be notified via mail when it has been "
+"approved."
+msgstr ""
+"حساب کاربری شما در حال بازبینی می باشد بعد از تایید از طریق ایمیل به شما "
+"اطلاع رسانی می شود."
+
+#: shortcodes/profile.php:441
+msgid "Your Address"
+msgstr "آدرس شما"
+
+#: functions/points.php:56
+msgid "Your answer gets a vote."
+msgstr "پاسخ شما امتیاز دریافت کرد."
+
+#: functions/comments.php:292
+msgid "Your answer has been added successfully, It's under review."
+msgstr "پاسخ شما ثبت شد و منتظر تایید می باشد."
+
+#: functions/comments.php:289
+msgid "Your answer has been added successfully."
+msgstr "پاسخ شما ثبت شد."
+
+#: functions/functions.php:1626
+msgid "Your answer is awaiting moderation."
+msgstr "نظر شما در انتظار تایید است."
+
+#: CPT/activities.php:333
+#, fuzzy
+#| msgid "Your answere is pending for review."
+msgid "Your answer is pending for review."
+msgstr "پاسخ شما در دست بررسی است"
+
+#: CPT/notifications.php:539
+msgid "Your answer was deleted."
+msgstr "پاسخ شما حذف شد"
+
+#: templates/profile/points.php:127
+#, fuzzy
+#| msgid "Your comment was removed."
+msgid "Your answer was removed."
+msgstr "نظر شما حذف شد."
+
+#: functions/comments.php:1061
+#, fuzzy
+#| msgid "Your answer was successfully added, It's under review."
+msgid "Your answer was successfully edited, It's under review."
+msgstr "پاسخ شما با موفقیت اضافه شد ،وا تحت بررسی است."
+
+#: templates/checkout.php:221
+msgid "Your cart is empty."
+msgstr "سبد خرید شما خالیست."
+
+#: CPT/activities.php:347
+#, fuzzy
+#| msgid "Your answere is pending for review."
+msgid "Your category is pending for review."
+msgstr "پاسخ شما در دست بررسی است"
+
+#: shortcodes/category.php:61
+#, fuzzy
+#| msgid "Your category was sent to review."
+msgid "Your category was sent for a review."
+msgstr "پاسخ شما در دست بررسی است"
+
+#: functions/functions.php:1628
+msgid "Your comment is awaiting moderation."
+msgstr "نظر شما در انتظار تایید است."
+
+#: CPT/activities.php:335
+msgid "Your comment is pending for review."
+msgstr "نظر شما در دست بررسی است"
+
+#: CPT/notifications.php:541
+msgid "Your comment was deleted."
+msgstr "کامنت شما حذف شد"
+
+#: functions/check-account.php:88
+#, fuzzy
+#, php-format
+#| msgid ""
+#| "Your confirmation link has expired or not valid, Please request a new link, "
+#| "kindly <a href='%s'>Click here</a> to re-send another confirmation email."
+msgid ""
+"Your confirmation link has expired or not valid, Please request a new link, "
+"kindly %1$s Click here %2$s to re-send another confirmation mail."
+msgstr ""
+"لینک تایید شما نامعتبر است یا منقضی شده است. لطفا یک درخواست جدید بفرستید  "
+"<a href='%s'>اینجا کلیک کنید</a>برای دریافت لینک جدید از این دکمه استفاده "
+"کنید."
+
+#: shortcodes/group.php:291
+msgid "Your group has been added successfully."
+msgstr "گروه شما با موفقیت اضافه شد."
+
+#: shortcodes/group.php:547
+msgid "Your group has been Edited successfully. The group is under review."
+msgstr "گروه شما با موفقیت ویرایش شد و نیازمند بازبینی است."
+
+#: CPT/activities.php:391
+msgid "Your group is pending for review."
+msgstr "گروه شما منتظر تایید و بازبینی است."
+
+#: shortcodes/posts.php:151
+msgid "Your group post has been added successfully."
+msgstr "پست گروهی شما با موفقیت ثبت شد."
+
+#: CPT/activities.php:393
+msgid "Your group post is pending for review."
+msgstr "پست گروهی شما در انتظار بازبینی است."
+
+#: shortcodes/posts.php:145
+msgid "Your group post was successfully added, It's under review."
+msgstr "پست گروهی شما با موفقیت ثبت شد و در انتظار بازبینی است."
+
+#: shortcodes/posts.php:362
+msgid ""
+"Your group posts has been Edited successfully. The group posts is under "
+"review."
+msgstr "پست گروهی شما با موفقیت ویرایش شد و در دست بازبینی می باشد."
+
+#: shortcodes/group.php:284
+#, fuzzy
+#| msgid "Your answer was successfully added, It's under review."
+msgid "Your group was successfully added, It's under review."
+msgstr "پاسخ شما با موفقیت اضافه شد ،وا تحت بررسی است."
+
+#: functions/check-account.php:79
+msgid ""
+"Your membership was activated, But it need a review first, You will be "
+"notified via mail when it has been approved."
+msgstr ""
+"حساب کاربری شما فعال شد اما شما نیاز به بازبینی دارید بعد از تایید نهایی به "
+"صورت ایمیل به شما اطلاع رسانی می شود."
+
+#: functions/check-account.php:82
+#, fuzzy
+#| msgid "Your membership is now activated."
+msgid "Your membership was activated."
+msgstr "عضویت شما هم اکنون فعال شده است."
+
+#: templates/subscriptions.php:44
+msgid "Your membership will end on:"
+msgstr "عضویت شما پایان می یابد:"
+
+#: CPT/messages.php:286
+#, fuzzy
+#| msgid "Has been sent successfully, The message is under review."
+msgid "Your message has been sent successfully, The message is under review."
+msgstr "با موفقیت افزوده شده است .نوشته تحت بازبینی"
+
+#: CPT/activities.php:343
+msgid "Your message is pending for review."
+msgstr "پیام شما در دست بررسی است"
+
+#: shortcodes/password.php:194
+#, fuzzy
+#| msgid ""
+#| "Your password reset link has expired or not valid, Please request a new link"
+msgid ""
+"Your password reset link has expired or not valid. Please request a new link"
+msgstr "لینک ریست پسورد شما منقضی شده است. لطفا یک درخواست جدید بدهید"
+
+#: templates/profile/points.php:125
+#, fuzzy
+#| msgid "Your point removed because the best answer removed."
+msgid "Your point has been removed because the Best answer was removed."
+msgstr "امتیاز  شما حذف شد چون بهترین پاسخ حذف شده است."
+
+#: CPT/notifications.php:476
+#, fuzzy
+#| msgid "Your point back because the best answer was selected."
+msgid "Your points are back because the \"Best answer\" was selected."
+msgstr "امتیاز شما برگشته است چرا که بهترین پاسخ انتخاب شده است."
+
+#: functions/ajax-action.php:910
+msgid "Your points are insufficient."
+msgstr "امتیاز های شما کافی نمی باشد."
+
+#: templates/profile/points.php:123
+msgid "Your points have been added because the Best answer was selected."
+msgstr "امتیاز شما حذف شد چون بهترین پاسخ حذف شده است."
+
+#: CPT/notifications.php:480
+#, fuzzy
+#| msgid "Your point removed because the best answer was removed."
+msgid "Your points removed because the \"Best answer\" was removed."
+msgstr "امتیاز شما حذف شد چون بهترین پاسخ حذف شده است."
+
+#: CPT/activities.php:345
+msgid "Your post is pending for review."
+msgstr "پست شما در دست بررسی است"
+
+#: CPT/notifications.php:535
+msgid "Your post was deleted."
+msgstr "پست شما حذف شد"
+
+#: shortcodes/post.php:218 shortcodes/post.php:648
+msgid "Your post was successfully added, It's under review."
+msgstr "پست ارسال شده شما با موفقیت اضافه شد ، آن  تحت بررسی است."
+
+#: functions/points.php:52
+msgid "Your question gets a vote."
+msgstr "سوال شما یک نظر دریافت کرد."
+
+#: shortcodes/question.php:1006 shortcodes/question.php:1626
+#, fuzzy
+#| msgid "Has been Edited successfully, The question is under review."
+msgid ""
+"Your question has been Edited successfully. The question is under review."
+msgstr "با موفقیت ویرایش شده است ، این سوال در حال بررسی است."
+
+#: CPT/activities.php:341
+msgid "Your question is pending for review."
+msgstr "پرسش شما در دست بررسی است"
+
+#: CPT/notifications.php:532
+msgid "Your question was deleted."
+msgstr "پرسش شما حذف شد"
+
+#: shortcodes/question.php:933 shortcodes/question.php:975
+msgid "Your question was successfully added, It's under review."
+msgstr "سوال شما با موفقیت اضافه شد ، آن  تحت بررسی است."
+
+#: payments/payments.php:64
+#, php-format
+msgid "Your transaction id %s."
+msgstr "شناسه ی ترجمه ی شما %s است."
+
+#: shortcodes/profile.php:211 shortcodes/profile.php:1211
+msgid "Youtube"
+msgstr "یوتیوب"
+
+#: functions/filters.php:343
+msgid "Zambia"
+msgstr "زامبیا"
+
+#: functions/filters.php:344
+msgid "Zimbabwe"
+msgstr "زیمبابوه"
+
+#: payments/form.php:500
+msgid "ZIP"
+msgstr "کد پستی"
