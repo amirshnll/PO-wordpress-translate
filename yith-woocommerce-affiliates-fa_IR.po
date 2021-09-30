@@ -1,0 +1,2251 @@
+# Copyright (C) 2021 YITH
+# This file is distributed under the same license as the YITH WooCommerce Affiliates package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Affiliates\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/yith-woocommerce-"
+"affiliates\n"
+"POT-Creation-Date: 2021-09-27 12:10:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-09-30 19:12+0000\n"
+"Last-Translator: علی شکری\n"
+"Language-Team: فارسی\n"
+"Language: fa-IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+"X-Poedit-SearchPathExcluded-1: plugin-upgrade\n"
+"X-Poedit-SearchPathExcluded-2: node_modules\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.3"
+
+#: init.php:143
+msgid " while you are using the premium one."
+msgstr "در حالی که از نسخه پرمیوم استفاده می کنید."
+
+#: includes/class.yith-wcaf-commission-handler.php:812
+msgid "%1$s restored this item; system automatically assigned %2$s status"
+msgstr ""
+"%1$s این مورد بازیابی شد؛ سیستم به صورت اتوماتیک وضعیت %2$s را بررسی کرد."
+
+#: templates/admin/premium-tab.php:488
+msgid ""
+"%1$sSelect the order and associate it with one of your store affiliates.%2$s "
+"%3$sNow you can do this by simply accessing your admin panel."
+msgstr ""
+"%1$s سفارش خود را انتخاب کنید و آن را به یکی از بازاریابان متصل کنید. %2$s "
+"%3$s حالا شما می توانید به سادگی به پنل مدیر دسترسی داشته باشید"
+
+#: templates/shortcodes/dashboard-settings.php:63
+msgid ""
+"(Email address where you want to receive PayPal payments for commissions)"
+msgstr "آدرس ایمیل برای زمانی که شما می خواهید کمیسیون خود را از پی پال بگیرید"
+
+#: templates/shortcodes/dashboard-settings.php:45
+msgid "(First name for your account)"
+msgstr "نام برای نام اکانت شما"
+
+#: templates/shortcodes/dashboard-settings.php:53
+msgid "(Last name for your account)"
+msgstr "نام خانوادگی برای نام اکانت شما"
+
+#: templates/shortcodes/link-generator.php:50 
+#: templates/shortcodes/link-generator.php:74
+msgid "(Now"
+msgstr "حالا"
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH WooCommerce Affiliates</strong></code> allows your users "
+"to become affiliates on your site earning commissions on every sale "
+"generated through their exclusive affiliation links. Create a sales network "
+"at no cost and increase your incomes just like big stores. <a href=\"https:"
+"//yithemes.com/\" target=\"_blank\">Get more plugins for your e-commerce on "
+"<strong>YITH</strong></a>"
+msgstr ""
+"YITH WooCommerce Affiliates به کاربران شما اجازه می دهد تا در هر فروش که از "
+"طریق لینک های انحصاری بازاریابی بدست می آید. یک شبکه فروش بدون هزینه ایجاد "
+"کنید و درآمد خود را درست مانند فروشگاه های بزرگ افزایش دهید."
+
+#: includes/class.yith-wcaf-shortcode.php:114
+msgctxt "[gutenberg]: attribute description"
+msgid "Show Additional fields"
+msgstr "نمایش فیلدهای اضافی"
+
+#: includes/class.yith-wcaf-shortcode.php:96
+msgctxt "[gutenberg]: attribute description"
+msgid "Show First name field"
+msgstr "نمایش فیلد نام"
+
+#: includes/class.yith-wcaf-shortcode.php:105
+msgctxt "[gutenberg]: attribute description"
+msgid "Show Last name field"
+msgstr "نمایش فیلد نام خانوادگی"
+
+#: includes/class.yith-wcaf-shortcode.php:87
+msgctxt "[gutenberg]: attribute description"
+msgid "Show Login form"
+msgstr "نمایش فرم ورود"
+
+#: includes/class.yith-wcaf-shortcode.php:132 
+#: includes/class.yith-wcaf-shortcode.php:150
+msgctxt "[gutenberg]: attribute description"
+msgid "Show navigation menu"
+msgstr "نمایش منوی راهبری"
+
+#: includes/class.yith-wcaf-shortcode.php:127
+msgctxt "[gutenberg]: block description"
+msgid "Show affiliate dashboard to your affiliates"
+msgstr "نمایش داشبورد بازاریابی برای بازاریابان"
+
+#: includes/class.yith-wcaf-shortcode.php:145
+msgctxt "[gutenberg]: block description"
+msgid "Show referral link generation form for your affiliates"
+msgstr "نمایش سازنده ی لینک ارجاع  برای بازاریابان"
+
+#: includes/class.yith-wcaf-shortcode.php:82
+msgctxt "[gutenberg]: block description"
+msgid "Show registration form for your affiliates"
+msgstr "نمایش فرم ثبت نام بازاریابی برای بازاریابان"
+
+#: includes/class.yith-wcaf-shortcode.php:126
+msgctxt "[gutenberg]: block name"
+msgid "YITH Affiliates Dasbharod"
+msgstr "داشبورد بازاریابی"
+
+#: includes/class.yith-wcaf-shortcode.php:144
+msgctxt "[gutenberg]: block name"
+msgid "YITH Affiliates Link Generator"
+msgstr "سازنده ی لینک بازاریاب YITH"
+
+#: includes/class.yith-wcaf-shortcode.php:81
+msgctxt "[gutenberg]: block name"
+msgid "YITH Affiliates Registration Form"
+msgstr "فرم ثبت نام بازاریاب YITH"
+
+#: includes/class.yith-wcaf-shortcode.php:117
+msgctxt "[gutenberg]: Help text"
+msgid "Hide additional fields"
+msgstr "پنهان کردن فیلدهای اضافی"
+
+#: includes/class.yith-wcaf-shortcode.php:108
+msgctxt "[gutenberg]: Help text"
+msgid "Hide last name field"
+msgstr "پنهان کردن فیلد نام"
+
+#: includes/class.yith-wcaf-shortcode.php:118
+msgctxt "[gutenberg]: Help text"
+msgid "Show additional field"
+msgstr "نمایش فیلدهای اضافی"
+
+#: includes/class.yith-wcaf-shortcode.php:109
+msgctxt "[gutenberg]: Help text"
+msgid "Show last name field"
+msgstr "نمایش کردن فیلد نام خانوادگی"
+
+#: includes/class.yith-wcaf-shortcode.php:99
+msgctxt "[gutenberg]: inspector description"
+msgid "Hide first name field"
+msgstr "پنهان کردن فیلد نام"
+
+#: includes/class.yith-wcaf-shortcode.php:89
+msgctxt "[gutenberg]: inspector description"
+msgid "Hide login form"
+msgstr "پنهان کردن فرم ورود"
+
+#: includes/class.yith-wcaf-shortcode.php:134 
+#: includes/class.yith-wcaf-shortcode.php:152
+msgctxt "[gutenberg]: inspector description"
+msgid "Hide menu"
+msgstr "پنهان کردن منو"
+
+#: includes/class.yith-wcaf-shortcode.php:100
+msgctxt "[gutenberg]: inspector description"
+msgid "Show first name field"
+msgstr "نمایش فیلد نام"
+
+#: includes/class.yith-wcaf-shortcode.php:90
+msgctxt "[gutenberg]: inspector description"
+msgid "Show login form"
+msgstr "نمایش فرم ورود"
+
+#: includes/class.yith-wcaf-shortcode.php:135 
+#: includes/class.yith-wcaf-shortcode.php:153
+msgctxt "[gutenberg]: inspector description"
+msgid "Show menu"
+msgstr "نمایش فهرست"
+
+#: templates/admin/premium-tab.php:357
+msgid ""
+"A special way to encourage affiliates to take more and more customers to "
+"your site. After the first purchase from your affiliate link, all following "
+"orders will generate a %1$scommission%2$s earning for the associated "
+"affiliate."
+msgstr ""
+"برای تشویق بیشتر بازاریاب ها بعد از خرید اول کمیسیون بدست آمده را پرداخت کنید"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:135 
+#: includes/class.yith-wcaf-affiliate-handler.php:1994
+msgid "Accepted"
+msgstr "پذیرفته شده"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:617
+msgid "Accepted and Enabled"
+msgstr "پذیرفته شده و فعال شده"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:1739 
+#: includes/class.yith-wcaf-commission-handler.php:1966
+msgid "Action"
+msgstr "عملیات"
+
+#: templates/admin/premium-tab.php:485
+msgid "Add and remove affiliates from an order"
+msgstr "اضافه و حذف بازاریاب از سفارش"
+
+#: templates/admin/rate-panel.php:44 templates/admin/rate-panel.php:69
+msgid "Add Commission"
+msgstr "کمیسیون اضافه کنید"
+
+#: templates/admin/affiliate-panel.php:40
+msgid "Add Existing"
+msgstr "یک موجودیت اضافه کنید"
+
+#: templates/admin/affiliate-panel.php:30
+msgid "Add new affiliate"
+msgstr "افزودن بازاریاب جدید"
+
+#: templates/admin/rate-panel.php:56
+msgid "Add new product commission"
+msgstr "ثبت کمیسیون محصول جدید"
+
+#: templates/admin/rate-panel.php:30
+msgid "Add new user commission"
+msgstr "ثبت کمیسیون کاربر جدید"
+
+#: includes/class.yith-wcaf-commission-handler.php:986 
+#: includes/class.yith-wcaf-payment-handler.php:299
+msgid "added on %1$s at %2$s"
+msgstr "اضافه شده در %1$s از %2$s"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:2043
+msgid "Address email where affiliate wants to receive PayPal payments"
+msgstr "آدرس ایمیل بازاریاب زمانی که می خواهید با پی پال دریافت کنید"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:299 
+#: includes/class.yith-wcaf-affiliate-handler.php:1730 
+#: includes/class.yith-wcaf-affiliate-handler.php:1983 
+#: includes/class.yith-wcaf-payment-handler.php:1083 
+#: includes/class.yith-wcaf.php:498
+msgid "Affiliate"
+msgstr "بازاریابی"
+
+#: includes/admin-tables/class.yith-wcaf-payments-table.php:233
+msgid "Affiliate "
+msgstr "بازاریابی"
+
+#: includes/class.yith-wcaf-privacy.php:123 
+#: includes/class.yith-wcaf-privacy.php:165
+msgid "Affiliate Clicks"
+msgstr "کلیک های بازاریابی"
+
+#: includes/class.yith-wcaf-privacy.php:107 
+#: includes/class.yith-wcaf-privacy.php:149 
+#: includes/class.yith-wcaf-privacy.php:279
+msgid "Affiliate Commissions"
+msgstr "کمیسیون بازاریابی"
+
+#: includes/class.yith-wcaf.php:435
+msgid "Affiliate Dashboard"
+msgstr "داشبورد بازاریابی"
+
+#: plugin-options/settings-options.php:113
+msgid "Affiliate dashboard page"
+msgstr "صفحه داشبورد بازاریابی"
+
+#: includes/class.yith-wcaf-privacy.php:100 
+#: includes/class.yith-wcaf-privacy.php:142 
+#: includes/class.yith-wcaf-privacy.php:235
+msgid "Affiliate Data"
+msgstr "داده های بازاریابی"
+
+#: plugin-options/settings-options.php:226
+msgid "Affiliate dedicated registration form"
+msgstr "فرم ثبت نام اختصاصی"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:1980
+msgid "Affiliate details"
+msgstr "جزئیات بازاریابی"
+
+#: templates/admin/premium-tab.php:370
+msgid "Affiliate history"
+msgstr "تاریخچه بازاریابی"
+
+#: includes/class.yith-wcaf-privacy.php:375
+msgid "Affiliate Hits"
+msgstr "بازدیدهای موفق"
+
+#: templates/shortcodes/link-generator.php:61
+msgid "Affiliate login"
+msgstr "ورودهای بازاریابی"
+
+#: plugin-options/settings-options.php:107
+msgid "Affiliate pages"
+msgstr "صفحه بازاریابی"
+
+#: includes/class.yith-wcaf-privacy.php:115 
+#: includes/class.yith-wcaf-privacy.php:157 
+#: includes/class.yith-wcaf-privacy.php:327
+msgid "Affiliate Payments"
+msgstr "پرداخت های بازاریابی"
+
+#: templates/shortcodes/dashboard-summary.php:50
+msgid "Affiliate rate"
+msgstr "رتبه ی بازاریابی"
+
+#: includes/class.yith-wcaf-admin.php:75 
+#: includes/class.yith-wcaf-admin.php:136 
+#: includes/class.yith-wcaf-admin.php:137 
+#: includes/class.yith-wcaf-affiliate-handler.php:1692 
+#: templates/admin/affiliate-panel.php:47
+msgid "Affiliates"
+msgstr "بازاریاب ها"
+
+#: templates/admin/premium-tab.php:504
+msgid ""
+"Affiliates can now request a withdrawal of their commissions. Affiliates "
+"will be able to request withdrawals, upload invoices for their withdrawals "
+"and generate new invoices for their withdrawal requests. By simply enabling "
+"the option in the backend, a new menu label will appear in the affilates "
+"dasboard."
+msgstr ""
+"بازاریابان می توانند درخواست دریافت کمیسیون های خود را بدهند. بازاریاب ها "
+"امکان ثبت درخواست دریافت وجه را دارد."
+
+#: includes/class.yith-wcaf-privacy.php:62
+msgid ""
+"Affiliate’s name, username, email address: we’ll use this information to "
+"register and keep track of affiliates."
+msgstr ""
+"نام بازاریاب، نام کاربری، ادرس ایمیل: ما اطلاعات را برای ثبت و نگهداری "
+"بازاریابان استفاده می کنیم"
+
+#: includes/class.yith-wcaf-privacy.php:69
+msgid "Affiliate’s personal details;"
+msgstr "اطلاعات شخصی بازاریاب ها"
+
+#: templates/admin/premium-tab.php:453
+msgid "Affiliation code"
+msgstr "کد بازاریابی"
+
+#: includes/class.yith-wcaf.php:156
+msgctxt "alert message"
+msgid "URL copied"
+msgstr "آدرس کپی شد"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:361 
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:448
+msgid "All"
+msgstr "همه"
+
+#: templates/admin/premium-tab.php:290
+msgid ""
+"All professionalism and advantages that PayPal puts at your disposal to "
+"offer you the best solution for %1$spayments%2$s of commissions owed to your "
+"affiliate users.%3$sPayPal is one of the most common payment methods in the "
+"market and a system able to offer you higher guarantees, you cannot do "
+"without it!"
+msgstr ""
+"مزایایی که پی پال در اختیار شما قرار می دهد باعث می شود تا بهترین راه حل را "
+"برای بازپرداخت و کمیسیون به کاربران بازاریاب خود ارائه دهید."
+
+#: includes/admin-tables/class.yith-wcaf-payments-table.php:235 
+#: includes/class.yith-wcaf-commission-handler.php:1963 
+#: includes/class.yith-wcaf-payment-handler.php:1085 
+#: includes/class.yith-wcaf-privacy.php:681 
+#: includes/class.yith-wcaf-privacy.php:737 
+#: templates/admin/referral-commissions-metabox.php:44 
+#: templates/shortcodes/dashboard-commissions.php:80 
+#: templates/shortcodes/dashboard-payments.php:65 
+#: templates/shortcodes/dashboard-summary.php:116
+msgid "Amount"
+msgstr "مقدار"
+
+#: templates/admin/premium-tab.php:424
+msgid ""
+"An entire section devoted to statistics about commissions and conversions "
+"generated for each visit. A global area with all data collected from general "
+"actions from users and another more detailed one, that allows you to read "
+"details of each single product and verify the number of %1$svisits%2$s "
+"generated, earnings coming from %1$saffiliation%2$s operations and "
+"conversion percentage."
+msgstr ""
+"یک بخش کامل به آمار مربوط به کمیسیون ها و تبدیل های ایجاد شده برای هر بازدید "
+"اختصاص داده شده است. یک قسمت یکجا با تمام داده های جمع آوری شده از اقدامات "
+"کلی کاربران و جزئیات بیشتر ، که به شما امکان می دهد جزئیات هر محصول را "
+"بخوانید."
+
+#. translators: 1. payments that issued error.
+#: includes/class.yith-wcaf-admin.php:288
+msgid "An error occurred during payment processing: %s"
+msgstr "خطایی در زمان پردازش پرداخت رخ داده است: %s"
+
+#: includes/class.yith-wcaf-admin.php:280
+msgid "An error occurred while deleting item"
+msgstr "هنگام حذف خطایی روی داده است"
+
+#: includes/class.yith-wcaf-admin.php:312
+msgid "An error occurred while processing orphan commissions"
+msgstr "هنگام پردازش کمیسیون خطایی روی داد"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:411
+msgid "An error occurred while trying to create the affiliate; try later."
+msgstr "هنگاه ساخت بازاریاب خطایی رخ داده است لطفا بعدا تلاش کنید"
+
+#: includes/class.yith-wcaf-admin.php:272
+msgid "An error occurred with status changing"
+msgstr "خطایی در هنگام تغییر وضعیت رخ داده است"
+
+#: includes/class.yith-wcaf-privacy.php:445
+msgid "Anonymized affiliate %s."
+msgstr "بازاریاب ناشناس %s"
+
+#. Translators: %s Order number.
+#: includes/class.yith-wcaf-privacy.php:507
+msgid "Anonymized commission %s."
+msgstr "کمیسیون ناشناس %s"
+
+#. Translators: %s Order number.
+#: includes/class.yith-wcaf-privacy.php:649
+msgid "Anonymized hit %s."
+msgstr "موفقیت ناشناس %s"
+
+#. Translators: %s Order number.
+#: includes/class.yith-wcaf-privacy.php:578
+msgid "Anonymized payment %s."
+msgstr "پرداخت ناشناس %s"
+
+#: templates/shortcodes/registration-form.php:148
+msgid "Anti-spam"
+msgstr "ضد اسپم"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:298
+msgid "Approved"
+msgstr "تایید شده"
+
+#: includes/class.yith-wcaf-admin.php:201
+msgid "Are you sure you want to delete this template file?"
+msgstr "آیا مطمئن هستید فایل قالب را حذف کنید؟"
+
+#: templates/admin/premium-tab.php:373
+msgid ""
+"As easy as useful for those like you who need to track all moves on your "
+"site.All orders linked to affiliates show an %1$s\"affiliation history\"%2$s,"
+" a comprehensive chronological list with all affiliates who have contributed "
+"to generate visits from that user in your site."
+msgstr ""
+"به همان سادگی برای کسانی مانند شما که نیاز به ردیابی همه حرکت ها در سایت خود "
+"دارند ، مفید است. همه سفارشات مرتبط با بازاریاب ها در نهایت یک فهرست جامع "
+"گاه شماری با همه بازرایاب هایی که در ایجاد آن مشارکت داشته اند ایجاد می شود."
+
+#: plugin-options/settings-options.php:277
+msgid "Associate old commissions"
+msgstr "با کمیسیون های قدیمی همکاری کنید"
+
+#: templates/admin/premium-tab.php:384
+msgid "Automatic approval"
+msgstr "تایید خودکار"
+
+#: templates/admin/premium-tab.php:389
+msgid "Automatic approval of new affiliates"
+msgstr "تایید خودکار بازاریاب های جدید"
+
+#: templates/admin/premium-tab.php:300 templates/admin/premium-tab.php:310
+msgid "Automatic payment"
+msgstr "پرداخت خودکار"
+
+#: templates/admin/stat-panel-general.php:75
+msgid "Average conversion rate"
+msgstr "میانگین نرخ تبدیل"
+
+#: templates/admin/stat-panel-general.php:77
+msgid "Average percent conversion rate"
+msgstr "درصد میانگین نرخ تبدیل"
+
+#: plugin-options/settings-options.php:316
+msgid "Avoid auto commission"
+msgstr "اجتناب از کمسیون خودکار"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:303 
+#: includes/class.yith-wcaf-affiliate-handler.php:1735 
+#: templates/shortcodes/dashboard-summary.php:70
+msgid "Balance"
+msgstr "بالانس"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:380
+msgid "Ban Affiliate"
+msgstr "بازاریاب مسدود شده"
+
+#: includes/class.yith-wcaf-admin.php:196 
+#: includes/class.yith-wcaf-affiliate-handler.php:2017
+msgid "Ban Message"
+msgstr "ممنوع کردن پیام"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:121 
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:365 
+#: includes/class.yith-wcaf-affiliate-handler.php:2010
+msgid "Banned"
+msgstr "بن شده"
+
+#: templates/shortcodes/registration-form.php:176
+msgid "Become an affiliate"
+msgstr "می خواهم بازاریاب شوم"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:130
+msgid "Billing:"
+msgstr "صورتحساب:"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:468 
+#: includes/class.yith-wcaf-commission-handler.php:210 
+#: includes/class.yith-wcaf-payment-handler.php:58
+msgid "Cancelled"
+msgstr "لغو شده"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:378 
+#: includes/class.yith-wcaf-commission-handler.php:1958
+msgid "Category"
+msgstr "دسته بندی"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:378
+msgid "Change status to Active"
+msgstr "تغییر وضعیت به فعال"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:493 
+#: includes/admin-tables/class.yith-wcaf-payments-table.php:282
+msgid "Change status to cancelled"
+msgstr "تغییر وضعیت به لغو شده"
+
+#: includes/admin-tables/class.yith-wcaf-payments-table.php:280
+msgid "Change status to completed"
+msgstr "تغییر وضعیت به تکمیل شده"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:492
+msgid "Change status to not confirmed"
+msgstr "تغییر وضعیت به تایید نشده"
+
+#: includes/admin-tables/class.yith-wcaf-payments-table.php:281
+msgid "Change status to on hold"
+msgstr "تغییر وضعیت به حالت انتظار"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:491
+msgid "Change status to pending"
+msgstr "تغییر وضعیت به  در حالت تایید"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:494
+msgid "Change status to refunded"
+msgstr "تغییر وضعیت به بازپرداخت"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:379
+msgid "Change status to Rejected"
+msgstr "تغییر وضعیت به  لغو شده"
+
+#: includes/class.yith-wcaf-shortcode.php:1044
+msgid "Changes correctly saved!"
+msgstr "ذخیره تغییرات فعلی"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:1986
+msgid "Check if this user is an affiliate"
+msgstr "بررسی کنید آیا این کاربر بازاریاب است یا خیر"
+
+#: plugin-options/settings-options.php:93
+msgid ""
+"Check this option if you want to execute an ajax call to set up affiliate "
+"cookies, whenever system finds referral query string in the url"
+msgstr ""
+"اگر می خواهید ajax را برای راه اندازی کوکی های وابسته اجرا کنید ، هر زمان که "
+"سیستم در آدرس درخواست جستجو را پیدا کرد، این گزینه را علامت بزنید"
+
+#: plugin-options/settings-options.php:67
+msgid "Check this option if you want to make referral cookie expire"
+msgstr ""
+"این گزینه را تایید کنید اگر می خواهید برای کوکی ها تاریخ انقضا تعریف کنید"
+
+#: templates/admin/premium-tab.php:306
+msgid ""
+"Choose either to pay your affiliates each time a %1$snew commission%2$s is "
+"due to them, or to pay the balance on one %1$sspecific day%2$s of the month "
+"or to send the amount owed only when a specific commission amount "
+"%1$sthreshold%2$s is reached."
+msgstr "انتخاب کنید که هر بار در چه بازه هایی به کاربران خود کمیسیون بدهید."
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:304 
+#: includes/class.yith-wcaf-affiliate-handler.php:1736
+msgid "Click"
+msgstr "کلیک"
+
+#: templates/admin/premium-tab.php:402 templates/admin/premium-tab.php:409
+msgid "Click duration"
+msgstr "مدت زمان کلیک"
+
+#: templates/admin/premium-tab.php:317
+msgid "Click Info"
+msgstr "اطلاعات کلیک"
+
+#: templates/admin/premium-tab.php:322
+msgid "Click info"
+msgstr "اطلاعات کلیک"
+
+#: includes/admin-tables/class.yith-wcaf-product-stat-table.php:211 
+#: includes/class.yith-wcaf.php:457 templates/admin/click-panel.php:43
+msgid "Clicks"
+msgstr "کلیک ها"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:381
+msgid "Commission"
+msgstr "کمیسیون"
+
+#. Translators: %s Order number.
+#: includes/class.yith-wcaf-privacy.php:511
+msgid "Commission %s has been retained."
+msgstr "کمیسیون %s باقی مانده است"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:355
+msgid "Commission assigned to affiliate #%d (previously was assigned to #%d)"
+msgstr "کمیسیون برای بازاریال #%d ثبت شد."
+
+#: templates/admin/premium-tab.php:335 templates/admin/premium-tab.php:342
+msgid "Commission rate"
+msgstr "درصد کمیسیون"
+
+#: includes/admin-tables/class.yith-wcaf-product-stat-table.php:209 
+#: includes/class.yith-wcaf-admin.php:74 
+#: includes/class.yith-wcaf-commission-handler.php:1918 
+#: includes/class.yith-wcaf.php:454 plugin-options/settings-options.php:294 
+#: templates/admin/commission-panel-table.php:29 
+#: templates/admin/referral-commissions-metabox.php:70
+msgid "Commissions"
+msgstr "کمیسیون ها"
+
+#. translators: 1. commissions that were just paid.
+#: includes/class.yith-wcaf-admin.php:295
+msgid "Commissions %s correctly paid"
+msgstr "کمیسیون  %s به درستی پرداخت شده است"
+
+#. translators: 1. commissions that issued error.
+#: includes/class.yith-wcaf-admin.php:302
+msgid "Commissions %s could not be paid"
+msgstr "کمیسیون %s امکان پرداخت ندارد"
+
+#: includes/class.yith-wcaf-privacy.php:197
+msgid "Commissions earned"
+msgstr "کمیسیون بدست آمده"
+
+#: includes/class.yith-wcaf-payment-handler.php:57
+msgid "Completed"
+msgstr "تکمیل شده"
+
+#: includes/class.yith-wcaf-payment-handler.php:1087 
+#: templates/shortcodes/dashboard-payments.php:71
+msgid "Completed at"
+msgstr "تکمیل شده در"
+
+#: includes/class.yith-wcaf-privacy.php:736
+msgid "Completed on"
+msgstr "تکمیل شده در"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:1738
+msgid "Conv. Rate"
+msgstr "نرخ تبدیل"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:306
+msgid "Conv. rate"
+msgstr "نرخ تبدیل"
+
+#: includes/admin-tables/class.yith-wcaf-product-stat-table.php:213
+msgid "Conv. time"
+msgstr "تبدیل زمانی"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:305 
+#: includes/class.yith-wcaf-affiliate-handler.php:1737
+msgid "Conversion"
+msgstr "تبدیل"
+
+#: templates/shortcodes/dashboard-summary.php:80
+msgid "Conversion rate"
+msgstr "نرخ تبدیل"
+
+#: includes/admin-tables/class.yith-wcaf-product-stat-table.php:212
+msgid "Conversions"
+msgstr "تبدیل ها"
+
+#: templates/shortcodes/dashboard-clicks.php:80 
+#: templates/shortcodes/dashboard-summary.php:160
+msgid "Converted"
+msgstr "تبدیل شده"
+
+#: includes/class.yith-wcaf-privacy.php:804
+msgid "Converted on"
+msgstr "تبدیل شده در"
+
+#: plugin-options/settings-options.php:47
+msgid "Cookie"
+msgstr "کوکی"
+
+#: templates/shortcodes/link-generator.php:50 
+#: templates/shortcodes/link-generator.php:74
+msgid "copy"
+msgstr "کپی"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:490
+msgid "Create a payment manually"
+msgstr "پرداختی را به صورت دستی ایجاد کنید"
+
+#: templates/admin/affiliate-panel.php:42
+msgid "Create New"
+msgstr "ایجاد جدید"
+
+#: includes/admin-tables/class.yith-wcaf-payments-table.php:236 
+#: includes/class.yith-wcaf-payment-handler.php:1086 
+#: templates/shortcodes/dashboard-payments.php:68
+msgid "Created at"
+msgstr "ایجاد شده در"
+
+#: includes/class.yith-wcaf-privacy.php:680 
+#: includes/class.yith-wcaf-privacy.php:735
+msgid "Created on"
+msgstr "ایجاد شده در"
+
+#: includes/functions.yith-wcaf.php:254
+msgid "Dashboard"
+msgstr "داشبورد"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:383 
+#: includes/class.yith-wcaf-commission-handler.php:1965 
+#: includes/class.yith-wcaf-privacy.php:803 
+#: templates/shortcodes/dashboard-clicks.php:59 
+#: templates/shortcodes/dashboard-commissions.php:68 
+#: templates/shortcodes/dashboard-summary.php:151
+msgid "Date"
+msgstr "تاریخ"
+
+#: plugin-options/settings-options.php:225
+msgid "Default registration form"
+msgstr "پیشفرض فرم ثبت نام"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:377 
+#: includes/admin-tables/class.yith-wcaf-payments-table.php:283
+msgid "Delete"
+msgstr "حذف"
+
+#: templates/admin/click-panel.php:30
+msgid "Delete click logs"
+msgstr "حذف لاگ های کلیک"
+
+#: templates/admin/premium-tab.php:466
+msgid "Delete cookie"
+msgstr "حذف کوکی ها"
+
+#: templates/admin/click-panel.php:40
+msgid "Delete Logs"
+msgstr "حذف لاگ ها"
+
+#: includes/class.yith-wcaf-commission-handler.php:987 
+#: includes/class.yith-wcaf-payment-handler.php:300
+msgid "Delete note"
+msgstr "حذف یادداشت"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:499
+msgid "Delete Permanently"
+msgstr "حذف دائمی"
+
+#: includes/functions.yith-wcaf.php:356
+msgctxt "Dev warning; do not translate"
+msgid "Should be called after wp hook, in order to know current page"
+msgstr "برای آگاهی از صفحه فعلی ، باید پس از wp hook فراخوانی شود"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:364
+msgid "Disabled"
+msgstr "غیرفعال شده"
+
+#: includes/class.yith-wcaf-commission-handler.php:1960
+msgid "Discounts"
+msgstr "تخفیف ها"
+
+#: includes/class.yith-wcaf.php:632
+msgctxt "Doing it wrong message"
+msgid ""
+"You must call \\YITH_WCAF::get_dashboard_endpoints after init hook, "
+"otherwise endpoint array will be empty"
+msgstr ""
+"شما باید \\YITH_WCAF::get_dashboard_endpoints بعد از hook فراخوانی کنید، در "
+"غیر این صورت آرایه پایانی خالی خواهد بود"
+
+#: templates/shortcodes/dashboard-payments.php:94
+msgid "Download"
+msgstr "دانلود"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:301 
+#: includes/class.yith-wcaf-affiliate-handler.php:1732
+msgid "Earnings"
+msgstr "درآمد"
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-registration-form.php:130
+msgctxt "Elementor control label"
+msgid "Show Additional fields"
+msgstr "نمایش فیلدهای اضافی"
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-registration-form.php:104
+msgctxt "Elementor control label"
+msgid "Show First name field"
+msgstr "نمایش فیلد نام"
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-registration-form.php:117
+msgctxt "Elementor control label"
+msgid "Show Last name field"
+msgstr "نمایش فیلد نام خانوادگی"
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-registration-form.php:91
+msgctxt "Elementor control label"
+msgid "Show Login form"
+msgstr "نمایش فرم ورود"
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-affiliate-dashboard.php:91
+#:  includes/widgets/elementor/class.yith-wcaf-elementor-link-generator.php:91
+msgctxt "Elementor control label"
+msgid "Show navigation menu"
+msgstr "نمایش فهرست راهبری"
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-affiliate-dashboard.php:83
+#:  includes/widgets/elementor/class.yith-wcaf-elementor-link-generator.php:83
+msgctxt "Elementor section title"
+msgid "Dashboard details"
+msgstr "جزئیات داشبورد"
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-registration-form.php:83
+msgctxt "Elementor section title"
+msgid "Form details"
+msgstr "جزئیات فرم"
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-affiliate-dashboard.php:40
+msgctxt "Elementor widget name"
+msgid "YITH Affiliate Dashboard"
+msgstr "داشبورد بازاریابی YITH"
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-link-generator.php:40
+msgctxt "Elementor widget name"
+msgid "YITH Affiliates Link Generator"
+msgstr "سازنده لینک بازاریابی YITH"
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-registration-form.php:40
+msgctxt "Elementor widget name"
+msgid "YITH Affiliates Registration Form"
+msgstr "فرم ثبت نام بازاریابی YITH"
+
+#: templates/shortcodes/share.php:37
+msgid "Email"
+msgstr "ایمیل"
+
+#: templates/shortcodes/registration-form.php:127
+msgid "Email address"
+msgstr "آدرس ایمیل"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:363 
+#: includes/class.yith-wcaf-affiliate-handler.php:1990
+msgid "Enabled"
+msgstr "فعال شده"
+
+#: includes/class.yith-wcaf.php:145
+msgctxt "enhanced select"
+msgid "%qty% results are available, use up and down arrow keys to navigate."
+msgstr "%qty% نتیجه در دسترس است. با کلید های بالا و پایین آن ها مشاهده کنید."
+
+#: includes/class.yith-wcaf.php:147
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr "بارگزاری ناموفق"
+
+#: includes/class.yith-wcaf.php:154
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr "بارگزاری نتایج بیشتر "
+
+#: includes/class.yith-wcaf.php:146
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr "موردی یافت نشد"
+
+#: includes/class.yith-wcaf.php:144
+msgctxt "enhanced select"
+msgid "One result is available, press enter to select it."
+msgstr "یک نتیجه در دسترس است نتیجه ی انتخاب را ببینید"
+
+#: includes/class.yith-wcaf.php:151
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr "لطفا %qty% کاراکتر را حدف کنید"
+
+#: includes/class.yith-wcaf.php:150
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr "لطفا یک کاراکتر را حذف کنید"
+
+#: includes/class.yith-wcaf.php:149
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr "لطفا %qty% کاراکتر یا کاراکترهای بیشتری را حدف کنید"
+
+#: includes/class.yith-wcaf.php:148
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr "لطفا یک کاراکتر یا بیشتر از یک کاراکتر وارد کنید"
+
+#: includes/class.yith-wcaf.php:155
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr "جستجو کردن"
+
+#: includes/class.yith-wcaf.php:153
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr "شما می توانید %qty% مورد را انتخاب کنید"
+
+#: includes/class.yith-wcaf.php:152
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr "شما می توانید تنها یک مورد را انتخاب کنید"
+
+#: templates/admin/premium-tab.php:437
+msgid ""
+"Enjoy the benefits of notification emails that the plugin allows you to get "
+"in order to keep both administratore and users (affiliate and not) always "
+"updated.%3$sAny new %1$saffiliation request%2$s or %1$scommission "
+"payment%2$s will be notified via email in a dynamic site like yours!"
+msgstr ""
+"از مزایای ایمیل های اعلاناتی که افزونه به شما امکان می دهد دریافت کنید تا هم "
+"مدیران و هم کاربران (بازاریاب و غیره) همیشه به روز باشند. از این طریق سایت "
+"شما پویا می شود و می توانید تعاملات بیشتری ایجاد کنید."
+
+#: templates/shortcodes/link-generator.php:55
+msgid ""
+"Enter any URL from this site into the form below to generate your referral "
+"link to that page"
+msgstr "لینک ارجاع در زیر تولید شده است"
+
+#: includes/class.yith-wcaf-admin.php:477
+msgid "Ever"
+msgstr "همیشه"
+
+#: plugin-options/settings-options.php:332
+msgid "Exclude discount from commissions"
+msgstr "شامل شدن تخفیف در کمیسیون"
+
+#: plugin-options/settings-options.php:334
+msgid "Exclude discounts from referral commission calculation"
+msgstr "شامل شدن تخفیف ها در محاسبات کمیسیون ارجاع"
+
+#: plugin-options/settings-options.php:324
+msgid "Exclude tax from commissions"
+msgstr "شامل شدن مالیات در کمیسیون"
+
+#: plugin-options/settings-options.php:326
+msgid "Exclude tax from referral commission calculation"
+msgstr "شامل شدن مالیات در کمیسیون بازاریاب ها"
+
+#: templates/shortcodes/share.php:19
+msgid "Facebook"
+msgstr "فیس بوک"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:578 
+#: includes/admin-tables/class.yith-wcaf-payments-table.php:343 
+#: templates/admin/stat-panel-general.php:31 
+#: templates/shortcodes/dashboard-clicks.php:47 
+#: templates/shortcodes/dashboard-commissions.php:53 
+#: templates/shortcodes/dashboard-payments.php:47
+msgid "Filter"
+msgstr "فیلتر"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:553 
+#: templates/shortcodes/dashboard-settings.php:43 
+#: templates/shortcodes/registration-form.php:92 
+#: templates/shortcodes/registration-form.php:188
+msgid "First name"
+msgstr "نام"
+
+#: templates/admin/premium-tab.php:325
+msgid ""
+"For any new visit coming from an %1$saffiliate%2$s link, the system stores "
+"related information, such as referrer name, visited page, date and possible "
+"order ID associated. In the latter case, it stores also conversion time, "
+"that is the time passed before a click converts into an order."
+msgstr ""
+"برای هر بازدید جدیدی که از پیوند بازاریابی دریافت می شود، سیستم اطلاعات "
+"مربوطه، مانند نام ارجاع کننده ، صفحه بازدید شده ، تاریخ و شناسه سفارش "
+"احتمالی مرتبط را ذخیره می کند. در حالت دوم ، زمان تبدیل را نیز ذخیره می کند "
+"، یعنی زمانی که قبل از تبدیل یک کلیک به سفارش سپری می شود."
+
+#: includes/class.yith-wcaf-shortcode.php:1160
+msgid ""
+"From your affiliate dashboard you can view your recent commissions and "
+"visits, consult your affiliate stats and <a href=\"%1$s\">manage settings</a>"
+" for your profile"
+msgstr ""
+"از داشبورد بازاریابی خود می توانید کمیسیون ها و بازدیدهای اخیر خود را مشاهده "
+"کنید؛ با کمک بخش تنظیمات می توانید پروفایل خود را شخصی سازی کنید."
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:574 
+#: includes/admin-tables/class.yith-wcaf-payments-table.php:339 
+#: templates/admin/stat-panel-general.php:29 
+#: templates/shortcodes/dashboard-clicks.php:39 
+#: templates/shortcodes/dashboard-commissions.php:45 
+#: templates/shortcodes/dashboard-payments.php:39
+msgid "From:"
+msgstr "فرم:"
+
+#: includes/class.yith-wcaf-privacy.php:738
+msgid "Gateway"
+msgstr "درگاه"
+
+#: plugin-options/settings-options.php:21
+msgid "General"
+msgstr "عمومی"
+
+#: plugin-options/settings-options.php:301
+msgid "General rate"
+msgstr "نرخ کلی"
+
+#: plugin-options/settings-options.php:304
+msgid "General rate to apply to affiliates"
+msgstr "نرخ عمومی برای بازاریاب ها"
+
+#: templates/admin/stat-panel-general.php:41
+msgid "General stats"
+msgstr "آمارهای عمومی"
+
+#: templates/shortcodes/link-generator.php:77
+msgid "Generate"
+msgstr "تولید کردن"
+
+#: includes/class.yith-wcaf.php:461
+msgid "Generate Link"
+msgstr "تولید کردن لینک"
+
+#: includes/class.yith-wcaf-admin.php:458
+msgid "Global stats"
+msgstr "آمارهای عمومی"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:161
+msgid "Guest"
+msgstr "مهمان"
+
+#: includes/class.yith-wcaf-shortcode.php:1155
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+"سلام <strong>%1$s</strong> (شما %1$s نیستید? <a href=\"%2$s\">خروج</a>)."
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-registration-form.php:134
+msgid "Hide additional fields"
+msgstr "پنهان کردن فیلدهای اضافی"
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-registration-form.php:108
+msgid "Hide first name field"
+msgstr "پنهان کردن نام"
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-registration-form.php:121
+msgid "Hide last name field"
+msgstr "پنهان کردن نام خانوادگی"
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-registration-form.php:95
+msgid "Hide login form"
+msgstr "پنهان کردن فرم ورود"
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-affiliate-dashboard.php:95
+#:  includes/widgets/elementor/class.yith-wcaf-elementor-link-generator.php:95
+msgid "Hide menu"
+msgstr "پنهان سازی منو"
+
+#: includes/class.yith-wcaf-admin.php:200
+msgid "Hide template"
+msgstr "پنهان سازی قالب"
+
+#. Translators: %s Order number.
+#: includes/class.yith-wcaf-privacy.php:653
+msgid "Hit %s has been retained."
+msgstr "موفقیت %s حفظ شد"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:296 
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:373 
+#: includes/admin-tables/class.yith-wcaf-payments-table.php:231 
+#: includes/class.yith-wcaf-affiliate-handler.php:1727 
+#: includes/class.yith-wcaf-commission-handler.php:1953 
+#: includes/class.yith-wcaf-payment-handler.php:1082 
+#: includes/class.yith-wcaf-privacy.php:676 
+#: includes/class.yith-wcaf-privacy.php:732 
+#: includes/class.yith-wcaf-privacy.php:800 
+#: templates/admin/referral-commissions-metabox.php:41 
+#: templates/shortcodes/dashboard-commissions.php:65 
+#: templates/shortcodes/dashboard-payments.php:59 
+#: templates/shortcodes/dashboard-summary.php:113
+msgid "ID"
+msgstr "شناسه"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:2013
+msgid "If this user is an affiliate, you can choose to ban or unban it"
+msgstr "اگر اگر این کاربر بازاریاب است ، می توانید آن را مسدود یا فعال کنید"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:1997
+msgid "If this user is an affiliate, you can choose to enable or disable it"
+msgstr "اگر اگر این کاربر بازاریاب است ، می توانید آن را غیرفعال یا فعال کنید"
+
+#: templates/admin/premium-tab.php:392
+msgid ""
+"If you do not want to waste your time approving all users who apply for "
+"becoming affilitates in your shop, do not worry, with the premium version "
+"you will just have enable an option and it's done: %1$sany new affiliate%2$s "
+"will be immediately ready to advertise your products!"
+msgstr ""
+"اگر نمی خواهید وقت خود را با تأیید همه کاربران متقاضی برای تبدیل شدن به "
+"بازاریاب هدر دهید ، نگران نباشید ، با نسخه پرمیوم فقط یک گزینه را فعال می "
+"کنید و این کار تمام شده است."
+
+#: includes/admin-tables/class.yith-wcaf-product-stat-table.php:207
+msgid "Image"
+msgstr "تصویر"
+
+#: templates/shortcodes/dashboard-payments.php:75
+msgid "Invoice"
+msgstr "صورتحساب"
+
+#: init.php:133
+msgid "is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "فعال شده است اما تاثیر نمی گذارد. برای کار نیاز به ووکامرس دارید."
+
+#: plugin-options/settings-options.php:193
+msgid "It will be used by Pinterest."
+msgstr "این ممکن است توسط پینترست استفاده شود"
+
+#: plugin-options/settings-options.php:184
+msgid ""
+"It will be used by Twitter, WhatsApp and Pinterest. Use <strong>"
+"%referral_url%</strong> where you want to show the URL of your Affiliate."
+msgstr ""
+"این را می توانید در توییتر واتساپ و پینترست استفاده کنید شما می توانید "
+"<strong>%referral_url%</strong> را استفاده کنید"
+
+#: templates/admin/premium-tab.php:303
+msgid ""
+"It's time to automate payment system for commissions in your store: the more "
+"the traffic in your shop, the more the commissions to pay to your affiliates."
+" You might not find always the time to do that and you might, then, risk to "
+"be late with payments and not respect deadlines. "
+msgstr "حالا زمان اتوماتیک کردن پرداخت کمیسیون های فروشگاه می باشد."
+
+#: includes/class.yith-wcaf-admin.php:278
+msgid "Item successfully deleted"
+msgstr "آیتم با موفقیت حذف شد"
+
+#: templates/shortcodes/dashboard-clicks.php:42 
+#: templates/shortcodes/dashboard-commissions.php:48 
+#: templates/shortcodes/dashboard-payments.php:42
+msgid "Items per page:"
+msgstr "تعداد آیتم های هر صفحه:"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:169
+msgctxt "Label for payment email for the affiliate (admin view)"
+msgid "Payment"
+msgstr "پرداخت"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:566 
+#: templates/shortcodes/dashboard-settings.php:51 
+#: templates/shortcodes/registration-form.php:106 
+#: templates/shortcodes/registration-form.php:203
+msgid "Last name"
+msgstr "نام خانوادگی"
+
+#: templates/admin/premium-tab.php:501
+msgid "Let affiliates request payments"
+msgstr "اجازه دهید بازاریابان درخواست پرداخت کنند"
+
+#: includes/class.yith-wcaf-privacy.php:801 
+#: templates/shortcodes/dashboard-clicks.php:65 
+#: templates/shortcodes/dashboard-summary.php:148
+msgid "Link"
+msgstr "لینک"
+
+#: includes/class.yith-wcaf-privacy.php:61
+msgid ""
+"Location, IP address and browser type: we’ll use this just for statistics, "
+"and to let administrators supervise traffic generated by affiliates."
+msgstr ""
+"موقعیت مکانی، آی پی آدرس، نوع مرورگر: ما فقط از این آمار استفاده می کنیم و "
+"به مدیران اجازه می دهیم بر ترافیک ایجاد شده توسط بازاریابان نظارت کنند."
+
+#: templates/shortcodes/registration-form.php:41 
+#: templates/shortcodes/registration-form.php:60
+msgid "Login"
+msgstr "ورود"
+
+#: templates/shortcodes/registration-form.php:66
+msgid "Lost your password?"
+msgstr "رمز عبور خود را گم کرده اید؟"
+
+#: plugin-options/settings-options.php:65
+msgid "Make referral cookie expire"
+msgstr "ساخت تاریخ انقضا کوکی ارجاع"
+
+#: includes/class.yith-wcaf-privacy.php:67
+msgid ""
+"Members of our team have access to the information you provide us. For "
+"example, both Administrators and Shop Managers can access:"
+msgstr ""
+"اعضای تیم ما به اطلاعاتی که در اختیار ما قرار می دهند دسترسی دارند. به عنوان "
+"مثال، هم مدیران و هم مدیران فروشگاه می توانند به موارد زیر دسترسی داشته "
+"باشند:"
+
+#: templates/shortcodes/navigation-menu.php:29
+msgid "Menu"
+msgstr "منو"
+
+#: templates/admin/premium-tab.php:377
+msgid "Mobile devices"
+msgstr "دستگاه های تلفن همراه"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:501
+msgid "Move to Trash"
+msgstr "انتقال به زباله دان"
+
+#: includes/class.yith-wcaf-commission-handler.php:2041
+msgid "Moved to trash by %s"
+msgstr "حذف  موقت %s"
+
+#: templates/shortcodes/share.php:43 templates/shortcodes/share.php:49
+msgid "My Referral URL on "
+msgstr "لینک ارجاع من در"
+
+#: plugin-options/settings-options.php:177
+msgid "My Referral URL on %s"
+msgstr "لینک ارجاع من در %s"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:160 
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:187 
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:281 
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:237 
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:347 
+#: includes/admin-tables/class.yith-wcaf-payments-table.php:154 
+#: includes/admin-tables/class.yith-wcaf-payments-table.php:188 
+#: includes/admin-tables/class.yith-wcaf-product-stat-table.php:162 
+#: includes/admin-tables/class.yith-wcaf-product-stat-table.php:178 
+#: includes/admin-tables/class.yith-wcaf-product-stat-table.php:194 
+#: includes/class.yith-wcaf-admin.php:523 
+#: includes/class.yith-wcaf-privacy.php:757 
+#: includes/class.yith-wcaf-privacy.php:820 
+#: templates/shortcodes/dashboard-clicks.php:82 
+#: templates/shortcodes/dashboard-clicks.php:83 
+#: templates/shortcodes/dashboard-payments.php:94 
+#: templates/shortcodes/dashboard-summary.php:81 
+#: templates/shortcodes/dashboard-summary.php:159
+msgid "N/A"
+msgstr "در دسترس نیست"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:1993
+msgid "New"
+msgstr "جدید"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:614
+msgid "New request"
+msgstr "درخواست جدید"
+
+#: includes/functions.yith-wcaf.php:388
+msgid "Newsletter / Mail Marketing"
+msgstr "خبرنامه / ایمیل مارکتینگ"
+
+#: includes/class.yith-wcaf-admin.php:189
+msgid "No items found."
+msgstr "موردی یافت نشد."
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:464
+msgid "Not Confirmed"
+msgstr "تایید نشده"
+
+#: includes/class.yith-wcaf-commission-handler.php:209
+msgid "Not confirmed"
+msgstr "تایید نشده"
+
+#: templates/shortcodes/dashboard-clicks.php:80
+msgid "Not Converted"
+msgstr "تبدیل نشده"
+
+#: templates/shortcodes/dashboard-summary.php:160
+msgid "Not converted"
+msgstr "تبدیل نشده"
+
+#: templates/admin/premium-tab.php:434 templates/admin/premium-tab.php:441 
+#: templates/admin/premium-tab.php:473
+msgid "Notification email"
+msgstr "ایمیل اطلاع رسانی"
+
+#: templates/admin/stat-panel-general.php:63
+msgid "Number of clicks"
+msgstr "تعداد کلیک ها"
+
+#: templates/admin/stat-panel-general.php:68 
+#: templates/admin/stat-panel-general.php:70
+msgid "Number of conversions"
+msgstr "تعداد تبدیل ها"
+
+#: templates/admin/stat-panel-general.php:61
+msgid "Number of hits"
+msgstr "تعداد خرید های موفق"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:305
+msgid "Number of orders following a click"
+msgstr "تعداد سفارش های هر کلیک"
+
+#: includes/admin-tables/class.yith-wcaf-product-stat-table.php:212
+msgid "Number of products sold following a click"
+msgstr "تعداد محصولات فروخته شده در هر کلیک"
+
+#: plugin-options/settings-options.php:76
+msgid "Number of seconds before referral cookie expires"
+msgstr "تعداد ثانیه های قبل از انقضای کوکی ارجاع"
+
+#: includes/class.yith-wcaf-payment-handler.php:59
+msgid "On Hold"
+msgstr "نگه داشته شده"
+
+#: includes/class.yith-wcaf.php:248
+msgid "Once a month"
+msgstr "یکبار در ماه"
+
+#: includes/class.yith-wcaf.php:244
+msgid "Once a week"
+msgstr "یکبار در هفته"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:2021
+msgid ""
+"Optionally you can show affiliate a message, explaining why her/his account "
+"was banned"
+msgstr ""
+"به صورت اختیاری می توانید پیامی را نشان دهید که علت مسدود کردن حساب او را "
+"توضیح می دهد"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:2006
+msgid ""
+"Optionally you can show affiliate a message, explaining why her/his account "
+"was rejected"
+msgstr ""
+"به صورت اختیاری می توانید پیامی را با توضیح دلیل رد شدن حساب وی توضیح دهید"
+
+#: templates/admin/affiliate-panel.php:41
+msgid "or"
+msgstr "یا"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:375 
+#: includes/class.yith-wcaf-commission-handler.php:1955
+msgid "Order"
+msgstr "سفارش"
+
+#: includes/class.yith-wcaf-privacy.php:678
+msgid "Order id"
+msgstr "شناسه سفارش"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:165
+msgctxt "Order number by X"
+msgid "%s by %s"
+msgstr "%s با %s"
+
+#: templates/admin/referral-commissions-metabox.php:66
+msgid "Order Total:"
+msgstr "مجموع سفارش:"
+
+#: includes/class.yith-wcaf-privacy.php:802 
+#: templates/shortcodes/dashboard-clicks.php:68 
+#: templates/shortcodes/dashboard-summary.php:149
+msgid "Origin"
+msgstr "اصلی"
+
+#: templates/shortcodes/dashboard-clicks.php:71
+msgid "Origin Base"
+msgstr "مبدا"
+
+#: includes/class.yith-wcaf-admin.php:310
+msgid "Orphan commissions successfully processed"
+msgstr "کمیسیون ها با موفقیت پردازش شدند"
+
+#: includes/functions.yith-wcaf.php:390
+msgid "Others"
+msgstr "دیگران"
+
+#: includes/class.yith-wcaf-privacy.php:74
+msgid ""
+"Our team members have access to this information to correctly manage the "
+"affiliation system, and perform required actions in order to prevent "
+"customers from any inappropriate usage of the affiliate program."
+msgstr ""
+"اعضای تیم ما برای مدیریت صحیح سیستم بازاریابی به این اطلاعات دسترسی دارند و "
+"اقدامات لازم را انجام می دهند تا از استفاده نامناسب مشتریان از برنامه "
+"بازاریابی جلوگیری شود."
+
+#: plugin-options/settings-options.php:114
+msgid "Page contents:"
+msgstr "محتوای صفحه:"
+
+#: templates/shortcodes/link-generator.php:67
+msgid "Page URL"
+msgstr "آدرس صفحه"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:302 
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:460 
+#: includes/class.yith-wcaf-affiliate-handler.php:1734 
+#: includes/class.yith-wcaf-commission-handler.php:208
+msgid "Paid"
+msgstr "پرداخت شده"
+
+#: templates/shortcodes/registration-form.php:52 
+#: templates/shortcodes/registration-form.php:134
+msgid "Password"
+msgstr "رمزعبور"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:382 
+#: includes/class.yith-wcaf-commission-handler.php:1964
+msgid "Payment"
+msgstr "پرداخت"
+
+#. translators: 1. payment(s) id.
+#: includes/class.yith-wcaf-admin.php:338
+msgid "Payment %s completed successfully"
+msgid_plural "Payments %s completed successfully"
+msgstr[0] "پرداخت  %s با موفقیت انجام شد"
+msgstr[1] "پرداخت های  %s با موفقیت انجام شد"
+
+#. Translators: %s Order number.
+#: includes/class.yith-wcaf-privacy.php:582
+msgid "Payment %s has been retained."
+msgstr "پرداخت %s حفظ شده است"
+
+#: includes/class.yith-wcaf-payment-handler.php:730
+msgid "Payment correctly registered"
+msgstr "پرداخت به درستی ثبت شده است"
+
+#: includes/class.yith-wcaf-privacy.php:196
+msgid "Payment Email"
+msgstr "ایمیل پرداخت"
+
+#: includes/admin-tables/class.yith-wcaf-payments-table.php:234 
+#: includes/class.yith-wcaf-affiliate-handler.php:2039 
+#: includes/class.yith-wcaf-payment-handler.php:1084 
+#: includes/class.yith-wcaf-privacy.php:734 
+#: templates/shortcodes/dashboard-settings.php:61
+msgid "Payment email"
+msgstr "ایمیل پرداخت"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:590 
+#: templates/shortcodes/registration-form.php:142 
+#: templates/shortcodes/registration-form.php:218
+msgid "Payment email address"
+msgstr "آدرس ایمیل پرداخت"
+
+#: includes/class.yith-wcaf-payment-handler.php:750
+msgid "Payment registered"
+msgstr "پرداخت ثبت شده"
+
+#: includes/class.yith-wcaf-payment-handler.php:747
+msgid "Payment registered; awaiting for IPN confirmation"
+msgstr "پرداخت ثبت شد؛ منتظر تنظیمات IPN بمانید"
+
+#: includes/class.yith-wcaf-admin.php:76 
+#: includes/class.yith-wcaf-payment-handler.php:1047 
+#: includes/class.yith-wcaf.php:460 templates/admin/payment-panel-table.php:29
+msgid "Payments"
+msgstr "پرداخت ها"
+
+#: includes/class.yith-wcaf-admin.php:253
+msgid "Payments correctly registered"
+msgstr "پرداخت به درستی ثبت شد"
+
+#: includes/class.yith-wcaf-privacy.php:71
+msgid "Payments sent to the affiliates;"
+msgstr "پرداخت ها برای بازاریاب ها ارسال شد"
+
+#: templates/admin/premium-tab.php:282 templates/admin/premium-tab.php:287
+msgid "PayPal"
+msgstr "پی پال"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:126 
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:362 
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:452 
+#: includes/class.yith-wcaf-commission-handler.php:206 
+#: includes/class.yith-wcaf-payment-handler.php:56
+msgid "Pending"
+msgstr "در انتظار"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:456 
+#: includes/class.yith-wcaf-commission-handler.php:207
+msgid "Pending Payment"
+msgstr "در انتظار پرداخت"
+
+#: templates/admin/premium-tab.php:349 templates/admin/premium-tab.php:354
+msgid "Permanent association"
+msgstr "مشارکت دائمی"
+
+#: plugin-options/settings-options.php:154
+msgid "Pin on Pinterest"
+msgstr "پین کردن در پینترست"
+
+#: templates/shortcodes/share.php:31
+msgid "Pinterest"
+msgstr "پینترست"
+
+#: includes/class.yith-wcaf-privacy.php:78
+msgid ""
+"Please see the <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-"
+"full\">PayPal Privacy Policy</a> for more details."
+msgstr "شما می توانید قوانین حریم شخصی پی پال را ببینید"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:495
+msgid "Please, enter a valid first name"
+msgstr "لطفا نام صحیح خود را وارد کنید"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:503
+msgid "Please, enter a valid last name"
+msgstr "لطفا نام خانوادگی صحیح خود را وارد کنید"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:487
+msgid "Please, submit a valid email address where we can send PayPal payments"
+msgstr ""
+"لطفا آدرس ایمیل صحیحی را وارد کنید که بتوانید در پرداخت های پی پال استفاده "
+"کنید"
+
+#: includes/class.yith-wcaf-admin.php:79
+msgid "Premium"
+msgstr "پرمیوم"
+
+#: templates/admin/premium-tab.php:279
+msgid "Premium Features"
+msgstr "ویژگی های پرمیوم"
+
+#: plugin-options/settings-options.php:318
+msgid "Prevent affiliate from getting commissions from his/her own sales"
+msgstr "جلوگیری از دریافت کمیسیون از فروش خود توسط بازاریاب ها"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:377 
+#: includes/admin-tables/class.yith-wcaf-product-stat-table.php:208 
+#: includes/class.yith-wcaf-commission-handler.php:1957 
+#: includes/class.yith-wcaf-privacy.php:679 
+#: templates/shortcodes/dashboard-commissions.php:74
+msgid "Product"
+msgstr "محصول"
+
+#: templates/admin/rate-panel.php:72
+msgid "Product rates"
+msgstr "نرخ"
+
+#: templates/shortcodes/dashboard-commissions.php:39
+msgid "Product:"
+msgstr "محصول:"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:300 
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:380 
+#: includes/class.yith-wcaf-affiliate-handler.php:1731 
+#: includes/class.yith-wcaf-affiliate-handler.php:2032 
+#: includes/class.yith-wcaf-commission-handler.php:1962 
+#: templates/admin/referral-commissions-metabox.php:43 
+#: templates/shortcodes/dashboard-commissions.php:77 
+#: templates/shortcodes/dashboard-summary.php:115
+msgid "Rate"
+msgstr "نرخ"
+
+#: templates/shortcodes/dashboard-summary.php:141
+msgid "Recent Clicks"
+msgstr "کلیک های اخیر"
+
+#: templates/shortcodes/dashboard-summary.php:105
+msgid "Recent Commissions"
+msgstr "کمیسیون های اخیر"
+
+#: includes/class.yith-wcaf-commission-handler.php:2095
+msgid "Referral Commissions"
+msgstr "کمیسیون های ارجاع داده شده"
+
+#: plugin-options/settings-options.php:73
+msgid "Referral cookie exp."
+msgstr "زمان انقضا کوکی ارجاع"
+
+#: plugin-options/settings-options.php:54
+msgid "Referral cookie name"
+msgstr "نام کوکی ارجاع"
+
+#: includes/class.yith-wcaf-privacy.php:194
+msgid "Referral link"
+msgstr "لینک ارجاع"
+
+#: plugin-options/settings-options.php:210
+msgid "Referral registration"
+msgstr "ثبت نام ارجاع شده"
+
+#: templates/shortcodes/link-generator.php:72
+msgid "Referral URL"
+msgstr "آدرس ارجاع"
+
+#: plugin-options/settings-options.php:28
+msgid "Referral var name"
+msgstr "نام متغیر ارجاع"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:472 
+#: includes/class.yith-wcaf-commission-handler.php:211
+msgid "Refunded"
+msgstr "بازپرداخت شده"
+
+#: includes/class.yith-wcaf-commission-handler.php:594
+msgid "Refunded %1$s due to refund #%2$s creation"
+msgstr "بازپرداخت %1$s به دلیل بازپرداخت #%2$s ایجاد است"
+
+#: includes/admin-tables/class.yith-wcaf-product-stat-table.php:210 
+#: includes/class.yith-wcaf-affiliate-handler.php:1733 
+#: includes/class.yith-wcaf-commission-handler.php:1961
+msgid "Refunds"
+msgstr "بازپرداخت"
+
+#: templates/shortcodes/registration-form.php:81 
+#: templates/shortcodes/registration-form.php:157
+msgid "Register"
+msgstr "عضویت"
+
+#: plugin-options/settings-options.php:216
+msgid "Registration form"
+msgstr "فرم ثبت نام"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:2002
+msgid "Reject Message"
+msgstr "پیام های رد شده"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:130 
+#: includes/class.yith-wcaf-affiliate-handler.php:620 
+#: includes/class.yith-wcaf-affiliate-handler.php:1995
+msgid "Rejected"
+msgstr "رد شده"
+
+#: includes/class.yith-wcaf-admin.php:197
+msgid "Rejected Message"
+msgstr "پیام های رد شده"
+
+#: templates/shortcodes/registration-form.php:62
+msgid "Remember me"
+msgstr "مرا بخاطر بسپار"
+
+#: templates/admin/premium-tab.php:416 templates/admin/premium-tab.php:421 
+#: templates/admin/premium-tab.php:448
+msgid "Report"
+msgstr "گزارش"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:584 
+#: includes/admin-tables/class.yith-wcaf-payments-table.php:349 
+#: templates/admin/stat-panel-general.php:33 
+#: templates/shortcodes/dashboard-clicks.php:49 
+#: templates/shortcodes/dashboard-commissions.php:55 
+#: templates/shortcodes/dashboard-payments.php:49
+msgid "Reset"
+msgstr "بازنشانی"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:498
+msgid "Restore"
+msgstr "بازگردانی کردن"
+
+#: includes/class.yith-wcaf-commission-handler.php:632
+msgid "Restored %1$s due to refund #%2$s deletion"
+msgstr "%1$s بازیابی شده نسبت به #%2$s زمان حذف شده"
+
+#: templates/admin/affiliate-panel.php:35
+msgid "Search for a customer&hellip;"
+msgstr "جستجو برای یک مشتری"
+
+#: templates/admin/rate-panel.php:62
+msgid "Search for a product&hellip;"
+msgstr "جستجو برای یک محصول"
+
+#: templates/admin/click-panel.php:36 templates/admin/rate-panel.php:37
+msgid "Search for an affiliate&hellip;"
+msgstr "جستجوی برای یک بازاریاب"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:559
+msgid "Select a product"
+msgstr "انتخاب یک محصول"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:568
+msgid "Select a user"
+msgstr "یک کاربر را انتخاب کنید"
+
+#: includes/admin-tables/class.yith-wcaf-payments-table.php:333
+msgid "Select an affiliate"
+msgstr "انتخاب یک بازاریاب"
+
+#: plugin-options/settings-options.php:57
+msgid ""
+"Select name for cookie that will store referral token. This name should be "
+"as unique as possible, so to avoid collision with other plugins: If you "
+"change this setting, all cookies created before will no longer be effective"
+msgstr ""
+"نام کوکی برای توکن ارجاع را انتخاب کنید. این نام باید یکتا باشد برای اینکه "
+"تضاد به وجود نیاید. اگر این تنظیمات را تعییر دادید تمام کوکی های ایجاد شده "
+"قبل از این تاثیر گذار نخواهند بود"
+
+#: plugin-options/settings-options.php:31
+msgid "Select name of referral var used to store referral token in query var"
+msgstr ""
+"نام referal var را انتخاب کنید که برای ذخیره کلید ارجاع در query var استفاده "
+"می شود"
+
+#: templates/admin/premium-tab.php:338
+msgid ""
+"Set a basic commission rate for your entire shop, but do not limit to this "
+"only!%3$sEnter a different commission according to user or purchased product."
+" In a quick and easy way, so, you will  be able to create a %1$scommission "
+"hierarchy%2$s according to your needs and your business methods."
+msgstr "یک نرخ کمیسیون ساده را برای فروشگاه انتخاب کنید"
+
+#: plugin-options/settings-options.php:91
+msgid "Set cookie via AJAX"
+msgstr "تنظیم کوکی با ایجکس"
+
+#: includes/class.yith-wcaf-admin.php:78 includes/class.yith-wcaf.php:462
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: plugin-options/settings-options.php:161
+msgid "Share by Email"
+msgstr "اشتراک با ایمیل"
+
+#: plugin-options/settings-options.php:168
+msgid "Share by WhatsApp"
+msgstr "اشتراک با واتساپ"
+
+#: plugin-options/settings-options.php:140
+msgid "Share on Facebook"
+msgstr "اشتراک در فیس بوک"
+
+#: includes/class.yith-wcaf-shortcode.php:336
+msgid "Share on:"
+msgstr "اشتراک در:"
+
+#: plugin-options/settings-options.php:244
+msgid "Show \"First Name\" field on registration form"
+msgstr "نمایش فیلد نام در فرم ثبت نام"
+
+#: plugin-options/settings-options.php:252
+msgid "Show \"Last Name\" field on registration form"
+msgstr "نمایش فیلد نام خانوادگی در فرم ثبت نام"
+
+#: plugin-options/settings-options.php:155
+msgid "Show \"Pin on Pinterest\" button"
+msgstr "نمایش کلید پین کردن در پینترست"
+
+#: plugin-options/settings-options.php:162
+msgid "Show \"Share by Email\" button"
+msgstr "نمایش کلید اشتراک با ایمیل"
+
+#: plugin-options/settings-options.php:169
+msgid "Show \"Share by WhatsApp\" button"
+msgstr "نمایش کلید اشتراک در واتساپ"
+
+#: plugin-options/settings-options.php:141
+msgid "Show \"Share on Facebook\" button"
+msgstr "نمایش کلید اشتراک در فیس بوک"
+
+#: plugin-options/settings-options.php:148
+msgid "Show \"Tweet on Twitter\" button"
+msgstr "نمایش کلید توییت کردن در توییتر"
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-registration-form.php:133
+msgid "Show additional field"
+msgstr "نمایش فیلدهای بیشتر(اضافی)"
+
+#: plugin-options/settings-options.php:260
+msgid "Show additional fields in Affiliate Dashboard's settings page"
+msgstr "فیلدهای مختلف در صفحه تنظیمات بازاریاب ها"
+
+#: plugin-options/settings-options.php:268
+msgid "Show additional fields in Become an Affiliate section"
+msgstr "نمایش فیلدهای بیشتر در بخش تبدیل به بازاریاب شدن"
+
+#: plugin-options/settings-options.php:266
+msgid "Show fields in Become an Affiliate"
+msgstr "نمایش فیلدها در بخش بازاریاب شدن"
+
+#: plugin-options/settings-options.php:258
+msgid "Show fields in Settings"
+msgstr "فیلدها را در تنظیمات نمایش دهید"
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-registration-form.php:107
+msgid "Show first name field"
+msgstr "نمایش فیلد نام"
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-registration-form.php:120
+msgid "Show last name field"
+msgstr "نمایش فیلد نام خانوادگی"
+
+#: plugin-options/settings-options.php:234
+msgid "Show Login form"
+msgstr "مشاهده فرم ورود"
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-registration-form.php:94
+msgid "Show login form"
+msgstr "نمایش فرم ورود"
+
+#: plugin-options/settings-options.php:236
+msgid "Show Login Form on registration form side"
+msgstr "نمایش فرم ثبت نام در کنار فرم ورود"
+
+#: includes/widgets/elementor/class.yith-wcaf-elementor-affiliate-dashboard.php:94
+#:  includes/widgets/elementor/class.yith-wcaf-elementor-link-generator.php:94
+msgid "Show menu"
+msgstr "نمایش فهرست"
+
+#: plugin-options/settings-options.php:242
+msgid "Show Name field"
+msgstr "نمایش فیلد نام"
+
+#: plugin-options/settings-options.php:250
+msgid "Show Surname field"
+msgstr "نمایش فیلد نام خانوادگی"
+
+#: plugin-options/settings-options.php:192
+msgid "Social image URL"
+msgstr "آدرس تصویر شبکه های اجتماعی"
+
+#: includes/functions.yith-wcaf.php:389
+msgid "Social media"
+msgstr "شبکه های اجتماعی"
+
+#: plugin-options/settings-options.php:133
+msgid "Social Networks & Share"
+msgstr "شبکه های اجتماعی و اشتراک گذاری"
+
+#: plugin-options/settings-options.php:183
+msgid "Social text"
+msgstr "متن شبکه اجتماعی"
+
+#: plugin-options/settings-options.php:175
+msgid "Social title"
+msgstr "عنوان شبکه اجتماعی"
+
+#: templates/shortcodes/dashboard-commissions.php:98 
+#: templates/shortcodes/dashboard-summary.php:131 
+#: templates/shortcodes/dashboard-summary.php:166
+msgid "Sorry! There are no registered commissions yet"
+msgstr "متاسفیم! هنوز هیچ کمیسیون ثبت شده ای وجود ندارد"
+
+#: templates/shortcodes/dashboard-clicks.php:88
+msgid "Sorry! There are no registered hits yet"
+msgstr "متاسفیم! هنوز یک عملیات موفق برای شما ایجاد نشده است"
+
+#: templates/shortcodes/dashboard-payments.php:102
+msgid "Sorry! There are no registered payments yet"
+msgstr "متاسفیم! هنوز هیچ پرداخت ثبت شده ای وجود ندارد"
+
+#: templates/admin/stat-panel-product.php:24
+msgid "Statistics per single product"
+msgstr "آمار هر محصول به صورت جداگانه"
+
+#: includes/class.yith-wcaf-admin.php:77 
+#: templates/shortcodes/dashboard-summary.php:44
+msgid "Stats"
+msgstr "آمار"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:374 
+#: includes/admin-tables/class.yith-wcaf-payments-table.php:232 
+#: includes/class.yith-wcaf-affiliate-handler.php:1729 
+#: includes/class.yith-wcaf-commission-handler.php:1954 
+#: includes/class.yith-wcaf-payment-handler.php:1081 
+#: includes/class.yith-wcaf-privacy.php:677 
+#: includes/class.yith-wcaf-privacy.php:733 
+#: templates/admin/referral-commissions-metabox.php:42 
+#: templates/shortcodes/dashboard-clicks.php:62 
+#: templates/shortcodes/dashboard-commissions.php:71 
+#: templates/shortcodes/dashboard-payments.php:62 
+#: templates/shortcodes/dashboard-summary.php:114 
+#: templates/shortcodes/dashboard-summary.php:150
+msgid "Status"
+msgstr "وضعیت"
+
+#: includes/class.yith-wcaf-admin.php:270
+msgid "Status changed correctly"
+msgstr "وضعیت به درستی تغییر کرد"
+
+#: templates/admin/referral-commissions-metabox.php:74
+msgid "Store Earnings:"
+msgstr "درآمد فروشگاه:"
+
+#: templates/admin/affiliate-panel.php:75 
+#: templates/shortcodes/dashboard-settings.php:71
+msgid "Submit"
+msgstr "ثبت کردن"
+
+#: templates/admin/stat-panel-general.php:49
+msgid "Sum of all confirmed commissions so far"
+msgstr "مجموع تمام کمیسیون های تایید شده تا امروز"
+
+#: templates/admin/stat-panel-general.php:56
+msgid "Sum of all paid commissions so far"
+msgstr "مجموع تمام کمیسیون های پرداخت شده تا کنون"
+
+#: includes/class.yith-wcaf-privacy.php:70
+msgid "System-generated commissions;"
+msgstr "کمیسیون های ساخته شده ی سیستم"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:134
+msgid "Tel:"
+msgstr "تلفن:"
+
+#: templates/admin/premium-tab.php:491
+msgid ""
+"The same goes for referrals already linked to an order: commissions will be "
+"calculated automatically as soon as you save."
+msgstr ""
+"ارجاعاتی که قبلاً به سفارش مرتبط شده اند نیز به همین ترتیب است: کمیسیون ها "
+"به محض ثبت به طور خودکار محاسبه می شوند."
+
+#: templates/admin/premium-tab.php:469
+msgid ""
+"The user reached your site through an affiliation. %1$sFor how long will "
+"his/her purchases generate commissions for the affiliate?%2$s You can choose "
+"by setting a deadline or by making sure the affiliation will be deleted "
+"after the first purchase."
+msgstr ""
+"کاربر از طریق لینک بازاریابی به سایت شما رسیده است. می توانید با تعیین مهلت "
+"یا اطمینان از حذف بازاریابان پس از اولین خرید، این گزینه انتخاب کنید."
+
+#: includes/class.yith-wcaf-admin.php:263
+msgid ""
+"There was a problem while registering the affiliate; please, try again later"
+msgstr ""
+"در فرآیند ثبت نام بازاریاب مشکلی به وجود آماده است. لطفا دوباره تلاش کنید."
+
+#. translators: 1. payment id(s); 2. payment error(s).
+#: includes/class.yith-wcaf-admin.php:325
+msgid "There was an error while processing payment %1$s: %2$s"
+msgid_plural "There was an error while processing payments %1$s: %2$s"
+msgstr[0] "هنگام پردازش پرداخت %1$s خطایی روی داد : %2$s"
+msgstr[1] "هنگام پردازش پرداخت های %1$s خطایی روی داد : %2$s"
+
+#: includes/class.yith-wcaf-admin.php:255
+msgid "There was an error while processing payments"
+msgstr "موقع پرداخت پرداخت ها خطایی رخ داده است"
+
+#: templates/admin/premium-tab.php:360
+msgid ""
+"This feature, that you can either enable or not, might be a powerful tool "
+"for drawing the attention of all those interested in an affiliation "
+"programme."
+msgstr ""
+"این ویژگی که می توانید آن را فعال یا غیر فعال کنید ، می تواند ابزاری قدرتمند "
+"برای جلب توجه همه علاقمندان به یک برنامه بازاریابی باشد."
+
+#: templates/admin/referral-commissions-metabox.php:70
+msgid "This is the total of commissions credited to referral"
+msgstr "این مجموع کمیسیون هایی است که به ارجاعات اعتبار داده می شود"
+
+#: templates/shortcodes/link-generator.php:50 
+#: templates/shortcodes/link-generator.php:74
+msgid "this referral link and share it anywhere)"
+msgstr "لینک ارجاع و اشتراک آن در همه جا"
+
+#: templates/admin/premium-tab.php:273 templates/admin/premium-tab.php:520
+msgid "to the premium version"
+msgstr "تبدیل به نسخه پرمیوم"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:575 
+#: includes/admin-tables/class.yith-wcaf-payments-table.php:340 
+#: templates/admin/stat-panel-general.php:30 
+#: templates/shortcodes/dashboard-clicks.php:40 
+#: templates/shortcodes/dashboard-commissions.php:46 
+#: templates/shortcodes/dashboard-payments.php:40
+msgid "To:"
+msgstr "به:"
+
+#: includes/class.yith-wcaf-admin.php:477
+msgid "Today"
+msgstr "امروز"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:297 
+#: includes/class.yith-wcaf-affiliate-handler.php:1728 
+#: includes/class.yith-wcaf-affiliate-handler.php:2025 
+#: includes/class.yith-wcaf-privacy.php:195
+msgid "Token"
+msgstr "توکن"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:2028
+msgid "Token for the user (default to user ID)"
+msgstr "توکن برای کاربر (به طور پیش فرض شناسه کاربر توکن کاربر است)"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:379 
+#: includes/class.yith-wcaf-commission-handler.php:1959
+msgid "Total"
+msgstr "جمع کل"
+
+#: templates/admin/stat-panel-general.php:47
+msgid "Total commissions"
+msgstr "کل کمیسیون ها"
+
+#: templates/shortcodes/dashboard-summary.php:55
+msgid "Total Earnings"
+msgstr "درآمد کل"
+
+#: templates/admin/stat-panel-general.php:54 
+#: templates/shortcodes/dashboard-summary.php:60
+msgid "Total Paid"
+msgstr "مقدار پرداخت کل"
+
+#: includes/class.yith-wcaf-privacy.php:198
+msgid "Total paid"
+msgstr "مقدار پرداخت کل"
+
+#: templates/shortcodes/dashboard-summary.php:65
+msgid "Total Refunded"
+msgstr "کل بازپرداخت شده ها"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:476
+msgid "Trash"
+msgstr "جفنگ"
+
+#: includes/class.yith-wcaf-commission-handler.php:212
+msgid "Trashed"
+msgstr "حذف شده"
+
+#: plugin-options/settings-options.php:147
+msgid "Tweet on Twitter"
+msgstr "توییت در توییتر"
+
+#: templates/shortcodes/share.php:25
+msgid "Twitter"
+msgstr "توییتر"
+
+#: includes/admin-tables/class.yith-wcaf-affiliates-table.php:381
+msgid "Unban Affiliate"
+msgstr "فعالسازی مجدد بازاریاب"
+
+#: templates/admin/premium-tab.php:272 templates/admin/premium-tab.php:519
+msgid "UPGRADE"
+msgstr "ارتقا دادن"
+
+#: templates/admin/premium-tab.php:269 templates/admin/premium-tab.php:516
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Affiliates%2$s to "
+"benefit from all features!"
+msgstr "ارتقاء به نسخه پرمیوم برای استفاده از همه ویژگی های افزونه!"
+
+#: includes/admin-tables/class.yith-wcaf-commissions-table.php:376 
+#: includes/class.yith-wcaf-commission-handler.php:1956
+msgid "User"
+msgstr "کاربر"
+
+#: templates/admin/premium-tab.php:456
+msgid ""
+"User is usually associated to the affiliate thanks to an affiliation code "
+"which has been inserted in the url that led user to your site. In this case, "
+"affiliation is automatic. %1$s In case this behavior doesn't satisfy your "
+"needs, you can request the insertion of the affiliation code through the "
+"specific form in \"Checkout\" page."
+msgstr ""
+"کاربر معمولاً با کد بازاریابی ای که در آدرس اینترنتی وارد شده در لینک شما "
+"موجود استبه سایت هدایت می شود. این عملیات به صورت اتوماتیک اتفاق می افتد اما "
+"برای تعامل بهتر می توانید در بخش پرداخت کد بازاریابی خود را به مشتری دهید."
+
+#: templates/admin/rate-panel.php:47
+msgid "User rates"
+msgstr "نرخ کاربران"
+
+#: includes/class.yith-wcaf-admin.php:261
+msgid "User was correctly registered as affiliate of your store"
+msgstr "کاربران ثبت نام شده به عنوان بازاریاب در فروشگاه"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:2035
+msgid ""
+"User-specific rate to apply, if any (general rates will be applied if left "
+"empty)"
+msgstr ""
+"نرخ اختصاصی کاربر (اگر این را اعمال نکنید برای همه نرخ عمومی استفاده می شود)"
+
+#: templates/shortcodes/registration-form.php:120
+msgid "Username"
+msgstr "نام کاربری"
+
+#: templates/shortcodes/registration-form.php:48
+msgid "Username or email address"
+msgstr "نام کاربری و آدرس ایمیل"
+
+#: includes/admin-tables/class.yith-wcaf-product-stat-table.php:107
+msgid "View"
+msgstr "نمایش"
+
+#: templates/shortcodes/dashboard-summary.php:107 
+#: templates/shortcodes/dashboard-summary.php:142
+msgid "View all"
+msgstr "نمایش همه"
+
+#: includes/admin-tables/class.yith-wcaf-product-stat-table.php:111
+msgid "View commissions"
+msgstr "مشاهده کمیسیون ها"
+
+#: includes/class.yith-wcaf-admin.php:199
+msgid "View template"
+msgstr "مشاهده قالب"
+
+#: templates/shortcodes/dashboard-summary.php:75
+msgid "Visits"
+msgstr "نمایش ها"
+
+#: includes/class.yith-wcaf-privacy.php:72
+msgid "Visits and sales generated through referral links."
+msgstr "بازدید و فروش از طریق پیوندهای ارجاع ایجاد می شود."
+
+#: includes/class.yith-wcaf-privacy.php:60
+msgid ""
+"Visits to the store: we’ll use this to generate statistics for affiliates "
+"and administrators."
+msgstr ""
+"بازدید از فروشگاه: ما از آن برای ایجاد آمار برای بازاریابان و مدیران استفاده "
+"خواهیم کرد."
+
+#: includes/class.yith-wcaf-privacy.php:77
+msgid ""
+"We send payments through PayPal. When processing payments, some of your data "
+"will be passed to PayPal, including information required to process or "
+"support the payment, such as the commission total and payment information."
+msgstr ""
+"ما پرداخت ها را از طریق پی پال ارسال می کنیم. هنگام پردازش پرداخت ها، برخی "
+"از داده های شما به پی پال منتقل می شود."
+
+#: includes/functions.yith-wcaf.php:387
+msgid "Website / Blog"
+msgstr "وبسایت / وبلاگ"
+
+#: includes/class.yith-wcaf-privacy.php:64
+msgid ""
+"We’ll also use cookies to keep track of visit and sales generate by "
+"affiliates."
+msgstr ""
+"ما از کوکی ها برای پیگیری بازدید و فروش ایجاد شده توسط بازاریاب ها استفاده "
+"می کنیم."
+
+#: templates/shortcodes/share.php:43
+msgid "WhatsApp"
+msgstr "واتساپ"
+
+#: plugin-options/settings-options.php:279
+msgid ""
+"Whenever adding a new affiliate, check if some commission already exists for "
+"his default token, and assign it to him eventually"
+msgstr ""
+"هر زمان که یک بازاریاب جدید اضافه می کنید، بررسی کنید که آیا قبلاً کمیسیون "
+"برای رمز پیش فرض او وجود دارد یا خیر و در نهایت آن را به او اختصاص دهید"
+
+#: includes/class.yith-wcaf-privacy.php:58
+msgid "While you visit our site, we’ll track:"
+msgstr "در حالی که از سایت ما دیدن می کنید، ما موارد زیر را پیگیری می کنیم:"
+
+#: templates/admin/premium-tab.php:508
+msgid "Withdraw"
+msgstr "برداشت کردن"
+
+#: includes/class.yith-wcaf-admin.php:167
+msgid "YIT Plugins"
+msgstr "افزونه های YIT"
+
+#: includes/functions.yith-wcaf.php:193
+msgid "yith_wcaf_get_current_affiliate() should be called after init"
+msgstr "yith_wcaf_get_current_affiliate() باید به صورت ابتدایی فراخوانی شود"
+
+#: includes/functions.yith-wcaf.php:175
+msgid "yith_wcaf_get_current_affiliate_token() should be called after init"
+msgstr ""
+"yith_wcaf_get_current_affiliate_token() باید به صورت ابتدایی فراخوانی شود"
+
+#: includes/functions.yith-wcaf.php:211
+msgid "yith_wcaf_get_current_affiliate_user() should be called after init"
+msgstr ""
+"yith_wcaf_get_current_affiliate_user() باید به صورت ابتدایی فراخوانی شود"
+
+#: init.php:143
+msgid "You can't activate the free version of "
+msgstr "شما نمی توانید در نسخه ی رایگان این را فعال کنید"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:415
+msgid "You have already affiliated with us!"
+msgstr "شما قبللا به جمع بازاریابان ما وارد شده اید!"
+
+#: templates/shortcodes/registration-form.php:233
+msgid "You have already affiliated with us. Thank you!"
+msgstr "شما قبلاً بازاریاب ما شده اید. متشکریم!"
+
+#: includes/class.yith-wcaf-payment-handler.php:659
+msgid "You have to select at least one commission"
+msgstr "شما باید حداقل یک کمیسیون انتخاب کنید"
+
+#: templates/admin/premium-tab.php:405
+msgid ""
+"You might need to make some %1$sstatistics%2$s about %1$sactivities%2$s "
+"connected to all affiliates in your site and probably also the number of "
+"visits generated by each of them. In order not to distort these data, you "
+"can set the number of seconds that have to pass before a visit form the same "
+"user can be counted as a new click in click logs."
+msgstr ""
+"ممکن است لازم باشد آمارهای ایجاد شده توسط هر یک از بازاریاب ها را به حساب "
+"آنها متصل کنید. این داده ها شامل کلیک ها و مدت زمان حضور آن ها در هر کلیک می "
+"باشد."
+
+#: templates/shortcodes/registration-form.php:174
+msgid "You're just one step away from becoming an affiliate!"
+msgstr "تنها یه مرحله تا تبدیل شدن به بازاریاب باقی مانده است!"
+
+#: plugin-options/settings-options.php:222
+msgid ""
+"You've selected the affiliate registration form. Your users will only be "
+"able to register as affiliates using this form. It is displayed by default "
+"in Affiliate Dashboard page, but you can print it anywhere you prefer on "
+"your website using the dedicated shortcode"
+msgstr ""
+"شما فرم ثبت نام بازاریابان را انتخاب کرده اید. کاربران شما فقط با استفاده از "
+"این فرم قادر خواهند بود به عنوان بازاریاب ثبت نام کنند. به طور پیش فرض در "
+"صفحه داشبورد بازاریاب نمایش داده می شود، اما می توانید با استفاده از کد "
+"کوتاه اختصاصی آن را در هر جایی که در وب سایت خود ترجیح می دهید چاپ کنید"
+
+#: plugin-options/settings-options.php:221
+msgid ""
+"You've selected the default registration form. The affiliate registration "
+"fields selected below will be added to the default form that you are using "
+"to let your users register. If you're using the default WooCommerce "
+"registration form, you'll find it on My Account page. You'll have just one "
+"registration form for both your users and affiliates, in one place."
+msgstr ""
+"فرم پیش فرض ثبت نام را انتخاب کرده اید. فیلدهای ثبت نام وابسته که در زیر "
+"انتخاب شده اند ، به فرم پیش فرض اضافه می شوند که از آنها برای اجازه ثبت نام "
+"کاربران خود استفاده می کنید. اگر از فرم ثبت نام پیش فرض WooCommerce استفاده "
+"می کنید ، آن را در صفحه حساب من پیدا خواهید کرد. شما فقط یک فرم ثبت نام برای "
+"کاربران و بازاریاب ها در یک مکان خواهید داشت."
+
+#. translators: 1. Affiliate token.
+#: templates/shortcodes/link-generator.php:41
+msgid "Your affiliate ID is: <strong>%s</strong>"
+msgstr "شناسه بازاریابی شما : <strong>%s</strong>"
+
+#. translators: 1. Referral link.
+#: templates/shortcodes/link-generator.php:48
+msgid "Your referral URL is: <strong class=\"copy-target\">%s</strong>"
+msgstr "آدرس ارجاع شما: <strong class=\"copy-target\">%s</strong>"
+
+#: includes/class.yith-wcaf-affiliate-handler.php:406
+msgid "Your request has been processed correctly"
+msgstr "درخواست شما با موفقیت پردازش شد."
+
+#: templates/shortcodes/registration-form.php:239
+msgid ""
+"Your request has been registered and it is awaiting administrators approval!"
+msgstr "درخواست شما ثبت شد منتظر تایید مدیر باشید."
