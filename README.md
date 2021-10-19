@@ -19,5 +19,6 @@
 - [فایل ترجمه فارسی افزونه ی WPQA - The WordPress Questions And Answers Plugin](https://github.com/amirshnll/PO-wordpress-translate/raw/main/wpqa-fa_IR.po)
 - [فایل ترجمه فارسی افزونه checkout files upload woocommerce](https://github.com/amirshnll/PO-wordpress-translate/raw/main/checkout-files-upload-woocommerce-fa_IR.po)
 - [فایل ترجمه فارسی افزونه YITH WooCommerce Affiliates](https://github.com/amirshnll/PO-wordpress-translate/raw/main/yith-woocommerce-affiliates-fa_IR.po)
+- [فایل ترجمه فارسی افزونه wp sponsors](https://github.com/amirshnll/PO-wordpress-translate/raw/main/wp-sponsors-fa_IR.po)
   
 </div>
